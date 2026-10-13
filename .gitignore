@@ -10,3 +10,4 @@ git-upload-status.json
 remote-verify.log
 workspace-local-verify.log
 workspace-remote-verify.log
+scripts/__pycache__/

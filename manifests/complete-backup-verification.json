@@ -1,0 +1,97 @@
+{
+  "state": "complete_verified_workspace_snapshot",
+  "verified_utc": "2026-10-13T19:47:12.286581+00:00",
+  "latest_capture_utc": "2026-10-13T19:38:36.953601+00:00",
+  "repository": "EsmailELBoBDev2/Vela",
+  "branch": "research-backup",
+  "data_commit": "2f7041308b55a538eea1580f5c6a41da66875bf3",
+  "verified_parts": 425,
+  "verified_archive_bytes": 14101470199,
+  "captured_entries": 638567,
+  "unique_restored_paths": 636835,
+  "unique_file_or_hardlink_paths": 633705,
+  "verification": "All baseline parts independently downloaded and SHA256 matched to fully verified local archive; entire supplemental and final overlay archives independently downloaded and every member/hash verified remotely.",
+  "target_restore_tests": [
+    {
+      "project": "Vela",
+      "restored_head": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+      "expected_head": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+      "working_tree_clean": true,
+      "helper_sha256": "b903733ae7ee146fbb49c1d71fc4563860089d438c6a7bd737e4e6e83be03456",
+      "source": "Files and Git bundles downloaded directly from verified remote archive; actual original projects untouched"
+    },
+    {
+      "project": "cairodrive",
+      "restored_head": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+      "expected_head": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+      "working_tree_clean": true,
+      "helper_sha256": "b903733ae7ee146fbb49c1d71fc4563860089d438c6a7bd737e4e6e83be03456",
+      "source": "Files and Git bundles downloaded directly from verified remote archive; actual original projects untouched"
+    }
+  ],
+  "standalone_git_bundle_tests": [
+    {
+      "repository": "Osmand",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "Vela",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "cairodrive",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "comaps",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "organicmaps",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "rea",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "tools/blutter",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "tools/blutter/dartsdk/v3.12.2",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "tools/blutter/dartsdk/v3.9.2",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "tools/blutter-dart313",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "tools/blutter-dart313/dartsdk/v3.13.5",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "tools/rea-source-candidate",
+      "verified_against_empty_repository": true
+    },
+    {
+      "repository": "tools/research/owasp-mastg",
+      "verified_against_empty_repository": true
+    }
+  ],
+  "sensitive_exclusions": [
+    "Account/login credentials and authenticated model session state/logs",
+    ".android/debug.keystore and associated runtime lock"
+  ],
+  "scope_exclusions": [
+    "Duplicate backup preparation/restore-test copies",
+    "Nonregular process/runtime objects",
+    "Operating system image and live process memory outside workspace"
+  ],
+  "research_complete": false,
+  "automatic_future_uploads": false
+}

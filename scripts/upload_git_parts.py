@@ -19,7 +19,7 @@ def push():
 push()
 while pending:
  batch=pending[:8];pending=pending[8:]
- run('git','add','--',*[p['path'] for p in batch]);run('git','commit','-m',f"Archive research backup parts: {len(parts)-len(pending)}/{len(parts)}")
+ run('git','add','--sparse','--',*[p['path'] for p in batch]);run('git','commit','-m',f"Archive research backup parts: {len(parts)-len(pending)}/{len(parts)}")
  push();tracked.update(p['path'] for p in batch)
  if options.delete_staging_after_push:
   for p in batch:

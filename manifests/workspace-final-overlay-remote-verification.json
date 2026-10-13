@@ -1,0 +1,23 @@
+{
+  "verified_utc": "2026-10-13T19:43:07.555722+00:00",
+  "group": "workspace-final-overlay",
+  "data_commit": "2f7041308b55a538eea1580f5c6a41da66875bf3",
+  "verification_method": "SHA256-verified complete remote archive; each part downloaded at recorded immutable published commit",
+  "remote_part_sha256_all_verified": true,
+  "archive_member_sha256_all_verified": true,
+  "verified_parts": 1,
+  "verified_members": 1037,
+  "verified_bytes": 32793696,
+  "parts": [
+    {
+      "path": "payloads/workspace-final-overlay.tar.gz.001.part",
+      "bytes": 32793696,
+      "sha256": "ef55aa792bd572d3849dea802aec69071f6131fed37245bc483e6d5a0651206c",
+      "verified_commit": "2f7041308b55a538eea1580f5c6a41da66875bf3"
+    }
+  ],
+  "selective_remote_restore_prefixes": [
+    ""
+  ],
+  "selective_restore_destination": "/workspace/work/complete-backup/remote-final-overlay-restore-test"
+}
