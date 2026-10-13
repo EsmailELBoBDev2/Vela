@@ -7,3 +7,4 @@ split-parts.log
 git-parts-verify.log
 git-upload.log
 git-upload-status.json
+remote-verify.log

@@ -45,8 +45,14 @@
   "release_repository": "EsmailELBoBDev2/Vela",
   "release_url": null,
   "original_lfs_block": "GitHub denied new LFS objects for public fork; creating an independent repository was denied by integration",
-  "release_id": 411970823,
+  "release_id": null,
   "total_parts": 159,
   "failed_release_attempt": "cairodrive-research-backup-20261013T211124",
-  "release_upload_failure": "uploads.github.com returned401 while Git and metadata API work"
+  "release_upload_failure": "uploads.github.com returned401 while Git and metadata API work",
+  "total_archive_bytes": 5202099433,
+  "upload_completed_utc": "2026-10-13T18:42:57.194021+00:00",
+  "all_remote_parts_verified": true,
+  "verified_data_commit": "1a84217416c6d186ee576cee4d55e364ba1448ea",
+  "verification_receipt": "manifests/remote-verification.json",
+  "empty_failed_draft_removed": true
 }
