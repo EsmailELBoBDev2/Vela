@@ -1,0 +1,17 @@
+{
+  "group": "workspace-final-overlay",
+  "files": 1037,
+  "uncompressed_bytes": 383224825,
+  "parts": [
+    {
+      "path": "payloads/workspace-final-overlay.tar.gz.001.part",
+      "bytes": 32793696,
+      "sha256": "ef55aa792bd572d3849dea802aec69071f6131fed37245bc483e6d5a0651206c"
+    }
+  ],
+  "file_manifest": "manifests/workspace-final-overlay-files.jsonl.gz",
+  "changed_during_read": [],
+  "capture_utc": "2026-10-13T19:38:36.953601+00:00",
+  "restore_order": "Last, after workspace-supplement; completes public fixtures and decompiler outputs previously misclassified by basename and captures fresh research updates",
+  "duration_seconds": 7
+}

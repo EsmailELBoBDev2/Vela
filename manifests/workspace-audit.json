@@ -1302,5 +1302,88 @@
     }
   ],
   "capture_atomic": false,
-  "system_image_reproducibility": "Package inventory only outside /workspace; credentials and authenticated model state intentionally excluded."
+  "system_image_reproducibility": "Package inventory only outside /workspace; credentials and authenticated model state intentionally excluded.",
+  "exclusion_corrections": {
+    "restored_in_final_overlay": [
+      {
+        "path": "Osmand/keystores/debug.keystore",
+        "sha256": "f7a20e86e20099a01d0023ff8a9bb5684a496f091593d1c768c639d2424a22f0",
+        "proof": "https://raw.githubusercontent.com/osmandapp/Osmand/1e848561a6c01c0366c816fd7d805292618ab13b/keystores/debug.keystore",
+        "reason": "Exact immutable public upstream fixture/config; not private runtime credentials"
+      },
+      {
+        "path": "comaps/android/app/comaps-debug.keystore",
+        "sha256": "2879814301449e55af4f8e3cbd3a21471ad5114864802c3c9265ff694dc70aba",
+        "proof": "https://raw.githubusercontent.com/comaps/comaps/7c3fe2ab3c24355c2ec9cfd3ed205a8ed33ceb42/android/app/comaps-debug.keystore",
+        "reason": "Exact immutable public upstream fixture/config; not private runtime credentials"
+      },
+      {
+        "path": "organicmaps/android/app/debug.keystore",
+        "sha256": "1a011bf8ae17fee3654b89db3c2f190201cb479faa6180e7236e1cde7c58e892",
+        "proof": "https://raw.githubusercontent.com/organicmaps/organicmaps/14ef2a3fb8966a3e6707cd8c73098421fe35c030/android/app/debug.keystore",
+        "reason": "Exact immutable public upstream fixture/config; not private runtime credentials"
+      },
+      {
+        "path": "rea/.npmrc",
+        "sha256": "7151cf397def0c2cb0ab65643701d27d335a72c90f775675b5f826bc7005818a",
+        "proof": "https://raw.githubusercontent.com/morluto/rea/3b0ea590fcc876fa017946f4cec009d653f02b38/.npmrc",
+        "reason": "Exact immutable public upstream fixture/config; not private runtime credentials"
+      },
+      {
+        "path": "tools/rea-source-candidate/.npmrc",
+        "sha256": "7151cf397def0c2cb0ab65643701d27d335a72c90f775675b5f826bc7005818a",
+        "proof": "https://raw.githubusercontent.com/morluto/rea/3b0ea590fcc876fa017946f4cec009d653f02b38/.npmrc",
+        "reason": "Exact immutable public upstream fixture/config; not private runtime credentials"
+      },
+      {
+        "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/recovery/simple/classes5.dex/sources/defpackage/auth.json",
+        "sha256": "c7086e412e7aba94d73d579d240511ddba5f5ea038f593b47a17e849265682e6",
+        "proof": "Verified JADX decompiler class JSON schema and APK-derived artifact path; class name auth is not account auth.json",
+        "reason": "Decompiler output mistakenly caught by broad basename exclusion; include as static application evidence"
+      },
+      {
+        "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/recovery/fallback/classes5.dex/sources/defpackage/auth.json",
+        "sha256": "c7086e412e7aba94d73d579d240511ddba5f5ea038f593b47a17e849265682e6",
+        "proof": "Verified JADX decompiler class JSON schema and APK-derived artifact path; class name auth is not account auth.json",
+        "reason": "Decompiler output mistakenly caught by broad basename exclusion; include as static application evidence"
+      },
+      {
+        "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/recovery/normal/classes5.dex/sources/defpackage/auth.json",
+        "sha256": "c7086e412e7aba94d73d579d240511ddba5f5ea038f593b47a17e849265682e6",
+        "proof": "Verified JADX decompiler class JSON schema and APK-derived artifact path; class name auth is not account auth.json",
+        "reason": "Decompiler output mistakenly caught by broad basename exclusion; include as static application evidence"
+      },
+      {
+        "path": "tools/mitmproxy-venv/lib/python3.12/site-packages/tornado/test/test.key",
+        "sha256": "2c95ec86909e3299af80778674140159a44c2b8c8422f31a82e81d40572f0c74",
+        "proof": "https://raw.githubusercontent.com/tornadoweb/tornado/v6.5.5/tornado/test/test.key",
+        "reason": "Byte-identical public Tornado TLS test fixture; included in final overlay, not an account/private signing key"
+      },
+      {
+        "path": "tools/specialized-venv/lib/python3.12/site-packages/cmake/data/share/cmake-4.4/Templates/Windows/Windows_TemporaryKey.pfx",
+        "sha256": "a957fb8c8a3e3e7b1b8d2c58e97e02759b61cd7cbecca409c0763c8d6d9691f4",
+        "proof": "https://raw.githubusercontent.com/Kitware/CMake/v4.4.0/Templates/Windows/Windows_TemporaryKey.pfx",
+        "reason": "Byte-identical public CMake test/template fixture, not account signing material"
+      }
+    ],
+    "already_preserved_in_baseline": [
+      {
+        "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/members/base.apk/com/google/api/client/googleapis/google.p12",
+        "reason": "Authentication/private signing material; excluded from public backup"
+      },
+      {
+        "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/resources/base.apk/unknown/com/google/api/client/googleapis/google.p12",
+        "reason": "Authentication/private signing material; excluded from public backup"
+      },
+      {
+        "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/smali/unknown/com/google/api/client/googleapis/google.p12",
+        "reason": "Authentication/private signing material; excluded from public backup"
+      }
+    ],
+    "remaining_sensitive_workspace_file_exclusions": [
+      ".android/debug.keystore",
+      ".android/debug.keystore.lock"
+    ],
+    "explanation": "Public source/default fixture files and APK decompiler class JSONs are not account credentials; corrected after artifact/schema and public upstream verification. Original local debug private key and model account/session state stay excluded."
+  }
 }

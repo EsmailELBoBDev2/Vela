@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import argparse,pathlib,json,gzip,hashlib,tarfile,urllib.request,time,datetime,subprocess,os
 ROOT=pathlib.Path(__file__).resolve().parents[1]
-a=argparse.ArgumentParser();a.add_argument('--group',required=True);a.add_argument('--commit');a.add_argument('--extract-prefix',action='append',default=[]);a.add_argument('--destination');a=a.parse_args();dest=pathlib.Path(a.destination).resolve() if a.destination else None
+a=argparse.ArgumentParser();a.add_argument('--group',required=True);a.add_argument('--commit');a.add_argument('--follow-upload',action='store_true');a.add_argument('--extract-prefix',action='append',default=[]);a.add_argument('--destination');a=a.parse_args();dest=pathlib.Path(a.destination).resolve() if a.destination else None
 if dest:
  dest.mkdir(parents=True,exist_ok=True)
  if any(dest.iterdir()):raise ValueError('Extraction test destination must be empty')
@@ -10,7 +10,16 @@ class Remote:
  def __init__(self):self.i=0;self.data=b'';self.pos=0;self.proofs=[]
  def next(self):
   if self.i==len(m['parts']):return False
-  p=m['parts'][self.i];url=f"https://raw.githubusercontent.com/EsmailELBoBDev2/Vela/{commit}/{p['path']}"
+  p=m['parts'][self.i];part_commit=commit
+  if a.follow_upload:
+   deadline=time.time()+600
+   while True:
+    status=json.loads((ROOT/'git-upload-status.json').read_text());part_commit=status['commit']
+    exists=subprocess.run(['git','cat-file','-e',part_commit+':'+p['path']],cwd=ROOT,stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL).returncode==0
+    if exists:break
+    if time.time()>deadline:raise TimeoutError('Uploader did not publish next part: '+p['path'])
+    time.sleep(2)
+  url=f"https://raw.githubusercontent.com/EsmailELBoBDev2/Vela/{part_commit}/{p['path']}"
   for attempt in range(4):
    try:
     with urllib.request.urlopen(url,timeout=120) as f:data=f.read(p['bytes']+1)
@@ -19,7 +28,7 @@ class Remote:
    except Exception:
     if attempt==3:raise
     time.sleep(5)
-  self.proofs.append(p);self.i+=1;self.data=data;self.pos=0;print(json.dumps({'group':a.group,'remote_parts_verified':self.i,'total_parts':len(m['parts'])}),flush=True);return True
+  self.proofs.append(dict(p,verified_commit=part_commit));self.i+=1;self.data=data;self.pos=0;print(json.dumps({'group':a.group,'remote_parts_verified':self.i,'total_parts':len(m['parts'])}),flush=True);return True
  def read(self,n=-1):
   if n<0:n=1024*1024
   out=bytearray()
@@ -57,5 +66,5 @@ with gzip.open(ROOT/m['file_manifest'],'rt') as rows,tarfile.open(fileobj=r,mode
  assert next(rows,None) is None
 while r.read(1024*1024):pass
 assert count==m['files'] and len(r.proofs)==len(m['parts'])
-receipt={'verified_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'group':a.group,'data_commit':commit,'remote_part_sha256_all_verified':True,'archive_member_sha256_all_verified':True,'verified_parts':len(r.proofs),'verified_members':count,'verified_bytes':sum(p['bytes'] for p in r.proofs),'parts':r.proofs,'selective_remote_restore_prefixes':a.extract_prefix,'selective_restore_destination':str(dest) if dest else None}
+receipt={'verified_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'group':a.group,'data_commit':json.loads((ROOT/'git-upload-status.json').read_text())['commit'] if a.follow_upload else commit,'verification_method':'SHA256-verified complete remote archive; each part downloaded at recorded immutable published commit','remote_part_sha256_all_verified':True,'archive_member_sha256_all_verified':True,'verified_parts':len(r.proofs),'verified_members':count,'verified_bytes':sum(p['bytes'] for p in r.proofs),'parts':r.proofs,'selective_remote_restore_prefixes':a.extract_prefix,'selective_restore_destination':str(dest) if dest else None}
 (ROOT/'manifests'/f'{a.group}-remote-verification.json').write_text(json.dumps(receipt,indent=2)+'\n');print(json.dumps({'state':'full_remote_archive_verified','group':a.group,'parts':len(r.proofs),'members':count,'bytes':receipt['verified_bytes']}),flush=True)

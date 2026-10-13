@@ -1,0 +1,18 @@
+[
+  {
+    "project": "Vela",
+    "restored_head": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+    "expected_head": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+    "working_tree_clean": true,
+    "helper_sha256": "b903733ae7ee146fbb49c1d71fc4563860089d438c6a7bd737e4e6e83be03456",
+    "source": "Files and Git bundles downloaded directly from verified remote archive; actual original projects untouched"
+  },
+  {
+    "project": "cairodrive",
+    "restored_head": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+    "expected_head": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+    "working_tree_clean": true,
+    "helper_sha256": "b903733ae7ee146fbb49c1d71fc4563860089d438c6a7bd737e4e6e83be03456",
+    "source": "Files and Git bundles downloaded directly from verified remote archive; actual original projects untouched"
+  }
+]
