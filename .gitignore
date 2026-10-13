@@ -1,0 +1,6 @@
+payloads/
+.upload.lock
+upload*.log
+uploader.log
+upload-status.json
+upload-success.json
