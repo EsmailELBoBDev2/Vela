@@ -11,7 +11,7 @@ def command(args):
  return r.stdout
 parts=[]
 for group in INDEX['groups']:parts+=json.loads((P/'manifests'/f'{group}.json').read_text())['parts']
-release=json.loads(command(['gh','api',f'repos/{REPO}/releases/tags/{TAG}']));RID=release['id']
+release=next(r for r in json.loads(command(['gh','api',f'repos/{REPO}/releases'])) if r['tag_name']==TAG);RID=release['id']
 def assets():return json.loads(command(['gh','api',f'repos/{REPO}/releases/{RID}/assets','--paginate']))
 def upload(rec):
  name=pathlib.Path(rec['path']).name;existing={x['name']:x for x in assets()}
