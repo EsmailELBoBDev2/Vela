@@ -1,0 +1,26 @@
+{
+  "group": "latest-overlay",
+  "files": 593,
+  "uncompressed_bytes": 364260056,
+  "parts": [
+    {
+      "path": "payloads/latest-overlay.tar.gz.001.part",
+      "bytes": 21787191,
+      "sha256": "b5be8a4320e7b28d4d89383a81a145a11b7cafaa91fc5010cf676fae982dd35d"
+    }
+  ],
+  "file_manifest": "manifests/latest-overlay-files.jsonl.gz",
+  "changed_during_read": [],
+  "exclusions": [
+    {
+      "path": "/workspace/cairodrive-research/continuity/state",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    },
+    {
+      "path": "/workspace/cairodrive-research/continuity/logs",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    }
+  ],
+  "duration_seconds": 42,
+  "snapshot_scope": "Per-file capture of live research, not a stopped/atomic application transaction; original inputs immutable. Reconcile fresh checkpoints before restoring native projects."
+}

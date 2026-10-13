@@ -1,0 +1,51 @@
+{
+  "all_groups_verified": true,
+  "exact_file_hashes_verified": true,
+  "runtime_credential_screening_passed": true,
+  "hardlink_aliases_verified": true,
+  "groups": [
+    {
+      "group": "google-apk",
+      "verified_members": 305309,
+      "compressed_bytes": 1281026417,
+      "captured_live_changes": 0
+    },
+    {
+      "group": "google-native",
+      "verified_members": 169895,
+      "compressed_bytes": 355095258,
+      "captured_live_changes": 0
+    },
+    {
+      "group": "google-other",
+      "verified_members": 536,
+      "compressed_bytes": 9375130,
+      "captured_live_changes": 0
+    },
+    {
+      "group": "inputs",
+      "verified_members": 45,
+      "compressed_bytes": 2643941941,
+      "captured_live_changes": 0
+    },
+    {
+      "group": "research-state",
+      "verified_members": 91,
+      "compressed_bytes": 15210606,
+      "captured_live_changes": 0
+    },
+    {
+      "group": "scratch-and-tool-fixes",
+      "verified_members": 24995,
+      "compressed_bytes": 875662890,
+      "captured_live_changes": 0
+    },
+    {
+      "group": "latest-overlay",
+      "verified_members": 593,
+      "compressed_bytes": 21787191,
+      "captured_live_changes": 0
+    }
+  ],
+  "note": "Checks captured bytes; not semantic analysis or VM completeness."
+}

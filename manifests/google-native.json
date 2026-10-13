@@ -1,0 +1,26 @@
+{
+  "group": "google-native",
+  "files": 169895,
+  "uncompressed_bytes": 1600518463,
+  "parts": [
+    {
+      "path": "payloads/google-native.tar.gz.001.part",
+      "bytes": 355095258,
+      "sha256": "1eb6b5302d825b1b0c6119e0cec9055cfadf595da0f16b93b2089701dea28a15"
+    }
+  ],
+  "file_manifest": "manifests/google-native-files.jsonl.gz",
+  "changed_during_read": [],
+  "exclusions": [
+    {
+      "path": "/workspace/cairodrive-research/continuity/state",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    },
+    {
+      "path": "/workspace/cairodrive-research/continuity/logs",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    }
+  ],
+  "duration_seconds": 70,
+  "snapshot_scope": "Per-file capture of live research, not a stopped/atomic application transaction; original inputs immutable. Reconcile fresh checkpoints before restoring native projects."
+}

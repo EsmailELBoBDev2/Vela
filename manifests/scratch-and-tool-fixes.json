@@ -1,0 +1,31 @@
+{
+  "group": "scratch-and-tool-fixes",
+  "files": 24995,
+  "uncompressed_bytes": 1924179125,
+  "parts": [
+    {
+      "path": "payloads/scratch-and-tool-fixes.tar.gz.001.part",
+      "bytes": 536870912,
+      "sha256": "217d550f15275d22398ac449435440654e86c5b4c89562634998c41cd15f1cd7"
+    },
+    {
+      "path": "payloads/scratch-and-tool-fixes.tar.gz.002.part",
+      "bytes": 338791978,
+      "sha256": "e5bd124e8c50069be0cc3f7f0f97ebe03834b482d0ec7f27b5c77c20185cbeb8"
+    }
+  ],
+  "file_manifest": "manifests/scratch-and-tool-fixes-files.jsonl.gz",
+  "changed_during_read": [],
+  "exclusions": [
+    {
+      "path": "/workspace/cairodrive-research/continuity/state",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    },
+    {
+      "path": "/workspace/cairodrive-research/continuity/logs",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    }
+  ],
+  "duration_seconds": 34,
+  "snapshot_scope": "Per-file capture of live research, not a stopped/atomic application transaction; original inputs immutable. Reconcile fresh checkpoints before restoring native projects."
+}

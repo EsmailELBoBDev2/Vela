@@ -1,0 +1,26 @@
+{
+  "group": "research-state",
+  "files": 91,
+  "uncompressed_bytes": 20850608,
+  "parts": [
+    {
+      "path": "payloads/research-state.tar.gz.001.part",
+      "bytes": 15210606,
+      "sha256": "693dad970ebc9c5a31fd15c72c5e2310d5ce99bb27d783823e2badf6f7212b82"
+    }
+  ],
+  "file_manifest": "manifests/research-state-files.jsonl.gz",
+  "changed_during_read": [],
+  "exclusions": [
+    {
+      "path": "/workspace/cairodrive-research/continuity/state",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    },
+    {
+      "path": "/workspace/cairodrive-research/continuity/logs",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    }
+  ],
+  "duration_seconds": 1,
+  "snapshot_scope": "Per-file capture of live research, not a stopped/atomic application transaction; original inputs immutable. Reconcile fresh checkpoints before restoring native projects."
+}

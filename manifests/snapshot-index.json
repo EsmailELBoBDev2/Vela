@@ -1,0 +1,48 @@
+{
+  "created_at_cairo": "2026-10-13T20:53:56.403178+03:00",
+  "target_repository": "EsmailELBoBDev2/Vela",
+  "target_branch": "research-backup",
+  "private_required": false,
+  "groups": [
+    "google-apk",
+    "google-native",
+    "google-other",
+    "inputs",
+    "research-state",
+    "scratch-and-tool-fixes",
+    "latest-overlay"
+  ],
+  "total_captured_file_entries": 501464,
+  "total_uncompressed_bytes": 13876557683,
+  "total_lfs_payload_bytes": 5202099433,
+  "part_limit_bytes": 536870912,
+  "live_changed_files": [],
+  "research_status": "incomplete; current Google Maps; no exhaustion gate passed",
+  "snapshot_consistency": "Captured each file with independent archive-byte hash. Zero files changed during individual reads; capture is NOT a global stopped-VM transaction. Research continued during capture. Reconcile lane checkpoints and rebuild projects from originals if interrupted database state is detected.",
+  "credential_exclusions": [
+    "continuity/state/**",
+    "continuity/logs/**",
+    "auth.json",
+    ".env",
+    ".env.local",
+    "credentials.json",
+    "id_rsa",
+    "id_ed25519",
+    ".netrc",
+    ".npmrc"
+  ],
+  "other_exclusions": [
+    ".git administration directories",
+    "Python __pycache__",
+    "runtime nonregular objects"
+  ],
+  "restore_notice": "Native model history/session DBs are intentionally excluded. Restore checkpoints, authenticate normally, start a new research thread/team; do not trust old PIDs.",
+  "completed_at_cairo": "2026-10-13T20:59:03.750012+03:00",
+  "overlay_captured_at_cairo": "2026-10-13T21:02:56.807581+03:00",
+  "public_upload_explicitly_authorized": true,
+  "storage_backend": "GitHub release assets; LFS denied for public fork",
+  "release_tag": "cairodrive-research-backup-20261013T211124",
+  "release_repository": "EsmailELBoBDev2/Vela",
+  "release_url": "https://github.com/EsmailELBoBDev2/Vela/releases/tag/cairodrive-research-backup-20261013T211124",
+  "original_lfs_block": "GitHub denied new LFS objects for public fork; creating an independent repository was denied by integration"
+}

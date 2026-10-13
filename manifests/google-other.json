@@ -1,0 +1,26 @@
+{
+  "group": "google-other",
+  "files": 536,
+  "uncompressed_bytes": 126196734,
+  "parts": [
+    {
+      "path": "payloads/google-other.tar.gz.001.part",
+      "bytes": 9375130,
+      "sha256": "3a96de368b2e2f870db0851b45381d765faf327164ee9c245ec6264c528c6c58"
+    }
+  ],
+  "file_manifest": "manifests/google-other-files.jsonl.gz",
+  "changed_during_read": [],
+  "exclusions": [
+    {
+      "path": "/workspace/cairodrive-research/continuity/state",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    },
+    {
+      "path": "/workspace/cairodrive-research/continuity/logs",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    }
+  ],
+  "duration_seconds": 1,
+  "snapshot_scope": "Per-file capture of live research, not a stopped/atomic application transaction; original inputs immutable. Reconcile fresh checkpoints before restoring native projects."
+}

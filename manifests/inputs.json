@@ -1,0 +1,46 @@
+{
+  "group": "inputs",
+  "files": 45,
+  "uncompressed_bytes": 4847172611,
+  "parts": [
+    {
+      "path": "payloads/inputs.tar.gz.001.part",
+      "bytes": 536870912,
+      "sha256": "9c4ec8599f945d3bd2ecd270019c0742313c71aca5481682954cad458a405738"
+    },
+    {
+      "path": "payloads/inputs.tar.gz.002.part",
+      "bytes": 536870912,
+      "sha256": "306ca6bff41935129aaaf2506205b64a92f84b34ba28e354ebad4c8778741bcc"
+    },
+    {
+      "path": "payloads/inputs.tar.gz.003.part",
+      "bytes": 536870912,
+      "sha256": "c9fd7faf5d93e1cf24c511aff8bc61a92e2744618550132d77f5dea608f9c2f0"
+    },
+    {
+      "path": "payloads/inputs.tar.gz.004.part",
+      "bytes": 536870912,
+      "sha256": "9af60d153a00e6953f8cfe69e0571b1b82fa5792fb81c237cbfa38ba09d871b8"
+    },
+    {
+      "path": "payloads/inputs.tar.gz.005.part",
+      "bytes": 496458293,
+      "sha256": "be5eaa1cc6aad18d358c8207bf2c19b7bee0ab7eb720c1adb70e6784d5c08bd0"
+    }
+  ],
+  "file_manifest": "manifests/inputs-files.jsonl.gz",
+  "changed_during_read": [],
+  "exclusions": [
+    {
+      "path": "/workspace/cairodrive-research/continuity/state",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    },
+    {
+      "path": "/workspace/cairodrive-research/continuity/logs",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    }
+  ],
+  "duration_seconds": 77,
+  "snapshot_scope": "Per-file capture of live research, not a stopped/atomic application transaction; original inputs immutable. Reconcile fresh checkpoints before restoring native projects."
+}

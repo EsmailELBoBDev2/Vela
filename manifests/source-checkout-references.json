@@ -1,0 +1,27 @@
+[
+  {
+    "workspace_folder": "Vela",
+    "commit": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+    "dirty": false
+  },
+  {
+    "workspace_folder": "cairodrive",
+    "commit": "3c8fc207652e7a4fabfe53089de6ccace308ac61",
+    "dirty": false
+  },
+  {
+    "workspace_folder": "comaps",
+    "commit": "7c3fe2ab3c24355c2ec9cfd3ed205a8ed33ceb42",
+    "dirty": false
+  },
+  {
+    "workspace_folder": "organicmaps",
+    "commit": "14ef2a3fb8966a3e6707cd8c73098421fe35c030",
+    "dirty": false
+  },
+  {
+    "workspace_folder": "Osmand",
+    "commit": "1e848561a6c01c0366c816fd7d805292618ab13b",
+    "dirty": false
+  }
+]

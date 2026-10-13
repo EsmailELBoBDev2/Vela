@@ -1,0 +1,36 @@
+{
+  "group": "google-apk",
+  "files": 305309,
+  "uncompressed_bytes": 5357640803,
+  "parts": [
+    {
+      "path": "payloads/google-apk.tar.gz.001.part",
+      "bytes": 536870912,
+      "sha256": "74704803db5228bf620dd9d7c64d6f6f3e207f548068a98b71b50e4c7cd4a39e"
+    },
+    {
+      "path": "payloads/google-apk.tar.gz.002.part",
+      "bytes": 536870912,
+      "sha256": "a6a8ac7e8ab5ec49cae7d18e1d0a9b428583ced40871a70d90853094715a2772"
+    },
+    {
+      "path": "payloads/google-apk.tar.gz.003.part",
+      "bytes": 207284593,
+      "sha256": "978d30fa0d02fe480dc9058fd9911b71fc88591ca2c0a564709ff189c4a55fdf"
+    }
+  ],
+  "file_manifest": "manifests/google-apk-files.jsonl.gz",
+  "changed_during_read": [],
+  "exclusions": [
+    {
+      "path": "/workspace/cairodrive-research/continuity/state",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    },
+    {
+      "path": "/workspace/cairodrive-research/continuity/logs",
+      "reason": "Runtime/model databases or logs may carry account/session configuration; restore from sanitized checkpoints and documented new login."
+    }
+  ],
+  "duration_seconds": 163,
+  "snapshot_scope": "Per-file capture of live research, not a stopped/atomic application transaction; original inputs immutable. Reconcile fresh checkpoints before restoring native projects."
+}
