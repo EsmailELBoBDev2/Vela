@@ -63,7 +63,7 @@ def verify(group,destination=None):
  joined.close();assert n==m['files'];return {'group':group,'verified_members':n,'compressed_bytes':sum(x['bytes'] for x in m['parts']),'captured_live_changes':len(m.get('changed_during_read',[]))}
 
 def main():
- ap=argparse.ArgumentParser();ap.add_argument('--verify-only',action='store_true');ap.add_argument('--destination');ap.add_argument('--group',action='append');a=ap.parse_args()
+ ap=argparse.ArgumentParser();ap.add_argument('--verify-only',action='store_true');ap.add_argument('--destination');ap.add_argument('--group',action='append');ap.add_argument('--restore-system-links',action='store_true');a=ap.parse_args()
  if not a.verify_only and not a.destination:ap.error('Choose --verify-only or --destination NEW_EMPTY_WORKSPACE')
  dest=pathlib.Path(a.destination).resolve() if a.destination else None
  if dest:
@@ -77,6 +77,16 @@ def main():
   runtime=dest/'cairodrive-research/continuity';history=runtime/'restored-runtime-history';history.mkdir(exist_ok=True)
   for f in list(runtime.glob('*.pid'))+[runtime/'standalone-enabled',runtime/'research-thread.json',runtime/'worker-active.json',runtime/'watchdog-status.json',runtime/'guard-status.json']:
    if f.exists():f.rename(history/f.name)
+  audit_path=REPO/'manifests/workspace-audit.json'
+  if audit_path.exists():
+   audit=json.loads(audit_path.read_text());environment=dest/'workspace-environment';environment.mkdir(exist_ok=True);(environment/'workspace-audit.json').write_text(json.dumps(audit,indent=2)+'\n')
+   if a.restore_system_links:
+    for link in audit.get('external_system_links',[]):
+     rel=pathlib.PurePosixPath(link['path'])
+     if rel.is_absolute() or '..' in rel.parts:raise ValueError('Unsafe external-link destination')
+     target=dest/rel;target.parent.mkdir(parents=True,exist_ok=True)
+     if not target.parent.resolve().is_relative_to(dest):raise ValueError('External-link parent escapes restored workspace')
+     if not target.exists() and not target.is_symlink():target.symlink_to(link['resolved_target'])
   print('Restored exact archived bytes, then disarmed runtime and retained old process/thread records. Log in normally and reconcile checkpoints before starting new workers.')
  return results
 if __name__=='__main__':main()

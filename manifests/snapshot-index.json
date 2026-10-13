@@ -10,10 +10,11 @@
     "inputs",
     "research-state",
     "scratch-and-tool-fixes",
-    "latest-overlay"
+    "latest-overlay",
+    "workspace-supplement"
   ],
-  "total_captured_file_entries": 501464,
-  "total_uncompressed_bytes": 13876557683,
+  "total_captured_file_entries": 637530,
+  "total_uncompressed_bytes": 27989351813,
   "total_lfs_payload_bytes": 5202099433,
   "part_limit_bytes": 33554432,
   "live_changed_files": [],
@@ -46,13 +47,17 @@
   "release_url": null,
   "original_lfs_block": "GitHub denied new LFS objects for public fork; creating an independent repository was denied by integration",
   "release_id": null,
-  "total_parts": 159,
+  "total_parts": 424,
   "failed_release_attempt": "cairodrive-research-backup-20261013T211124",
   "release_upload_failure": "uploads.github.com returned401 while Git and metadata API work",
-  "total_archive_bytes": 5202099433,
+  "total_archive_bytes": 14068676503,
   "upload_completed_utc": "2026-10-13T18:42:57.194021+00:00",
-  "all_remote_parts_verified": true,
+  "all_remote_parts_verified": false,
   "verified_data_commit": "1a84217416c6d186ee576cee4d55e364ba1448ea",
   "verification_receipt": "manifests/remote-verification.json",
-  "empty_failed_draft_removed": true
+  "empty_failed_draft_removed": true,
+  "scope": "Workspace project/source/history/toolchain/dependency/cache backup plus full research; credential/session/runtime/backup-duplicate exclusions listed in workspace-audit.json",
+  "upload_state": "extended_workspace_uploading",
+  "workspace_supplement_local_verified": true,
+  "workspace_standalone_bundles_verified": 13
 }

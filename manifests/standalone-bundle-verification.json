@@ -1,0 +1,54 @@
+[
+  {
+    "repository": "Osmand",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "Vela",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "cairodrive",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "comaps",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "organicmaps",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "rea",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "tools/blutter",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "tools/blutter/dartsdk/v3.12.2",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "tools/blutter/dartsdk/v3.9.2",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "tools/blutter-dart313",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "tools/blutter-dart313/dartsdk/v3.13.5",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "tools/rea-source-candidate",
+    "verified_against_empty_repository": true
+  },
+  {
+    "repository": "tools/research/owasp-mastg",
+    "verified_against_empty_repository": true
+  }
+]

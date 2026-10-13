@@ -8,3 +8,5 @@ git-parts-verify.log
 git-upload.log
 git-upload-status.json
 remote-verify.log
+workspace-local-verify.log
+workspace-remote-verify.log
