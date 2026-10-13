@@ -15,7 +15,7 @@
   "total_captured_file_entries": 501464,
   "total_uncompressed_bytes": 13876557683,
   "total_lfs_payload_bytes": 5202099433,
-  "part_limit_bytes": 536870912,
+  "part_limit_bytes": 33554432,
   "live_changed_files": [],
   "research_status": "incomplete; current Google Maps; no exhaustion gate passed",
   "snapshot_consistency": "Captured each file with independent archive-byte hash. Zero files changed during individual reads; capture is NOT a global stopped-VM transaction. Research continued during capture. Reconcile lane checkpoints and rebuild projects from originals if interrupted database state is detected.",
@@ -40,10 +40,13 @@
   "completed_at_cairo": "2026-10-13T20:59:03.750012+03:00",
   "overlay_captured_at_cairo": "2026-10-13T21:02:56.807581+03:00",
   "public_upload_explicitly_authorized": true,
-  "storage_backend": "GitHub release assets; LFS denied for public fork",
-  "release_tag": "cairodrive-research-backup-20261013T211124",
+  "storage_backend": "Regular Git, verified 32MiB archive chunks; LFS/release upload unavailable with current integration",
+  "release_tag": null,
   "release_repository": "EsmailELBoBDev2/Vela",
-  "release_url": "https://github.com/EsmailELBoBDev2/Vela/releases/tag/cairodrive-research-backup-20261013T211124",
+  "release_url": null,
   "original_lfs_block": "GitHub denied new LFS objects for public fork; creating an independent repository was denied by integration",
-  "release_id": 411970823
+  "release_id": 411970823,
+  "total_parts": 159,
+  "failed_release_attempt": "cairodrive-research-backup-20261013T211124",
+  "release_upload_failure": "uploads.github.com returned401 while Git and metadata API work"
 }

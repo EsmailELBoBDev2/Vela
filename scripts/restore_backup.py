@@ -26,7 +26,7 @@ def digest_file(path):
 def verify(group,destination=None):
  m=json.loads((REPO/'manifests'/f'{group}.json').read_text());parts=[REPO/x['path'] for x in m['parts']]
  for f,rec in zip(parts,m['parts']):
-  if f.stat().st_size!=rec['bytes'] or digest_file(f)!=rec['sha256']:raise ValueError('LFS part integrity failure:'+str(f))
+  if f.stat().st_size!=rec['bytes'] or digest_file(f)!=rec['sha256']:raise ValueError('Archive part integrity failure:'+str(f))
  joined=Joined(parts);n=0;restored=[];seen_hashes={}
  with gzip.open(REPO/m['file_manifest'],'rt') as rows,tarfile.open(fileobj=joined,mode='r|gz') as archive:
   for member in archive:

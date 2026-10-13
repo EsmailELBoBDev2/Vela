@@ -5,8 +5,58 @@
   "parts": [
     {
       "path": "payloads/google-native.tar.gz.001.part",
-      "bytes": 355095258,
-      "sha256": "1eb6b5302d825b1b0c6119e0cec9055cfadf595da0f16b93b2089701dea28a15"
+      "bytes": 33554432,
+      "sha256": "6f915a9a362dd3283e90e9b6ec448c7e94a8399475ecd96d4403cdb6ac998f01"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.002.part",
+      "bytes": 33554432,
+      "sha256": "28fb5de132ec22c25c8ca8dc43d40eec91296326ca9b975d3c8affcd56b5fdf1"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.003.part",
+      "bytes": 33554432,
+      "sha256": "4985e5d61f2e76ffc929355130646fe807ccd098be56e72c5f68d02d9a00b22e"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.004.part",
+      "bytes": 33554432,
+      "sha256": "5354e54a1348424dc6e9f84fbb992198cbd55bfe126c9981fc0d4e623ba3e238"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.005.part",
+      "bytes": 33554432,
+      "sha256": "cbfebded9afa7577320029baeec85309fdb7943efdd76de633ac15ecf1320332"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.006.part",
+      "bytes": 33554432,
+      "sha256": "41ec2cd3c8de360f87cb733b635ba03229ebf457261dbac4f1e17419df13a509"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.007.part",
+      "bytes": 33554432,
+      "sha256": "35aead16178c65d6dc419f8e1400a34cd3bbf2b696b6c2700309f9db1503ba55"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.008.part",
+      "bytes": 33554432,
+      "sha256": "64e2447d04670680c1df5ffb2b03589afc9904311ccebc506a2e6e9437de498d"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.009.part",
+      "bytes": 33554432,
+      "sha256": "1d06b52123cd85ee59b17dd0b4b1c888c8efdfe5e40ba82dcb99b18dd65aaa54"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.010.part",
+      "bytes": 33554432,
+      "sha256": "db303113cda5e86d93e502e46f90f21b467dc7f62d3dddbf1d2c85a385a57e8e"
+    },
+    {
+      "path": "payloads/google-native.tar.gz.011.part",
+      "bytes": 19550938,
+      "sha256": "b549dbfe345b7bb797b01a9448054387746e2ade81f007d467ba855e2c760d85"
     }
   ],
   "file_manifest": "manifests/google-native-files.jsonl.gz",
