@@ -1,0 +1,137 @@
+{
+  "capture_utc": "20261014T174438Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 5043324,
+      "sha256": "bff2af60a297bd77635322df66626d6a785938bb1fb6ae127d72380b7c8d5631"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-unresolved_nominal_target.json",
+      "sha256": "d5fbec74218519f430e06e20ba32144acef906a790466e48f08d31e842ea99da",
+      "bytes": 797453
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/analyzed-dex-provenance.json",
+      "sha256": "c449940be0d0fb6094d7d041fa80626de98f71f402be339998b85a676b1a88b8",
+      "bytes": 1184568
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/CHECKPOINT.json",
+      "sha256": "711b6790be6260a856acc5e0e1b1a8d53b3680184d577474bc3a733f139ea09f",
+      "bytes": 762254
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/unreviewed-dex-unit-list.jsonl",
+      "sha256": "1ca136404eaaef04117965bf473e3807e2e841d8b16646aa4e7352714e633705",
+      "bytes": 84151266
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/OFFLINE-CONNECTIONRESULT-MODEL-BATCH-REVIEW.md",
+      "sha256": "2f8ba8ff30836e37e16617afcc9fbedf831c80cd1dbd25c03ce6901460ef75fa",
+      "bytes": 2924
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-analyzed.json",
+      "sha256": "2bc452ca6d092a054b1f7c21e34ac736aca5f3892c9b10b600c5e2f9b00e4bee",
+      "bytes": 557171
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-model-batch-coverage-run.json",
+      "sha256": "dc5885349555a47deef013da31e49b6089a54ad6e85564e161072fa81ffdeeac",
+      "bytes": 41518
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/selected-root-invoke-register-proof.json",
+      "sha256": "057b77414c11477f51210f93fe99c06a09f84cf8fcd1dbaee53b8cd408197bfd",
+      "bytes": 5772188
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-original-byte-integrity.json",
+      "sha256": "1c122a3c4e6dfb2b03171f68cf3f022d60e86f0065f5d8b8df0622a4c37e4a45",
+      "bytes": 2262228
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-job-reconciliation.json",
+      "sha256": "08044ad0f2b8af903a60dcb8d22919c53b427617f092d5848908de99b572587e",
+      "bytes": 32756
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/analyzed-dex-unit-list.json",
+      "sha256": "216388ed4a54a263d0cbf0828202279183ee4b48b1b596b61c011f99bc8ff16b",
+      "bytes": 831044
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-unreviewed_code.json",
+      "sha256": "88074eb7e36a4b0389cc045d92228221b633374947edbfd19a84683bae6a5c88",
+      "bytes": 426385
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-audit.json",
+      "sha256": "158beb7d9301dfd2a98b4eec75eac4f2941547cb3744c864410d2612fdcd92a5",
+      "bytes": 2182765
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-model-batch-job-reconciliation.json",
+      "sha256": "774e99c38effa27f7f1b2937af0a3a426eafb496762f3739173a79292a0c4b08",
+      "bytes": 32804
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/coverage-snapshot.json",
+      "sha256": "e9447a9d33831ce66439fdc4f63d3a1fd2b22d5c5df0ce0a0ec1ec2b302e280c",
+      "bytes": 44442
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/connectionresult-iteration-child-independent-audit.json",
+      "sha256": "18c3c2f70082375e90d3df224b0ec0e3645a00b803ff81c5469fcb5cd8b97dc5",
+      "bytes": 1777
+    },
+    {
+      "path": "cairodrive-research/continuity/periodic_backup.py",
+      "sha256": "ae146113975f1955af5ec098292c06ab112da04b43b5575b0225c236e50aa1d8",
+      "bytes": 7419
+    },
+    {
+      "path": "cairodrive-research/continuity/guard.py",
+      "sha256": "1bb71e276a41f928dab3500e6769db4610530618274e669592999941ae47eb91",
+      "bytes": 1793
+    },
+    {
+      "path": "cairodrive-research/continuity/FALLBACK_AND_STEPS.md",
+      "sha256": "f304ae7e1a6a53c31e527349c75f076e92f2c0421e61179ea0511eef82ef8e04",
+      "bytes": 6821
+    },
+    {
+      "path": "cairodrive-research/continuity/resume-prompt.txt",
+      "sha256": "98d21bcc03d78be610bcd6b16aa0693aa4766e1d30c6cfcbc06b708c50d6aafa",
+      "bytes": 8025
+    },
+    {
+      "path": "cairodrive-research/continuity/guard-before-periodic-20261014T174257Z.py",
+      "sha256": "5e3c043e95d7eaea381cadfca297bbb9bb5370cb5d51bcea75bf16e1656d991b",
+      "bytes": 1027
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/RESUME_STATE.json",
+      "sha256": "711b6790be6260a856acc5e0e1b1a8d53b3680184d577474bc3a733f139ea09f",
+      "bytes": 762254
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/THROUGHPUT_CHECKPOINT.json",
+      "sha256": "3b04ee37a7f8e6db8ce6ac992095aa129c193ac316a98d89e0b5f152a0361357",
+      "bytes": 6035
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/progress.md",
+      "sha256": "f476f77c9eb112e00cf2b643756b83fda46f5e97da76a1a5946213a42f0d7219",
+      "bytes": 1204061
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "bff2af60a297bd77635322df66626d6a785938bb1fb6ae127d72380b7c8d5631",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
