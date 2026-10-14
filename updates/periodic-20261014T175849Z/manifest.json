@@ -1,0 +1,947 @@
+{
+  "capture_utc": "20261014T175849Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 14362040,
+      "sha256": "2dc43769f4ce610349480b2559f8e149459fa0951916d514f7b606ffe62394cb"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-unresolved_nominal_target.json",
+      "sha256": "37f71bf0b0cd643ca9663030eab14b3ed57034011e30b765306bf75ef7838120",
+      "bytes": 804370
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-all-opcode-proof.json",
+      "sha256": "f44259cf78a16318f98b84f878a5f5ff217668b2c9a4688a4f49afcd25d7bcd3",
+      "bytes": 15480
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-config-retained-invoke-identity-audit.json",
+      "sha256": "50970ea254ed678fe87cce103000a99a2f791f7d1633563db24ca14cfded6bfb",
+      "bytes": 1040
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-key-validation-batch-attribution.json",
+      "sha256": "dea7e03dad2c398cae697396a6e86fd2059c53377e06c251461c2f08c3040b61",
+      "bytes": 163
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-key-validation-batch-review-plan.json",
+      "sha256": "1583e55b9b8e8edec52703249071d5026e9dda30dd5701e87e8dc3f14d9c4ddc",
+      "bytes": 1225
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-field-effects.json",
+      "sha256": "9fccdd519bfb82cf98231b2aec0094b739de1613036e923667685c68d293126d",
+      "bytes": 374
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-coverage-run.json",
+      "sha256": "0613ec9835e1c09cc698fe46d4a08566483301d1e7ed3b4b0aff6c0e3a4dce3d",
+      "bytes": 41868
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-attribution.json",
+      "sha256": "8055a3cdb58d712ec7685b18e08e247a88de8634c5fe660cd4b2ebbf773c4f3d",
+      "bytes": 143
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/analyzed-dex-provenance.json",
+      "sha256": "c758c1b2c2c06f5495b18f261690db2dcb9bec5c2e318ba2519d386a3a84e665",
+      "bytes": 1191691
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-review-plan.json",
+      "sha256": "2b43c4f3cf3dd18eb4a60e7b90349d4bb532373214ddf238275f179f6249fb93",
+      "bytes": 1622
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/CHECKPOINT.json",
+      "sha256": "9b461962329fbc089106353f25b4fd472125440505a2a142d6ee744039457c1c",
+      "bytes": 767383
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/unreviewed-dex-unit-list.jsonl",
+      "sha256": "0bf699ab88a4209cade17188c7e0357fdf64333dd4d46c8c6c3fa28eff0c8f51",
+      "bytes": 84143643
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-validation-dedup-audit.json",
+      "sha256": "b3bb8006c31e9d062746ceb9cf9cf32e28dd043cffca425676f1a4e733e694ac",
+      "bytes": 953
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-controlflow.json",
+      "sha256": "a0628b0b99f3d4c70de89b2ae947c3763dc8772c734a67d20f7b88e12b69f0a5",
+      "bytes": 6163
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-selected-instructions.jsonl",
+      "sha256": "acb0e9ff964e70cb141d298b19d532324f0c42525aa27e3e7cd4848005a203da",
+      "bytes": 27402
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/GPU-SETTING-KEY-VALIDATION-BATCH-REVIEW.md",
+      "sha256": "1fb73cc666bfc3d3ae0300ed57089622053cf2931154ccb530bc306a045aa1e0",
+      "bytes": 1863
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-semantic-ledger.jsonl",
+      "sha256": "57846ba73c1f1e0d19197bd3bae08c28da583d5cd7f152bbe3811664d3f09765",
+      "bytes": 2805
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/connectionresult-status-apk-independent-audit.json",
+      "sha256": "2c25da5f292d6d6a01884d63d6e32a1a3224bc7d8837e0df03d06a8c5f009893",
+      "bytes": 1222
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-key-validation-batch-semantic-ledger.jsonl",
+      "sha256": "b3dcb96b2c200f761a198dc2b60b26c246435c3e7f951e3247feccd532bfef11",
+      "bytes": 3460
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-analyzed.json",
+      "sha256": "05fcff855df5052b13be704cbf7343116e9b6577e9293093c46b0ee856c2767e",
+      "bytes": 561437
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-key-validation-batch-credit-overlaps.json",
+      "sha256": "4d2b1daf41b6cac58e01e5fb235f57102bc2f118981fbc7fa7fc36727fab6b63",
+      "bytes": 1461
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/setting-logging-iteration-dex-child-audit.json",
+      "sha256": "216be8f8c8761c7e056716899a3f585e665722c069110fa9b881d0603557c586",
+      "bytes": 2231
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-job-reconciliation.json",
+      "sha256": "ec6110e075894a296d8cc49f606d7b9e5c64a3dd56ff1e303709a8fbca5b3c98",
+      "bytes": 32804
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-key-validation-batch-selected-instructions.jsonl",
+      "sha256": "325df569a5e26b83a58b258f4fcad6c35f13513894005e73ff181515b4675b2f",
+      "bytes": 11127
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/selected-root-invoke-register-proof.json",
+      "sha256": "dc3e2c984cf34660bdd9b766229b94cd374241664d051f5c15c6415df892be13",
+      "bytes": 5786904
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-original-byte-integrity.json",
+      "sha256": "fd093dfddde0c95435d2a33361459713ac2d078793c895ec89e67b4c12c53db2",
+      "bytes": 2273448
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-key-validation-batch-controlflow.json",
+      "sha256": "f4bb75f680be5b7d206fa662f41a55689976a166539d2b49133cc85fb5ce5301",
+      "bytes": 5240
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-selected-instructions.jsonl",
+      "sha256": "c86c9be241cc5967b993730c6169fab746e7c425b1692ed69be4b95028822c6b",
+      "bytes": 9468
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-job-reconciliation.json",
+      "sha256": "13eb3291808c93291bce8eb8a65e1436eca70e2321450658354a89b63e0fb7c4",
+      "bytes": 32756
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/connectionresult-status-native-independent-audit.json",
+      "sha256": "70ad4dcf863fd65ec684ff2c73bc3518295030bc4c7e89e3a9817e5ca119dd15",
+      "bytes": 380
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-field-effects.json",
+      "sha256": "9fccdd519bfb82cf98231b2aec0094b739de1613036e923667685c68d293126d",
+      "bytes": 374
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-review-plan.json",
+      "sha256": "fb62ca32188f6125dbaeff6e715c202b8b0174ae94855193ede4b2489486f82b",
+      "bytes": 987
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/connectionresult-status-feature-independent-audit.json",
+      "sha256": "8eda1a381b89f88042debf72d2d4d842857d716f9d16c7bbcb3b899e8723a152",
+      "bytes": 1160
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-key-validation-batch-all-opcode-proof.json",
+      "sha256": "87a5a98332b18e6df3a4b84c3c0da3f04b9fd4f06b3c3969c0bfe1718ab9dea5",
+      "bytes": 7668
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-credit-overlaps.json",
+      "sha256": "c958257f0877e1d291a3f4e71c0321029b6d6d73d82b4314046fc75ddfad84e2",
+      "bytes": 51
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-key-validation-batch-job-reconciliation.json",
+      "sha256": "5b2ac0167c636ee346b5e296efbb212a5916547d07ab535cdcc9043665d6d558",
+      "bytes": 32804
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-attribution.json",
+      "sha256": "15ff0aba05f34dab4f47344718bb2da7c78856f3984c6475658b0fa0819e9fa6",
+      "bytes": 188
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/analyzed-dex-unit-list.json",
+      "sha256": "38316598c59dba45b8c28324739710baf09a5c12e4f80b1f6a433aa878f9136a",
+      "bytes": 835612
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/OFFLINE-LOGGING-OUTLINES-BATCH-REVIEW.md",
+      "sha256": "503504294daed1f8b35e79e4c6d98d165c8bd9c8218f2e19516dee8f3a3f95fa",
+      "bytes": 1663
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-semantic-ledger.jsonl",
+      "sha256": "3157de009d0ef4e27a7031770cf35d769aed0dae102fe30ac95ff1d24e1cf73f",
+      "bytes": 2722
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-credit-overlaps.json",
+      "sha256": "29f759a3b868ea246a83cbdca61a7e25f42d34e97e680c5775591ee2127d640b",
+      "bytes": 51
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-all-opcode-proof.json",
+      "sha256": "7896ddaf17c8e19a13a91ae19f23878c4df7f76da08cc3eab2e2f609f64c8054",
+      "bytes": 6078
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-unreviewed_code.json",
+      "sha256": "faca9cdaa0f716bcb465e44a1a8350f98412dd2828ac3e140c03e06f5c7054b4",
+      "bytes": 423203
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-helper-frontier-audit.json",
+      "sha256": "60f0fa52988e2b4f2ff1cb7ba0adf50ee62fa7fdb64edeb12d9e7b999aa68c08",
+      "bytes": 2192375
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/coverage-snapshot.json",
+      "sha256": "29a8e2d6fed9e295d93b99ea1d964f3b489512a11f57b226c4676a87b1d4ec01",
+      "bytes": 44812
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/setting-logging-iteration-native-child-audit.json",
+      "sha256": "d578776f9e271045b76ea383b2f68c77f1a562c904ccba9cbf24d32b3d619d3c",
+      "bytes": 369
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-connectionresult-status-batch-coverage-run.json",
+      "sha256": "c0757c3140f0f9e16c05eff065cc7e9e7a3bc62295cb659b075bfaef2989495f",
+      "bytes": 41666
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-job-reconciliation.json",
+      "sha256": "c95b5b3c9404dad1ea5d137c25e7a6e62bccb6d6dbe716c166b610b31134e0c2",
+      "bytes": 32804
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/gpu-setting-key-validation-batch-field-effects.json",
+      "sha256": "0d66cba28cc177b21f2eb6724f06313430e9acba3cca2b576a1ae16d9db3e3f2",
+      "bytes": 4853
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/offline-logging-outlines-batch-controlflow.json",
+      "sha256": "64dc695cdaa4defd6c26d263b6014982c8195978b839856e4c0f5c95967c11c8",
+      "bytes": 3438
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/OFFLINE-CONNECTIONRESULT-STATUS-BATCH-REVIEW.md",
+      "sha256": "bd4ff67e7f20dde0a8db98f1966d9e41c255ba652ba749d9e4ffe2f109d4292c",
+      "bytes": 2372
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/snapshot-source-completeness-audit.json",
+      "sha256": "4272b8ab1901f109d74381ee80f6bd361b892f75881345e116e3a90d85a9e550",
+      "bytes": 119984
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/scripts/verify_selected_invoke_registers.py",
+      "sha256": "7ebcc3c5c5f137acbf4eba5290b061723eeef39fd2482cf8a34b0403e874ddc7",
+      "bytes": 12484
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/supervisor/scripts/refresh_semantic_snapshot.py",
+      "sha256": "6c61c97a016bff78368f86e17d655e9e0475fce53a2f9292170191fe22ac4245",
+      "bytes": 27045
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-hash-encoding-initialization-semantic-reviews.jsonl",
+      "sha256": "778570c6ef263d1a473334c155e5753b667c6d9c7ef405941475e0c15a21c7ec",
+      "bytes": 9941
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-base64url-encoder-original-controlflow-verification.json",
+      "sha256": "0a64fccdb71ce169cba25908a0b2a006b9a5cfa51a7769dcece354979db07cfb",
+      "bytes": 84032
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-hash-encoding-initialization-remaining-method-identities.json",
+      "sha256": "18cd1744edc8b4a8f7de2465c51dccd376032b836e76325460a70c9315d4cd9f",
+      "bytes": 31318
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/storage-hash-batch-start.json",
+      "sha256": "ac91cd1b39ec665545a41e7829d2b148b326a28d9cfea2b973eb5bb5d9776d94",
+      "bytes": 54
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/RECOVERY_RESUME_CHECKPOINT.json",
+      "sha256": "0c70f9e016b575868041549de0bdd52a30000fb0c6be4583699acd1aad3ee3c7",
+      "bytes": 36431
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-base64url-encoder-remaining-method-identities.json",
+      "sha256": "b9a89b0590bda237626c26aff2b721f318e31a1e89603edb369dadccd39bde0b",
+      "bytes": 37342
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/reviewed-invoke-register-verification.json",
+      "sha256": "2f7936b9b43a703f03675a7cc424cd5e95c3fb1bf43283f889348c4505502f50",
+      "bytes": 521175
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/resume-lane-new-semantic-method-ids.txt",
+      "sha256": "a70b964b2c5161b7dbd0b63402384af36d96520167cfb39139a4a54bdf797979",
+      "bytes": 164565
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-hash-encoding-initialization-original-read.txt",
+      "sha256": "a04f0c6d8f5e9026a93733a053eec31718659b7af8ac5e3d13657740cdda08e9",
+      "bytes": 6650
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-base64url-encoder-semantic-reviews.jsonl",
+      "sha256": "dea485c588d5bdbbc511c7499d52bea40c94f5a6940db15434151e7f39ace77a",
+      "bytes": 10586
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-hash-encoding-initialization-batch-checkpoint.json",
+      "sha256": "4b2b13edc6cc0571d31a10f4e1e03d0e9dd0e24d7ab88a81a7abc4281c15aaa5",
+      "bytes": 1274
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-base64url-encoder-original-read.txt",
+      "sha256": "101d7268e342f21e6e140e1dac110b580c18a0d384fe9291823c0d526dfb7941",
+      "bytes": 9849
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/storage-base64-batch-start.json",
+      "sha256": "93f0203b2de97ea92ae47d18ec2d7beb42f8fb755a47f44b9c67d19157bf95de",
+      "bytes": 29
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-hash-encoding-initialization-method-identities.json",
+      "sha256": "60d43acc93cd34f95729f2f9c94c5808b947c09e2395d906ac2c32d2495ca6a1",
+      "bytes": 6847
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-hash-encoding-initialization-original-controlflow-verification.json",
+      "sha256": "f3f95003bf05d08638f697e078f6510c00bbb626b0a92c1a71d3df69e89b670f",
+      "bytes": 54939
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-base64url-encoder-batch-checkpoint.json",
+      "sha256": "d0456d49f08650e5580ce187194c283f466f72ae1f8883d081193d7e37db3952",
+      "bytes": 1239
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/snapshot-base64url-encoder-method-identities.json",
+      "sha256": "39ffc347283aacdf831959424398b2719782eff4403710483c1a458ec6bcfba8",
+      "bytes": 7166
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/scripts/verify_snapshot_base64url_encoder_operands.py",
+      "sha256": "3274e83571eff1ae4d491f8996ad002390e391d49474dbf837fe14e4aa518fb4",
+      "bytes": 1542
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/scripts/verify_snapshot_hash_encoding_initialization_operands.py",
+      "sha256": "e7d287de3de486929c92bad7b72e7689740b06520ee624e5717712a2a1e61743",
+      "bytes": 1575
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/scripts/verify_snapshot_hash_encoding_initialization_original.py",
+      "sha256": "687f93cc0c0763d840612a3011de8b3635aa7b4073c81dec99185fe27ae00011",
+      "bytes": 7502
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/scripts/verify_reviewed_invoke_registers.py",
+      "sha256": "fece2d3d0f54416cdea1c9ad496903d986ef7337dd9ad9123ba4fa644caacbe2",
+      "bytes": 8147
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/apk/scripts/verify_snapshot_base64url_encoder_original.py",
+      "sha256": "c74bd98d6a967b36250791a495bfd3c2dfb1ef1e83350e412838a07e1117ed11",
+      "bytes": 4698
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/initializer-chat-next8-start.json",
+      "sha256": "fbc3c95007fc68a803c98e1a21df963b4b251798c3dfd9e2815593a18c80b7dc",
+      "bytes": 56
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/refresh_protobuf_chbh_chrb_eight_frontier.py",
+      "sha256": "b0dac62e824b54faf160c8b57aa343c4835e8083b4d94b79baa54213b14c425a",
+      "bytes": 22763
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/CHECKPOINT.md",
+      "sha256": "5a573fdcf0901a6197f7c5de199556d6d1cc25cda5fca795675a3e5324b49927",
+      "bytes": 108454
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/car-overlay-gms-task-original-codeflow.json",
+      "sha256": "fd76b96a88c72d90ab4f52116c8f02f82b3107f368b48306b87a8684d5c3c1b2",
+      "bytes": 1759619
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/HANDOFF.json",
+      "sha256": "17386e04794cf8d87453391f476990543f9f44854d3b23016b0c1435206c3998",
+      "bytes": 775862
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/record_car_overlay_protobuf_chbh_chrb_eight_bodies.py",
+      "sha256": "ddf21f28aaf7b5e93353be39ab13fe3ffdd50e6f4b15bc205eeb17d3a76eea7a",
+      "bytes": 5557
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/refresh_protobuf_chat_chjm_eight_frontier.py",
+      "sha256": "9b450424d3d093e9643fc8ad1ccad9109ec5847f6740dc9f23f8352a76a03eaa",
+      "bytes": 22699
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/record_car_overlay_protobuf_chat_chjm_eight_bodies.py",
+      "sha256": "168a9c931cc5757058b02de7127a2d769c9d4f1a971c5ee70283ac3a2e85b3f8",
+      "bytes": 5185
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/initializer-chnu-next5-selection.json",
+      "sha256": "81149a59d1d7b92b1ff8e46d4a622447ceb5498bd028a9c2c88122c6e025fe3c",
+      "bytes": 4261
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/car-overlay-protobuf-chat-chjm-eight-bodies-reviewed-ids.json",
+      "sha256": "880b775232c524f4aa0ccce2554c75257c291893dcba3d8fcb4a132cfe2e243c",
+      "bytes": 901
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/protobuf-registry-static-initializer-obligations.json",
+      "sha256": "c39c3401ee1a5a18bfd703b4b6318097c242cb8cefa7ccec26bca5a07ff73815",
+      "bytes": 98418
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/initializer-chbh-next8-completion.json",
+      "sha256": "c4767b53444c6f745186ac4dc35517ddf5dc1285f9ca48c54ca36b31b9ee3728",
+      "bytes": 1932
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/initializer-chat-next8-completion.json",
+      "sha256": "ebdadf4b2db82d7aa55a38072430433bceea1892e43732f77da06c20820c99d1",
+      "bytes": 1917
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/initializer-chbh-next8-start.json",
+      "sha256": "32dbc61d258663d0969943172ee2e308a29104060afbe69b7d1a44e32c10fe3a",
+      "bytes": 56
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/semantic-ledger.jsonl",
+      "sha256": "e9088e97f792c471dc557cbbee060dc64abcd47763732df5ecca57831450644c",
+      "bytes": 6159180
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/chat-constructor-wording-correction.json",
+      "sha256": "2705e84f6d38d184a84e46c2f9f618c1bd77b558256c996f587c982d470a0040",
+      "bytes": 656
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/initializer-chbh-next7-selection.json",
+      "sha256": "cca0766b0d2b8f5b54bc0afea06b53ed429e9eb78dc500bffa3de9ebd877ab08",
+      "bytes": 5966
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/ledger-validation.json",
+      "sha256": "cd42a01c253534f3020397921a869ed1b354c620da219e86b586afd23edb2b4b",
+      "bytes": 262
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/initializer-chat-next5-selection.json",
+      "sha256": "b80bfcd71fe75bae381d12715d3b0af894a64ed194a115305cb065c44c7d7a59",
+      "bytes": 4265
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/car-overlay-protobuf-chbh-chrb-eight-bodies-reviewed-ids.json",
+      "sha256": "285d3aa3845cf97ea70c4d00913de110630a09e15a5f93ccd96bd21001fa3d68",
+      "bytes": 905
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/initializer-chnu-next8-start.json",
+      "sha256": "818c4f5a7367eae61d5c73a23947334d36b5ed4612e0b4fba5ec0fc0629f3f87",
+      "bytes": 55
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/features/protobuf-field-wire-direct-obligations.json",
+      "sha256": "7b86b3acad291e3ace6000ab5eef9fb6f1b9fb0f45c2ebe64a37b5bd87bf6f18",
+      "bytes": 1336529
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-twentysixth-registry.json",
+      "sha256": "ad5415e420cb25dbfdb927f577f62b2630474c1655116e5fd6a21dc6e1e01fab",
+      "bytes": 3610
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/function-recovery-counts.json",
+      "sha256": "1ed038ae55910dd5b8875c83bcc9d8b5b86357b61dd6c2436a5b7cd9c2a36b19",
+      "bytes": 4605
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-escape-source-import-proof.json",
+      "sha256": "9cfc51b90329161a26d74360d4e2fe045de6a9596d3e2a2e2688c873f05a825f",
+      "bytes": 1315
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/recovered-unreviewed-function-list.jsonl",
+      "sha256": "6dda135632a1c5de9e458f24246bbed03820125d497f1c1a77361bc5954c9e26",
+      "bytes": 68424201
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-readonly-job-reconciliation-905.json",
+      "sha256": "c0ad31b19d2a9eb9974895f861ef7f825007661f3079372706862195b2314c5e",
+      "bytes": 2185
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/CHECKPOINT.md",
+      "sha256": "0f1047ca0463181fc24463eccf88e680a996e6d6b287eb19a055cb207421563f",
+      "bytes": 187739
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-twentyfifth-execution.json",
+      "sha256": "239e943a70ec9e8386418766bcce74a0b6d18bf1f9b8b6595216d44a0344e45e",
+      "bytes": 380
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-twentyfifth-registry.json",
+      "sha256": "a025eb3ce459b2a4ae541baf9ea93d13c9c47c246c7c1e2e6237c0afb8e3a46f",
+      "bytes": 3610
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-jobs.json",
+      "sha256": "b8ccf3f55653540df2fe4de376579e7f084919c67e2779be62d8970fc926f7d2",
+      "bytes": 21222
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-twentyfifth-branch-proof.json",
+      "sha256": "3caf7ed0ea818f30a916a5aba26630f1e3ce3ecf112559fc1e33929a8d736b5f",
+      "bytes": 11941
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/NATIVE-SQLITE-INIT-CALLBACK-TWENTYFIFTH-LOCAL-REVIEW.md",
+      "sha256": "7d211e893046b394b528f631eea6d220bec0f950dd2d137c6d2fe07f796f6303",
+      "bytes": 7281
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/NATIVE-SQLITE-INIT-CALLBACK-TWENTYSIXTH-LOCAL-REVIEW.md",
+      "sha256": "47d4766eb0a994a33126ce830cb31dd41c1923749385576e5c7ea82cbafb342f",
+      "bytes": 8027
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/function-recovery-status.jsonl",
+      "sha256": "decfb7778e715bcc227da9dc392b9675a56bc758eedf498d36838c1bc21f5c36",
+      "bytes": 71734018
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-semantic-credits.jsonl",
+      "sha256": "1be4f36a4c8b0aae0dd557fb23b375ec1c1c2b3e58d641775c60109f43bb1854",
+      "bytes": 597900
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-semantic-counts.json",
+      "sha256": "34305af729b08e9cbf5214b49b47d4b474acf7ba67d2f7886a178e1479e716e9",
+      "bytes": 694
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-twentysixth-execution.json",
+      "sha256": "1fbed01efe43f8fa5e4f12f75c26d21c0e90a52aea8258b206ec918b38f763ef",
+      "bytes": 580
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-target-status-905.json",
+      "sha256": "c4673413a5cca1c4ecb6b2ca092a1cc693b7e1066af73d77a94ad9dd983c102c",
+      "bytes": 32326
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-twentyfifth-pending.json",
+      "sha256": "b5041930495214f98b1dbdc2dcb2c92f7fe0ca861e7d9eefea92cbfdf6c5568e",
+      "bytes": 854
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-semantic-status.jsonl",
+      "sha256": "48e7895eee9d431f272de13e94a60ea683a6c88e82fc93e367a9511e17fcadeb",
+      "bytes": 56503704
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-twentysixth-start.json",
+      "sha256": "2814080760baf1c3bda1ae98c3b174384e49465e2a5aef44778f80a05e705be3",
+      "bytes": 60
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-semantic-analyzed-list.jsonl",
+      "sha256": "0b35ea7d3a5fe5a51e5dadae446f400c860fe21f4eb9b8e904023c151f52cc7c",
+      "bytes": 343358
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-semantic-unreviewed-list.jsonl",
+      "sha256": "d74fe7108b6cbeec2aa273e67476366f417cf320784b9715ce6a31ccf00367d8",
+      "bytes": 56160346
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-trim-default-data-proof.json",
+      "sha256": "2060150dd4aa988acd464328ced394e67a5defebf067c0def9f1190688b3e688",
+      "bytes": 1400
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-target-status-910.json",
+      "sha256": "e5fd6f15c7373f0346b6c63ab7bef2f494f463e2408314f3fbf84d532c0255a2",
+      "bytes": 32324
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-sqlite-init-callback-twentysixth-branch-proof.json",
+      "sha256": "b08a0c191a17932a7ec942a6052f67faff80f31db4c4a4f787587908dde5a259",
+      "bytes": 12134
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/native-readonly-job-reconciliation-910.json",
+      "sha256": "6df490d7a6d45f8a5c485eee2d25fb789c333ab3f911bad8f78196cad1eadc16",
+      "bytes": 2192
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/scripts/native-sqlite-init-callback-twentyfifth-branch-proof.py",
+      "sha256": "6ff40367d56ff6d9a865df40de11986045851346148308e10fe469e0ccf5e1f8",
+      "bytes": 2215
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/scripts/extract-isolated-unix-init-callback-twentysixth-helper.py",
+      "sha256": "58dcfe8c27e78190806aa264aa86e89373ccdcfb3d243924400546013fefadec",
+      "bytes": 1790
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/scripts/native-sqlite-init-callback-twentysixth-branch-proof.py",
+      "sha256": "ddf3b168cf6404465ff8446ac27a68e85446d003cefb3e7e34a83191c15fdd4e",
+      "bytes": 2235
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/scripts/native-sqlite-escape-source-import-proof.py",
+      "sha256": "15192b24cc4970738bf1c1f9f5c22abdea0590c39e463e2214ed0f8912457d88",
+      "bytes": 1792
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/scripts/extract-isolated-unix-init-callback-twentyfifth-helper.py",
+      "sha256": "2308f3771d4d8c97551f09ec6145046454dc9228b4252268491a699d438812fe",
+      "bytes": 1790
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/scripts/extract-isolated-unix-init-callback-twentyfifth.py",
+      "sha256": "ba9af511044b3476839ae2b8144477856e08e31a290c420bb85e764a33c65fa2",
+      "bytes": 1754
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/168c8e4-168c8e4.asm",
+      "sha256": "4ec4b16e049fbf596627487230a2a187933d0c3d367fa1cb0982aafc794b6010",
+      "bytes": 729
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/1696b3c-1696b3c.bin",
+      "sha256": "6d041d138a8327fcaed904bf1977688baa5242495fc2b65c4788eff3455ff7de",
+      "bytes": 20
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/1699184-1699184.asm",
+      "sha256": "6da96241abdad56baabe85c5250f575bf6989c18445e579cfdaa4ae8b035be4d",
+      "bytes": 95
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/1696b3c-1696b3c.asm",
+      "sha256": "f777e6f34de264c583602f644437b49922e672b5d5ba0a86b412f0802b31c84e",
+      "bytes": 143
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/10a1888-10a1888.asm",
+      "sha256": "f988a03f529c72ec2af9e653cd194c8d790cf5a75cbda05846742d744fd37a9c",
+      "bytes": 83
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/1699184-1699184.bin",
+      "sha256": "da69d48c0eadaaa464363f5b1a975f3b56db2dd18b9cf443c61762cfbb4808de",
+      "bytes": 12
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/original-byte-evidence.json",
+      "sha256": "e0bac8fb8ab743d00571091f09f474f0578b47f332f6f733d5689ae815affd79",
+      "bytes": 2585
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/1696f5c-1696f5c.asm",
+      "sha256": "354067887650a3e80a7cd0991fb8d172439194b5f0367ed505e12042f5da48bf",
+      "bytes": 61
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/10a1888-10a1888.bin",
+      "sha256": "9068f64b7319dbbf1b78f779e9a09e60c4a97a69ab332def05a3703d2a4a06c8",
+      "bytes": 12
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/168c8e4-168c8e4.bin",
+      "sha256": "3fe7765f38e961b1aca2a839222509fd87af05c7602fe63ec06f12f3313c39dc",
+      "bytes": 84
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-helper-isolated/1696f5c-1696f5c.bin",
+      "sha256": "99a34cf0b9fed67bd5057d15040c6f662f02f87ceb852a455b0e3ca7346204a4",
+      "bytes": 8
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/1698e8c-1698e8c.asm",
+      "sha256": "1018ca49f7787e905257e99392135f05ba911f39274928aba8ab137f10a072c7",
+      "bytes": 83
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/169778c-169778c.asm",
+      "sha256": "f7d28f092b957a4a60c1d9b5f1ab9c30600ca1f953fecc133da39089ce48f4a8",
+      "bytes": 61
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/169778c-169778c.bin",
+      "sha256": "25c31b81948e4282c3595946442bc25398113b66d17648bff42fc435e7ff9312",
+      "bytes": 8
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/1698ec8-1698ec8.bin",
+      "sha256": "4c49ae5f8f8ff26679b5d6e6c1469a77f98c7e3a98b2a89a1050a12e703888bb",
+      "bytes": 12
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/1699e50-1699e50.bin",
+      "sha256": "fe971a29dd8c08be626d66a90fa93e8275af46583efc4ca6a28cc11cec5a600e",
+      "bytes": 12
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/1698e8c-1698e8c.bin",
+      "sha256": "b179ab851cf7d20455bb181627502f18427c3f29598af33ff02b3056450d4022",
+      "bytes": 12
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/1698ec8-1698ec8.asm",
+      "sha256": "f46451298aa18e208e3ff0fa4f2df17e23321b340745d4da176159f581f3f07b",
+      "bytes": 93
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/1696958-1696958.asm",
+      "sha256": "3cc7ae81b0b4d417c2c44233ee0eaac817ab653882591e23f2c3a80e1624a7d0",
+      "bytes": 155
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/original-byte-evidence.json",
+      "sha256": "3cd65cb5f63a674d793ac0eed15cbf09c0e8169eee84be57d36e5011c0c1f885",
+      "bytes": 2585
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/1699e50-1699e50.asm",
+      "sha256": "9586c095f8deba13c4773e8f10aacac4c2a2f61d9fa5466a6a88a01d1ba0593b",
+      "bytes": 83
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentysixth-helper-isolated/1696958-1696958.bin",
+      "sha256": "be2579daa08bd1d2b47197e549940332612b5955b42c9b56d2b32ed4050756f5",
+      "bytes": 16
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-isolated/168a844-168a844.bin",
+      "sha256": "f5915e6f2681d4a6704f96ac7cbf8c8ecf3673fdc38aa26461f62c91e394aa54",
+      "bytes": 512
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-isolated/168b754-168b754.asm",
+      "sha256": "6f549de7a66e6f04947da3645fe811d19d9c55902bbe8ca43a4fc5f57ff8cd7f",
+      "bytes": 4027
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-isolated/168b754-168b754.bin",
+      "sha256": "89399a3f844b0c255cc64968c8466deef5b76ec982455a4669b72fcc94a9f1be",
+      "bytes": 468
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-isolated/168a844-168a844.asm",
+      "sha256": "d99a4396df0d3a713bc1dfb1b7c08f1b07fd88655ab378993751dc6b09a7e4b3",
+      "bytes": 4420
+    },
+    {
+      "path": "cairodrive-research/apps/com.google.android.apps.maps/native-data/unix-init-callback-twentyfifth-isolated/original-byte-evidence.json",
+      "sha256": "960b4d67b3c8db64435ae8e0ce9484796c9253527ab1c0dcde745c4154129291",
+      "bytes": 1026
+    },
+    {
+      "path": "cairodrive-research/continuity/periodic_backup.py",
+      "sha256": "d3c5409177ff21ebecd4384be3806b944c309132fc4f21d34c6e4b40785fc833",
+      "bytes": 7461
+    },
+    {
+      "path": "cairodrive-research/continuity/resume-prompt.txt",
+      "sha256": "59ca7d3e0c9ad14992385190854b381fd6c4af173014f5466b19ba9f5a9aff13",
+      "bytes": 8665
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/RESUME_STATE.json",
+      "sha256": "9b461962329fbc089106353f25b4fd472125440505a2a142d6ee744039457c1c",
+      "bytes": 767383
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/THROUGHPUT_CHECKPOINT.json",
+      "sha256": "1420859aaa80bfa53882e037122963e6fc554eab48eeb202d76794d98286f693",
+      "bytes": 7992
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/progress.md",
+      "sha256": "02b4f3be641a0e0e947bf00245f53034e7b76f0098aca35013cc4d28bfd79fca",
+      "bytes": 1214184
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/THROUGHPUT_PREVIOUS_CHECKPOINT.json",
+      "sha256": "b19741e908983f952f9d3990f1a19dd80e7a8c5f30cc5206be4a5771667e6fb3",
+      "bytes": 8548
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/FID_BSIM_PILOT_HANDOFF.json",
+      "sha256": "7c411ecd5f856bc23ff386fff324a3fae96ebcd28187f1cb83d598665404c203",
+      "bytes": 2116
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1792000373375298130.json",
+      "sha256": "0da906cbc5e52705f0ec8706d8a1b21a21e5d05755571d8b1aa8c5bf4152a09e",
+      "bytes": 738
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1792000269405703861.json",
+      "sha256": "4dbe42a49e31becea5b19bc7056a5a53782f9487a2b30e6e692b274432e29e54",
+      "bytes": 719
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1792000373418943611.json",
+      "sha256": "4cedd87b2cceb8f658528595b1b406e073da8b92ab1d5dbbae2ab3b33f9275fd",
+      "bytes": 738
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1792000452386725603.json",
+      "sha256": "b7d7b4e3775c9a3cf443e8dfec308555d3d125b2f5ac3294db5074fce94e81e7",
+      "bytes": 703
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1792000441427747939.json",
+      "sha256": "b6a0b1c7bf7c856a26c70f80ae8218adb660875e7f3a9be5d707c46f5754f203",
+      "bytes": 718
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1792000446610227516.json",
+      "sha256": "1f2b98da43d0a4b3362d72f0fff3b6e7adba5fa0599bc8899946d72265ddad7f",
+      "bytes": 703
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/official-aar-comparison.json",
+      "sha256": "c51bafaeafd1fe1edb0e83fb65865b22e2bce6a1f25ce6998ba7428436e3f40c",
+      "bytes": 3664
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/STRONG_CANDIDATE_BYTE_VERIFICATION.json",
+      "sha256": "63db5e059ac38c77ad0a46259cc8f1ddd48f2564fade7e4c079c97041db6bf61",
+      "bytes": 924
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/official-110-signatures.tsv",
+      "sha256": "57b0ac7939d2f5ffe9913ad2281b2a5e950b44c6ef5c26ce92fbcecb4acb9191",
+      "bytes": 9735
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/SIGNATURE_MATCH_RESULTS.json",
+      "sha256": "2abd7e42cf2e9314d67070bf618310ff9b29ddb07183f6449792532823cbeafe",
+      "bytes": 52086
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/androidx-signatures.tsv",
+      "sha256": "cc1d718d0e7bb0d492cdc4dc1c99fc837c77b8f9f4d0c47f2cb7e0bf8bfb48b5",
+      "bytes": 10012
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/compare_signatures.py",
+      "sha256": "dc2d6478ccafe5f5e66c040590709acd35ca6e6c46fc289819dbe16270446380",
+      "bytes": 3050
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/INSTRUCTION_DIFFERENCE_PROOF.json",
+      "sha256": "788dc63e313813cb69fff82620e032584ab3e45789a6635a82e94f8151125d3a",
+      "bytes": 1338
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/official-101-signatures.tsv",
+      "sha256": "75272e6eafd8eeb7518957d058ce2280865acd9060a11dbe9b1d30f62e59db6e",
+      "bytes": 10718
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/maven-metadata.xml",
+      "sha256": "ec4bdb5efbc7db9749b9007fac4bc41ea4d8563c7a6bcc244cfbebc101a34164",
+      "bytes": 702
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/scripts/ExportResearchSignatures.java",
+      "sha256": "fd578a39f50841b2403b2dcd4f6b4d4f9095ef2ca27c2fb11f7d1079cdf4d010",
+      "bytes": 2152
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/corpus/graphics-path-1.0.1.so",
+      "sha256": "41e9a793c43a0f4fddb19e33f346bace464f30f888ba7b9eaf96294ea115bfb6",
+      "bytes": 10096
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/corpus/1.0.1.aar",
+      "sha256": "8ca4032b6d79b351f0b59ad4b580eddbb9423e1652f7c958830687f1eee2ec03",
+      "bytes": 39380
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/corpus/graphics-path-1.1.0.so",
+      "sha256": "17ee8d0a8f3c2a7b7b2f0b4e1a93c09e4fbdd1c9bfb335fee238c2767c2c03c1",
+      "bytes": 9952
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/corpus/1.0.1.pom",
+      "sha256": "866fb357c7146f5f7678ad44e4bc6c2823d568defce1ed2805bb6c899606b228",
+      "bytes": 2051
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/corpus/1.1.0.pom",
+      "sha256": "5f190798b00fe8fd49887962f2f9b7aab4315491f9087d8935449399bedbd3de",
+      "bytes": 2233
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/signature-pilot/corpus/1.1.0.aar",
+      "sha256": "d031370d45ba4129a175fe9de913328a512b01a3c267e0eaf6b9b759f35842ae",
+      "bytes": 49094
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "2dc43769f4ce610349480b2559f8e149459fa0951916d514f7b606ffe62394cb",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
