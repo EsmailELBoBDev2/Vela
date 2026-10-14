@@ -1,0 +1,143 @@
+{
+  "created_utc": "20261014T173226Z",
+  "kind": "settings and checkpoint overlay, not full latest research backup",
+  "restore": "Verify archive and each member; extract into /workspace on restored baseline. Do not overwrite live worker config during restore. Authenticate separately; check locks then restart existing guard scripts. Never restore running PID files as live identities. Original targets untouched.",
+  "archive_sha256": "35a6d50725c31cec93de6d16f5dd872f89b26af5a724ce1e1a2234d755d8c213",
+  "members": [
+    {
+      "path": "cairodrive-research/CLOUD_TASK.txt",
+      "sha256": "51371ec6ea4e565e89d1c4c7d26bc6b4fc12717821183ca5b0cf82f67536e0af",
+      "bytes": 788
+    },
+    {
+      "path": "cairodrive-research/GOAL.json",
+      "sha256": "3b4929464f4fdd5e3d376e3056abbd9716422342147190609b3042cbf9dbf481",
+      "bytes": 3859
+    },
+    {
+      "path": "cairodrive-research/PLAN.md",
+      "sha256": "51371ec6ea4e565e89d1c4c7d26bc6b4fc12717821183ca5b0cf82f67536e0af",
+      "bytes": 788
+    },
+    {
+      "path": "cairodrive-research/STATUS.md",
+      "sha256": "445cd2f545fd57edea8e8e423000ba17c5f9a43f6cdee42e25680ea97c1f7ab2",
+      "bytes": 1158
+    },
+    {
+      "path": "cairodrive-research/HANDOFF.md",
+      "sha256": "39f7a437949796e1adc6a86d8fd79ed295f1ecc25b8724cc728a8f70e1db3cce",
+      "bytes": 1703
+    },
+    {
+      "path": "cairodrive-research/COVERAGE_SPEC.md",
+      "sha256": "67713faa851013ebe914aff533e8da6c7175957af3eb404772af10cc03309231",
+      "bytes": 418
+    },
+    {
+      "path": "cairodrive-research/CONTINUITY.md",
+      "sha256": "822d27aa0f59c1ade37666d262e71c8dc13a0b8c46f24fce2950f5dbbc97b560",
+      "bytes": 7327
+    },
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "9d319431589b1d858e03bbed770cd0718afdc3dc51534a10baf96c7fa50b8f38",
+      "bytes": 1794
+    },
+    {
+      "path": "cairodrive-research/continuity/resume-prompt.txt",
+      "sha256": "ebccab3927289af4a3818c588fe01a62e8814bd3245d1b6985b925d21f9c6fd2",
+      "bytes": 7362
+    },
+    {
+      "path": "cairodrive-research/continuity/worker.py",
+      "sha256": "dc1b69ed87bdbb9f216cd519f438c830599057a8fcfc1796116dd382c97e6508",
+      "bytes": 2464
+    },
+    {
+      "path": "cairodrive-research/continuity/watchdog.py",
+      "sha256": "0e817a6c76e8a0e3d265ddfe2f2689cc3d58e60dafa54d9b6cb01799b17d1e9c",
+      "bytes": 1154
+    },
+    {
+      "path": "cairodrive-research/continuity/guard.py",
+      "sha256": "5e3c043e95d7eaea381cadfca297bbb9bb5370cb5d51bcea75bf16e1656d991b",
+      "bytes": 1027
+    },
+    {
+      "path": "cairodrive-research/continuity/checkpoint_loop.py",
+      "sha256": "68f89bc5803406a8123ae8d5a9882421e3c96adfe25819db119be06ed18efc40",
+      "bytes": 714
+    },
+    {
+      "path": "cairodrive-research/continuity/RECOVERY_CHECKPOINT.json",
+      "sha256": "24acbe745c3a68904bf500da7dc081737c4fd6d9298d5743361d4a2ea5eb63ba",
+      "bytes": 2116
+    },
+    {
+      "path": "cairodrive-research/continuity/FALLBACK_AND_STEPS.md",
+      "sha256": "86cb98fada5a75a1381a498d156b38f5dbf7052c999f7e7a901770922dbfa24c",
+      "bytes": 5888
+    },
+    {
+      "path": "cairodrive-research/continuity/TOOL_THROUGHPUT_CONFIG.json",
+      "sha256": "1b53a4849862eebd7eecf87d04ab0ff29023ec1894f1395e093a30bd22980811",
+      "bytes": 708
+    },
+    {
+      "path": "cairodrive-research/continuity/ACCELERATION_AND_RESUME_STATE.json",
+      "sha256": "4ada3ff5a243826dd89590de71655287e0a1bf18bcb29de37cd57f575aed2495",
+      "bytes": 1468
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/THROUGHPUT_CHECKPOINT.json",
+      "sha256": "cb6a6d2c23d562d9c842b402ec76970940e8c5747ad899f52685353f9431504f",
+      "bytes": 8330
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/THROUGHPUT_BASELINE_20261014.json",
+      "sha256": "0de42ce7dcb01f228a686d2a54d067e3ba296b693912f88019052832a8348ce6",
+      "bytes": 7209
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1791998789932117540.json",
+      "sha256": "6a174c4753053cdbbf7d2d3bde86cb7c8e557f7aa7bf52b75d0ca54156cfcd73",
+      "bytes": 541
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1791998772548825331.json",
+      "sha256": "4a82003d56220fd15f0cb4a6ccf41f327abb9571cfd2d7fd868861e86683ceee",
+      "bytes": 409
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/SMOKE_VERIFICATION.json",
+      "sha256": "950df85ca1b8d6fe38ae57014489d6832fb035dcadaab63fa7d3839eb2ce4192",
+      "bytes": 2397
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/smoke-four.json",
+      "sha256": "c7ee429e6082f21d6b5f4a1887258cb0b8a3fd4690b7302f0f95a9125ac156d3",
+      "bytes": 28039
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/smoke-one.json",
+      "sha256": "c7ee429e6082f21d6b5f4a1887258cb0b8a3fd4690b7302f0f95a9125ac156d3",
+      "bytes": 28039
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1791998827355100839.json",
+      "sha256": "cefac2376f851920f6615719969fb12285bc844bf40344ba93714d8b5e898aa3",
+      "bytes": 540
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/tool-run-1791998772421739480.json",
+      "sha256": "07e3bf6e846da8c4fb53ce5ca01557756022cdd9469aa8916aa7062666f039f6",
+      "bytes": 270
+    },
+    {
+      "path": "cairodrive-research/work/speed-audit/bin/research-tool.py",
+      "sha256": "d110da374be14dfb469c9b3ba7c7a37f018fa776ab7ae7a7ae04c37bad5f2d57",
+      "bytes": 2400
+    }
+  ]
+}
