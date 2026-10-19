@@ -1,0 +1,82 @@
+{
+  "capture_utc": "20261019T184019Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 96747,
+      "sha256": "fbe2e0b385b6ea773c9e22cf6f04a03df28448e53037e101d24446336a0265f8"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/CLOUD_TASK.txt",
+      "sha256": "d0f01c499790629adfbdd8938ce098929b40193b50530030a6169c98c32916bc",
+      "bytes": 908
+    },
+    {
+      "path": "cairodrive-research/GOAL.json",
+      "sha256": "f8940eddf27c6ae159e87d1ca644e28ecf1daa65a98840f3f00b8d80dbcc367e",
+      "bytes": 5138
+    },
+    {
+      "path": "cairodrive-research/HANDOFF.md",
+      "sha256": "d0f01c499790629adfbdd8938ce098929b40193b50530030a6169c98c32916bc",
+      "bytes": 908
+    },
+    {
+      "path": "cairodrive-research/PLAN.md",
+      "sha256": "d0f01c499790629adfbdd8938ce098929b40193b50530030a6169c98c32916bc",
+      "bytes": 908
+    },
+    {
+      "path": "cairodrive-research/continuity/open-source-status.json",
+      "sha256": "6a302b027c7ebad9d47995fc3d4ca005ab3b4d2463fd207fea183a1aa039bded",
+      "bytes": 711
+    },
+    {
+      "path": "cairodrive-research/continuity/open-source-thread.json",
+      "sha256": "128b5a50c9792628e3a7535ba6b0a4face82d7a4b3f59084205c37bb08b53701",
+      "bytes": 94
+    },
+    {
+      "path": "cairodrive-research/continuity/open-source-prompt.txt",
+      "sha256": "af3332ce7c3be3d0d1a095a98d9b6ee5ccfb16e5865b3a7b5aa8c752fa3d3903",
+      "bytes": 4434
+    },
+    {
+      "path": "cairodrive-research/continuity/open_source_worker.py",
+      "sha256": "bf49476894b40234d1be25f65cddcf05d155aacbb5bc185dd584186cc157e335",
+      "bytes": 3180
+    },
+    {
+      "path": "cairodrive-research/continuity/worker.py",
+      "sha256": "2a7664d839c29a200918de8ed5efdd10209a5c7e6c0e90bae6208c32dd69e7d5",
+      "bytes": 3800
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/worker.before-open-source-continuous.py",
+      "sha256": "08fa9242f91f08ca0fb5eda9dd7367f641075c86e193810c7b64b9bb725d4b51",
+      "bytes": 3465
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_REV9_DELIVERABLE_BUNDLE.json",
+      "sha256": "a3d61134525ed5b8ff99db4750a3d0a4b1162fb66192517695196e5ad94db309",
+      "bytes": 382596
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_COMPARISON_REV9.json",
+      "sha256": "38ce2dadbc6092d64118096e872ab4fac3179725cde2b3329b911a7ec8b82016",
+      "bytes": 3712
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_CONTINUOUS_LAUNCH.json",
+      "sha256": "7bfe9f5e9f8729c95798b7e9e1747c23a685172beb54bf2f03323c34d1f1aa1b",
+      "bytes": 220
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "fbe2e0b385b6ea773c9e22cf6f04a03df28448e53037e101d24446336a0265f8",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
