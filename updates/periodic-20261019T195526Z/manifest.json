@@ -1,0 +1,52 @@
+{
+  "capture_utc": "20261019T195526Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 808341,
+      "sha256": "5f9daf730eda3273f842ae39fa85a652d38e9a3b8a3595bab45cd3fb8687b856"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/GOAL.json",
+      "sha256": "fff51cf3bbad6003da77509b434b3923d67016a4b3449be92eaee72b639eaae1",
+      "bytes": 5315
+    },
+    {
+      "path": "cairodrive-research/continuity/open-source-status.json",
+      "sha256": "530e547a7a77fcfb9101808abac73d201e6c55fdbbbd943f20ec645753447864",
+      "bytes": 3427
+    },
+    {
+      "path": "cairodrive-research/continuity/open-source-prompt.txt",
+      "sha256": "6d3fc78309038b08ec8812c34d73e5264928f12151828a1513a14bd799eb0fa4",
+      "bytes": 5036
+    },
+    {
+      "path": "cairodrive-research/continuity/open_source_worker.py",
+      "sha256": "fe8e9c4b6ee445509f30438faef049a37610269989cccf49493a20c469f5fd87",
+      "bytes": 3225
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_LATEST_USER_SCOPE.json",
+      "sha256": "71fb826d8cef765278c0a2571722823882baaf9637d3dd340f2509380b2696ff",
+      "bytes": 1364
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_REV9_DELIVERABLE_BUNDLE.json",
+      "sha256": "6754856b6d284a2018ed5759422e22a7a6c8c7580217574816e88f6b2330addd",
+      "bytes": 3246956
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_PROGRESS.json",
+      "sha256": "b9f7c4dd82d1ebd8518dec0a2ce082b2b05882d40007cfd5ac3cedf9b8cb02ec",
+      "bytes": 3674
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "5f9daf730eda3273f842ae39fa85a652d38e9a3b8a3595bab45cd3fb8687b856",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
