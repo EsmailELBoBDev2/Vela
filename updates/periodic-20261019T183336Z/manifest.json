@@ -1,0 +1,798 @@
+{
+  "capture_utc": "20261019T183336Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 8680721,
+      "sha256": "3e6a3167b02d604a697cd406ecfcbadfa0b699d96028d01ae8e654044adf7060"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/CLOUD_TASK.txt",
+      "sha256": "c4f002c6a2e04070541d69e17f77b3a9916635b4bd7c95bc249eb265cdc3c880",
+      "bytes": 685
+    },
+    {
+      "path": "cairodrive-research/GOAL.json",
+      "sha256": "f0da1ffe395f54b539a897863303cd218a377de2f3aeac192b96515c6f150913",
+      "bytes": 5222
+    },
+    {
+      "path": "cairodrive-research/HANDOFF.md",
+      "sha256": "c4f002c6a2e04070541d69e17f77b3a9916635b4bd7c95bc249eb265cdc3c880",
+      "bytes": 685
+    },
+    {
+      "path": "cairodrive-research/PLAN.md",
+      "sha256": "c4f002c6a2e04070541d69e17f77b3a9916635b4bd7c95bc249eb265cdc3c880",
+      "bytes": 685
+    },
+    {
+      "path": "cairodrive-research/STATUS.md",
+      "sha256": "c4f002c6a2e04070541d69e17f77b3a9916635b4bd7c95bc249eb265cdc3c880",
+      "bytes": 685
+    },
+    {
+      "path": "cairodrive-research/continuity/rd.json",
+      "sha256": "e61642e8062ee8fbda1e375a9c4dc4e1e1e1f250bd24ac55e0abb0fd18cf7de0",
+      "bytes": 229524
+    },
+    {
+      "path": "cairodrive-research/continuity/rw.json",
+      "sha256": "aa9e5203f5367e9e0cfc25eeac859cd908b9422ac756f337cbbe06eaf3a64710",
+      "bytes": 348300
+    },
+    {
+      "path": "cairodrive-research/continuity/rs.json",
+      "sha256": "c11fb37d44cbc42c72de8e899f9a86979fab75b4f6e823b2c581a80fb1a4d4d5",
+      "bytes": 201618
+    },
+    {
+      "path": "cairodrive-research/continuity/rl.json",
+      "sha256": "c5b066be51c67791d6a34a4769cae2e4aa49edf2701cf9593e9827a7de73f8ee",
+      "bytes": 259094
+    },
+    {
+      "path": "cairodrive-research/continuity/rn.json",
+      "sha256": "9b23c97bbfd3e655644024d229e2e8dbe55edd8eb52a70ce2375c4466c49888b",
+      "bytes": 223196
+    },
+    {
+      "path": "cairodrive-research/continuity/rp.json",
+      "sha256": "b8ef89f27c96f8e8ae02471fa8f06cf6a354279f404b5a922d7b0b8b3d971f4d",
+      "bytes": 262618
+    },
+    {
+      "path": "cairodrive-research/continuity/re.json",
+      "sha256": "6011d7307bf6bfa898d7251919d8d5f689a5f6b8730e1f7be0a5701960005123",
+      "bytes": 219273
+    },
+    {
+      "path": "cairodrive-research/continuity/rf.json",
+      "sha256": "2facc5464c8e0d55a2ed03247a3f35cc80dae113072eda84646107622be0e101",
+      "bytes": 205487
+    },
+    {
+      "path": "cairodrive-research/continuity/rr.json",
+      "sha256": "9d2c07798e89348a8ae17c2c3cc1f5ef4f3774b5800cd841288c9d92658edde3",
+      "bytes": 269302
+    },
+    {
+      "path": "cairodrive-research/continuity/rg.json",
+      "sha256": "621e64cecc941d49bf8426c13f9d04c71da4b690cab7d92786b9628a6dace94d",
+      "bytes": 239692
+    },
+    {
+      "path": "cairodrive-research/continuity/ra.json",
+      "sha256": "35566371a6816a19a5bb80318c8e0c2a5dabeeb000ba38ceafe3e1822b33d0d9",
+      "bytes": 270908
+    },
+    {
+      "path": "cairodrive-research/continuity/rh.json",
+      "sha256": "60367f5746db2df7bfc06419ffd99e700cc780853bf3cbeffdb5bbad5649f7e2",
+      "bytes": 226149
+    },
+    {
+      "path": "cairodrive-research/continuity/rj.json",
+      "sha256": "24c0d7d8a3372b0c629236557cd79daa1a3cf686f960da8d475a39c0be36f9b5",
+      "bytes": 316688
+    },
+    {
+      "path": "cairodrive-research/continuity/rt.json",
+      "sha256": "02e8d3fb3954becc67459c071fb9821993f308c7566ad60dd95e1c8fe00b9707",
+      "bytes": 231866
+    },
+    {
+      "path": "cairodrive-research/continuity/rb.json",
+      "sha256": "2a1f2917ba7efdea64c50d15f4a359e2ac686162918cc1034bf6d6cf6a7ad1dd",
+      "bytes": 158222
+    },
+    {
+      "path": "cairodrive-research/continuity/rv.json",
+      "sha256": "35921dcc44ef53cae9c9189df682a30f264cb2595d8a7b523a09a8a42626fb34",
+      "bytes": 255963
+    },
+    {
+      "path": "cairodrive-research/continuity/resume-prompt.txt",
+      "sha256": "fbb44abb0f810ad8cfd9dffec38066fc09b672e0aab025f29e9e819dccab2fdd",
+      "bytes": 423
+    },
+    {
+      "path": "cairodrive-research/continuity/rc.json",
+      "sha256": "2eccb6bf26be3b4d514c6272972618b6c3db131082e146f89c72f3e8b0cc3c2e",
+      "bytes": 246816
+    },
+    {
+      "path": "cairodrive-research/continuity/ri.json",
+      "sha256": "2622f98707ef953a6ae82cc63a893df192f61e736db12b32273c66d0e5afaaf3",
+      "bytes": 210952
+    },
+    {
+      "path": "cairodrive-research/continuity/rx.json",
+      "sha256": "e2fac94e0b4cca277c2f6d5ae99e5b27148ee0b5a616cd4207ae467ea6d3e62f",
+      "bytes": 264853
+    },
+    {
+      "path": "cairodrive-research/continuity/rq.json",
+      "sha256": "1fc6c342a642e1cd424e10d969b104c04cf2d8214f260b8632efb7284d8bb537",
+      "bytes": 299255
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_DELETE_STORAGE_RESULT_FRONTIER20261019.json",
+      "sha256": "1b833613d50e7c69ef4bf4488aadefdaa8ecd0ed1589267996369840ef4c216c",
+      "bytes": 4361
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/gas.json",
+      "sha256": "747d7f2c90d19b7b7da45eb6fedc53974f4abf7da93c33ca24d8b33e2be9406d",
+      "bytes": 186618
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/g44.json",
+      "sha256": "e23ebba0481e5d7287a84d1d22ac4e29be98583e0a925b12042d9cc79b5e847b",
+      "bytes": 188477
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3406.json",
+      "sha256": "8ae4ec353f97368de96285fc0971554e659a6aac1f1f4a57535cfe2958f0b2c2",
+      "bytes": 257385
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_PRUNE_CANCEL_RECOVERY_FRONTIER20261019.json",
+      "sha256": "1edb7aa18511f6c16af8b07549342735a6b532bd2b1cac67afa1f175686f2b08",
+      "bytes": 10060
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_CANCEL_STATE_WRITE_FRONTIER20261019.json",
+      "sha256": "27714b90209929cc73fc01f7107f52bc9d0b6b5828fd7653715b624af344198d",
+      "bytes": 291
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_CANCEL_REQUEST_DISPATCH_FRONTIER20261019.json",
+      "sha256": "e175f4ecaab5856722a3fdbd98f56e6935289abbbffc02ab84f0299c5261aa28",
+      "bytes": 1509
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAPACITY_FALLBACK_google-cancel-queue-driver20261019_GOOGLE_RESEARCH_CANCEL_QUEUE_DRIVER_ARCHIVES20261019.json",
+      "sha256": "60c0d193a0d330dfbd4860e754cd86d12defaaa7c621fe73020db23edbd5bb82",
+      "bytes": 216408
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAPACITY_FALLBACK_google-cancel-state-write20261019_google-state-write-frontier-reuse-independent20261019.json",
+      "sha256": "d1ae1e8bf84924f38d723fff573b2b73c218992b0630d7d266a2c080f55d4231",
+      "bytes": 377
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_CANCEL_RESULT_DELIVERY_FRONTIER20261019.json",
+      "sha256": "db3ef1dd6c97e2011525a60f49f01c4705a160ca87ddb6f783b00818106cf287",
+      "bytes": 4759
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/g46.json",
+      "sha256": "8527bd4809ce45ceca004398e90fde0ca1f75852595b0d4c7275df4c7befe45c",
+      "bytes": 209184
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAPACITY_FINALIZER_FIX20261019.json",
+      "sha256": "fe0af3f7ba7309b7b5b9effe916d7fd34c74cf996db34b40b85335e20dd2736e",
+      "bytes": 4699
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/RESUME_STATE.json",
+      "sha256": "2e822daa89e7864eeffb0330f0367ffeead436329cace349a95795013d3cba61",
+      "bytes": 8173
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAPACITY_FALLBACK_google-cancel-state-write20261019_google-terminal-response-independent20261019.json",
+      "sha256": "83e6a376c269d20991c2df6431d086100e34ee1d7193eec58fa921fa92e4b5d0",
+      "bytes": 3985
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r4.json",
+      "sha256": "3a4f1f4114cbaf2370729c9823f14c6b2c8cc2266fd1a1c5d961a5bc2f43f05c",
+      "bytes": 177028
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3357.json",
+      "sha256": "2afbb294e6a8fc94cb04e1701e94d2117b9ebf850bfc52c45cbb7a9a5ac4a21d",
+      "bytes": 302182
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_CANCEL_QUEUE_DRIVER_FRONTIER20261019.json",
+      "sha256": "b02f8e0602e4d4708f8c8c07153bd037c3b68f172b9e5cc364f6a8bc90c9e6e7",
+      "bytes": 1507
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/g6a.json",
+      "sha256": "e5871b18521df4f7319e67a5eb3fd6312269a353eb54b02fb236d4dac53c2d85",
+      "bytes": 170835
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3273.json",
+      "sha256": "8daea7ee4fae73c6de55db5b74f51fc4aa27aedcdc437068867d4fc82b4cc101",
+      "bytes": 279558
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_WORKFLOW_RESEARCH_CHECKPOINT.json",
+      "sha256": "b4042eb106da046017e5e6a106a35ddd13a8c49bc6e34fb9840b980554665b9e",
+      "bytes": 8192
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3376.json",
+      "sha256": "930eb47368cc5b12583165b4c77eb4080a13a2c91d02723fc03361dc3c9fd347",
+      "bytes": 293295
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_BACKEND_APPLICATION_FRONTIER20261019.json",
+      "sha256": "4c5422e05cf262638ce04ead71829d92684fe7aa0c6311848de4869345d59181",
+      "bytes": 4790
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/g65.json",
+      "sha256": "7d1b713c51292e69b8afaea2343e8103593a53cdc78242869808d49267dd6885",
+      "bytes": 210806
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3378.json",
+      "sha256": "98c3895960a559c5655c34702bb828003d4c178378be185294fd49a962af7f92",
+      "bytes": 229987
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IN_PROGRESS.json",
+      "sha256": "45da6719e841c2d215b2a058d7d9d15dfaa4b6bbf80cb2abee92e5c754810d44",
+      "bytes": 3955
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_CHUNK_REBIND_FRONTIER20261019.json",
+      "sha256": "89de38d5013535e5cd7a73f46c7fd31a670c1d6b89a64d5811a1940ffeabde9d",
+      "bytes": 1503
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3385.json",
+      "sha256": "f7fde11491fb59a2934e58edfb3688f78b57be6b91b6da5b64581cc16456f774",
+      "bytes": 212974
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/THROUGHPUT_CHECKPOINT.json",
+      "sha256": "b4042eb106da046017e5e6a106a35ddd13a8c49bc6e34fb9840b980554665b9e",
+      "bytes": 8192
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/SPACE_RELIEF_CHECKPOINT_MOVE_LATEST.json",
+      "sha256": "de6cd371a17be3f6cee3995b3e157a8651953f6c5ddccfcbef112f64bb0c74c2",
+      "bytes": 834
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAPACITY_FALLBACK_google-cancel-state-write20261019_google-native-handle-independent20261019.json",
+      "sha256": "045264e6ba9e02b842347e11fd002ee1ef14030c47dbb1a51be91527981a40d8",
+      "bytes": 146
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3378p.json",
+      "sha256": "ef6ebdefe9817526b3cc2b9861a404fb596d0cd37f0cee5f0db817544d457579",
+      "bytes": 240807
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/progress.md",
+      "sha256": "1179b3e21be6e7a2702a6c549d384cca1701e0c575e92bb3a940b6c8ee551285",
+      "bytes": 2563539
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CANCEL_STATE_WRITE_FINAL_CHECK20261019.json",
+      "sha256": "3699b5e48c5da312d50b31139984afae3cbbc9466e1faaa5d67f9d250059a210",
+      "bytes": 529
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/gau.json",
+      "sha256": "aac10211665c2438cd7ba6adebfd0f4454e08685f28655ad14fd00361b362dee",
+      "bytes": 215982
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3317.json",
+      "sha256": "8e498c9c90a4f256f9564515981fd680bcbcff37d8b39aaecc746cfd27e6f92a",
+      "bytes": 374708
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3433.json",
+      "sha256": "30f0b0a74b549fb2d15c42ac68c53bc1dbc3c2893c77630890ddda10de1a8318",
+      "bytes": 218141
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3286.json",
+      "sha256": "d77a7b14b332f46b898143d805351c820073413bee0dccb18b13bf7e028cea20",
+      "bytes": 259954
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_CANCEL_KEY_OWNER_FRONTIER20261019.json",
+      "sha256": "264923f7649e13405a7a64dccfad8092f67879c738c38b4bcd6649c1b223e73a",
+      "bytes": 2713
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_REQUEST_INTEGRITY_FRONTIER20261019.json",
+      "sha256": "06339a7f72091f01d211591da62c3602f6eec6295f8ce75107241ba6c0b67822",
+      "bytes": 278
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/QUEUE_DRIVER_STANDALONE_FRONTIER20261019.json",
+      "sha256": "0b573970055c20f372eb542493e50853e28df7e3e08c50152d4aee8ad015df3a",
+      "bytes": 78324
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAPACITY_FALLBACK_google-cancel-state-write20261019_google-settings-observation-independent20261019.json",
+      "sha256": "0dea4dcd5e70db2a53319381deebd08714fffc286ae11e17b359eb8b4001b772",
+      "bytes": 416
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_CANCEL_EXISTING_ENTRY_FRONTIER20261019.json",
+      "sha256": "755af5252c44474aa994ad2d9b5df096a56be9487155f76f4be1b73d525f4bbf",
+      "bytes": 3941
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3278.json",
+      "sha256": "1ecbd5c9b2c9a5c03c032016a84dd73c81c0faeaf25834f807806d4c6e8b3494",
+      "bytes": 266226
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAPACITY_FALLBACK_google-cancel-state-write20261019_CHECKPOINT.json",
+      "sha256": "13beaed53ef2a1713a107bca4771b3c46779c7978b323287eafbeaa46dbf93f4",
+      "bytes": 6638
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_CANCEL_TRANSFER_FRONTIER20261019.json",
+      "sha256": "cc6d9ab9cd82a396ed19bdcfb0b0df337444b5a514a03c80b77d9a7ffac87efa",
+      "bytes": 3534
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3268.json",
+      "sha256": "594c824e87f862d30e02a7d857fe1475009bcf98ebd3181dc18e3b42a57a65b9",
+      "bytes": 286441
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/g59.json",
+      "sha256": "1173df3c761f705218337ce99ed4d48541971bee617feda09955d28470ca4010",
+      "bytes": 245139
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3346.json",
+      "sha256": "9ca65444be757b51c146f281c95066ebe509db36cfb86bbe7e0562f7a9f3a3d1",
+      "bytes": 304372
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3376s.json",
+      "sha256": "91a8b170f1453fc9c16acfac24c9ed9a4d383476ec936b7de191896829d0f7d4",
+      "bytes": 241949
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CANCEL_STATE_WRITE_CAPACITY_FALLBACK_PROBE20261019.json",
+      "sha256": "e797209f2f274c86ac4d074a92396051bb1f2048bd9a0cb569726810bf5e923d",
+      "bytes": 38
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3.json",
+      "sha256": "edd2e562635e82466da6dff4257986eaf60beb48b87fd03a417380e6ec14cc3f",
+      "bytes": 187736
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_SCHEMA_DELETE_WORKER_FRONTIER20261019.json",
+      "sha256": "bbc26c38b15dc4e43cdb66a0dce35d8ccabdf1b1fc8d2b559e075d229466d65f",
+      "bytes": 1100
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GOOGLE_RECORD_IMPORT_FRONTIER20261019.json",
+      "sha256": "5bdfb6ef385604e4f66734ee5590364f7c24da2b294a1cdc2a70668df17a4418",
+      "bytes": 288
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/g62.json",
+      "sha256": "c20e8a4ad65517f2f039051be5ed6e36509ef4465f9d915429845b59d9ce79b3",
+      "bytes": 192514
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/r3287.json",
+      "sha256": "bb2018663e50838d1bee04f117eda400ae0e835811b4b5913d8e2933084c336e",
+      "bytes": 363487
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAPACITY_FALLBACK_google-cancel-state-write20261019_CANCEL_STATE_WRITE_BATCH_REVIEW20261019.json",
+      "sha256": "9c86fa93062e420c28d9abd4343d4c80bb4fccd07d83370c014186b5dcfc41eb",
+      "bytes": 12235
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAPACITY_FALLBACK_google-cancel-state-write20261019_google-state-write-data-independent20261019.json",
+      "sha256": "88e570f6e65d8329d2ef0f7c12771ecbd465e2b2dae323445925ba1da552f844",
+      "bytes": 156
+    }
+  ],
+  "skipped_unstable": [
+    "apps/com.google.android.apps.maps/supervisor/google-account-publication-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_RESULT_DELIVERY_FINAL_CHECK20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/RECORD_IMPORT_RESUME_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-result-delivery-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-native-command-failure-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-command-wire-reuse-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-worker-cancel-storage-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_RESULT_DELIVERY_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_RESULT_DELIVERY_STANDALONE_FRONTIER20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/REQUEST_INTEGRITY_FINAL_CHECK20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-delete-stage-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/BACKEND_APPLICATION_RETRY_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CHECKPOINT.json",
+    "apps/com.google.android.apps.maps/supervisor/google-config-request-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_EXISTING_ENTRY_STANDALONE_FRONTIER20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_ARCHIVE_RESTORE_PACKAGE20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_TRANSFER_FINAL_CHECK20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-config-acceptance-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-caller-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-visited-data-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-producer-data-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_REQUEST_DISPATCH_FINAL_CHECK20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_REQUEST_INTEGRITY_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-receiver-provenance-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_KEY_OWNER_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-record-merge-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CONFIG_REQUEST_INTEGRITY_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-worker-query-cancel-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-transfer-context-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/PRUNE_CANCEL_RECOVERY_FINAL_CHECK20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/SCHEMA_DELETE_WORKER_FINAL_CHECK20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-producer-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-consumer-reuse-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_EXISTING_ENTRY_FINAL_CHECK20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-acceptance-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-native-readiness-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-delete-receiver-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-delete-matrix-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-schema-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_CHUNK_REBIND_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-existing-entry-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-account-rebind-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_REQUEST_STANDALONE_FRONTIER20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-command-wire-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-delete-contrast-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-file-validation-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_CANCEL_RESULT_DELIVERY_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-account-preference-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-config-application-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_CURRENT_BATCH_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-descriptor-application-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-worker-operation-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CHUNK_ACCOUNT_APPLICATION_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-config-cancel-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-repair-matrix-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-consumer-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_CANCEL_REQUEST_DISPATCH_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-existing-entry-data-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_CANCEL_STATE_WRITE_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-config-account-provider-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-existing-entry-standalone-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-hash-consumer-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-config-selector-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-state-write-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CONFIG_CANCEL_TRANSFER_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/PRUNE_CANCEL_RECOVERY_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-standalone-frontier-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-caller-data-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_CANCEL_KEY_OWNER_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_CANCEL_TRANSFER_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/DELETE_STORAGE_RESULT_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-terminal-feedback-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_DELETE_STORAGE_RESULT_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_EXISTING_ENTRY_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/SCHEMA_DELETE_WORKER_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-lifecycle-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-delete-receiver-correction-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-terminal-feedback-reuse-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-visited-predicate-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/DELETE_STORAGE_RESULT_FINAL_CHECK20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-application-row-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_KEY_OWNER_FINAL_CHECK20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-transfer-identity-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-config-provider-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-settings-origin-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_SCHEMA_DELETE_WORKER_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/CANCEL_REQUEST_DISPATCH_BATCH_REVIEW20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-incognito-predicate-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_PRUNE_CANCEL_RECOVERY_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-delete-metadata-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-controller-transition-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-result-delivery-data-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-cancel-delete-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-result-delivery-standalone-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/google-pruning-data-independent20261019.json",
+    "apps/com.google.android.apps.maps/supervisor/GOOGLE_RESEARCH_CANCEL_EXISTING_ENTRY_ARCHIVES20261019.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-download-success-close20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-callback-executors20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-shared-owner20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-resume-disk-reload20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-readiness-contract20261019-evidence-manifest.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-queued-context20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-prepare-outcome20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-rename-native-acceptance20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-paint-admission20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-readiness-contract20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-diagnostic-recovery20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-executor-owner-lifetime20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-consumer-invariants20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-consumer-invariants20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-request-identity20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cgmo-schema-route20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-import-java-feedback20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-chunk-hash-write20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cache-root20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-acceptance-matrix20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-entry20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-resume-disk-reload20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-snapshot-read-contract20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-resume-disk-reload20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-map-cache-open-config20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-chunk-hash-write20261019-evidence.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-expiration-update20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-infrastructure-init-params20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-migration-cancellation20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-growth-merge20261019-evidence-manifest.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-readiness-contract20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-growth-merge20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-command-failure20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-retry-action20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-notification-lifecycle20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-storage-admission20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-consumer-invariants20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-provider-parser20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cgmo-schema-route20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-rename-result20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-action-request20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-infrastructure-subscription20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-repair-state-matrix20261019-evidence-manifest.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-command-failure20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-storage-transition20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-autodownload-consent20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-migration-caller20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-growth-merge20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-consumer-invariants20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-completion-feedback20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-readiness-contract20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cgmo-schema-route20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-explicit-cancel20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-reader-selection20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-identity20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-region-edit20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cgmo-schema-route20261019-evidence-manifest.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cgmo-schema-route20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-consumer-invariants20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-growth-merge20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-operation-completion20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-worker-producer20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-download-copy-validation20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-native-producer20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-map-cache-init-consumption20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-fetch-assessment20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-db-upgrade20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-transfer-key-identity20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-health-invalidation20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-import-response-model20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-region-delete-contract20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-provider-q-join20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-fetchqueued-delivery20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-repair-state-matrix20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-repair-state-matrix20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-repair-state-matrix20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-acceptance-matrix20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-provider-parser20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-ordinary-worker20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-storage-source-cleanup20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-repair-state-matrix20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-download-result-origin20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-auto-delegate20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-download-retry-cache20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-provider-parser20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-command-failure20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-acceptance-matrix20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-chunk-hash-write20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-reader-lifetime20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-rename-provider-effects20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-chunk-hash-write20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-schedule-triggers20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-readiness-contract20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-db-open-contract20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-chunk-hash-write20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-manual-job-stop-policy20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-consumer-invariants20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-result-acceptance20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-region-download-policy20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-command-failure20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-map-cache-root-selection20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-partial-file-disposition20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-transfer-key-identity20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-incognito-service-binding20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-wifi-setting-refresh20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-command-failure20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-storage-preference-consumer20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-lowbattery-retry20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-region-delete20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cgmo-schema-route20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-growth-merge20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-maintenance-clock20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-command-failure20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-notification-control20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-auto-update-policy20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-download-resume-verification20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-identity-selection20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-error-feedback20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-health-renderer20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-growth-merge20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-acceptance-matrix20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cgmo-schema-route20261019-metadata-static-test.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-readiness-contract20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-unused-database-gate20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-chunk-hash-write20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-resume-disk-reload20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-provider-parser20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-feedback-cleanup20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-scheme-dispatch20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-storage-choice20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-resume-disk-reload20261019-evidence.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-handle-contract20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-consumer-invariants20261019-evidence-manifest.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-request-ui-result20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-provider-parser20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-resume-disk-reload20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cgmo-schema-route20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-growth-merge20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-resume-disk-reload20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-map-snapshot-publication20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-transfer-key-identity20261019-evidence-manifest.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-lifecycle-fences20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-expiry-scheduler20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-acceptance-matrix20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-chunk-hash-write20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-transfer-key-identity20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-incognito-action20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-manager-lifetime20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-region-cancel20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-consumer-invariants20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-network-policy-source20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-modern-state-binding20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-recommendation-network20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-notification-provider20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-acceptance-matrix20261019-evidence-manifest.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-acceptance-matrix20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-map-cache-clear-ui20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-auto-schedule-contract20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-repair-state-matrix20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-manual-start-ack20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-transfer-key-identity20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-map-cache-clear-fallback20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-chunk-hash-write20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-resume-disk-reload20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-growth-merge20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-readiness-contract20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-readiness-contract20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-transfer-key-identity20261019-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-repair-state-matrix20261019-timing-addendum.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-reader20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-old-delete-feedback20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-maintenance-scheduler20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-migration-disposition20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-auto-update-policy-consumer20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-repair-state-matrix20261019-fsync-probe.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-state-wait-consumer20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-result-next-transfer20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-map-cache-clear-binding20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-provider-parser20261019-remaining.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-command-failure20261019-evidence-manifest.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-operation-producer20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-transfer-key-identity20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-manual-outcome-actions20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-prepare-response-boundary20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-map-cache-clear-request20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-provider-parser20261019-evidence-manifest.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-hash-provider-parser20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-place-history-result20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-native-command-failure20261019-plan.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-refresh-listener-lifetime20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-transfer-key-identity20261019-report.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-manual-admission20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-network-admission20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-repair-state-matrix20261019-completion.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cgmo-schema-route20261019-receipt.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-manual-request-override-isolation20261018-carried-direct-defined-unreviewed.json",
+    "apps/com.google.android.apps.maps/apk/snapshot-offline-cancel-acceptance-matrix20261019-completion.json",
+    "apps/com.google.android.apps.maps/features/offline-account-channel-rebind20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-account-postpersist-publication20261019-compact-handoff.json",
+    "apps/com.google.android.apps.maps/features/offline-cancel-key-consumer-scope20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-account-postpersist-publication20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-user-delete-cleanup-contrast20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-account-channel-rebind20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-next-download-contract20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-cancel-delete-active-transfer20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-cancel-delete-active-transfer20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-cancel-key-consumer-scope20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-controller-transition-consumers20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-cancel-key-lifecycle20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-command-wire-boundary20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-cancel-key-lifecycle20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-transfer-terminal-feedback20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-account-postpersist-publication20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-delete-observable-matrix20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-cancel-key-lifecycle20261019-additive-capture-correction.json",
+    "apps/com.google.android.apps.maps/features/offline-terminal-feedback-response20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-transfer-terminal-feedback20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-transfer-captured-context20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-user-delete-cleanup-contrast20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-next-download-contract20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-command-wire-boundary20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-transfer-captured-context20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-terminal-feedback-response20261019-remaining-reference.json",
+    "apps/com.google.android.apps.maps/features/offline-delete-observable-matrix20261019.md",
+    "apps/com.google.android.apps.maps/features/offline-controller-transition-consumers20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-download-file-validation-boundary20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-existing-entry20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-key-producer20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/native-visited-tile-predicate20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-TRANSPORT-CANCEL-RESULT-DELIVERY-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-download-file-validation-boundary20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-queue-driver20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-state-write20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/native-download-descriptor-application20261019-app-probe.json",
+    "apps/com.google.android.apps.maps/native-data/native-visited-tile-predicate20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-result-delivery20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/native-delete-metadata-pruning20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-queue-driver20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/native-delete-postmutation-stage20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-DOWNLOAD-FILE-VALIDATION-BOUNDARY-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-existing-entry20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-DOWNLOAD-APPLICATION-ROW-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-result-delivery20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/native-delete-postmutation-stage20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-DELETE-POSTMUTATION-STAGE-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-key-producer20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/native-download-application-row20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/native-download-descriptor-application20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-DELETE-RECEIVER-PROVENANCE-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-delete-metadata-pruning20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/native-download-descriptor-application20261019-artifact-hashes.json",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-VISITED-TILE-PREDICATE-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-download-descriptor-application20261019-app-reference.json",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-TRANSPORT-CANCEL-CALLER-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-download-application-row20261019-app-reference.json",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-TRANSPORT-CANCEL-QUEUE-DRIVER-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-caller20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-state-write20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-TRANSPORT-CANCEL-KEY-PRODUCER-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-TRANSPORT-CANCEL-STATE-WRITE-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-DOWNLOAD-RECORD-MERGE-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-transport-cancel-caller20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/native-download-record-merge20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-TRANSPORT-CANCEL-EXISTING-ENTRY-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-delete-receiver-provenance20261019-completion.json",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-DOWNLOAD-DESCRIPTOR-APPLICATION-20261019.md",
+    "apps/com.google.android.apps.maps/native-data/native-download-record-merge20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/native-delete-receiver-provenance20261019-app-probe.txt",
+    "apps/com.google.android.apps.maps/native-data/NATIVE-DELETE-METADATA-PRUNING-20261019.md"
+  ],
+  "archive_sha256": "3e6a3167b02d604a697cd406ecfcbadfa0b699d96028d01ae8e654044adf7060",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
