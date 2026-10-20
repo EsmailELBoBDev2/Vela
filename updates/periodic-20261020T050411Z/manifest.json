@@ -1,0 +1,52 @@
+{
+  "capture_utc": "20261020T050411Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 10895718,
+      "sha256": "d789c5678564a1a9ed8a19415daec5d7682c9512d2fc4a802c2f3bcd1d37db6a"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/GOAL.json",
+      "sha256": "a21bc25c9683790cb4a61e3801a06a3c9c1995fe6f9bdca349f5e6fcb329a471",
+      "bytes": 5310
+    },
+    {
+      "path": "cairodrive-research/continuity/open-source-status.json",
+      "sha256": "ff628e022b466f19a0483cc1705e6ab73afbc71ad84f8fe0771e95197d932468",
+      "bytes": 769
+    },
+    {
+      "path": "cairodrive-research/continuity/open-source-prompt.txt",
+      "sha256": "7982bd662a3a8fe64980ae82ede917b06d023bcb17fa79a098e9ab6f4d2a1bc9",
+      "bytes": 8583
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/INVENTORY_ORDER_RESTART.json",
+      "sha256": "8d1966f3b1927216ed8d932ca8ab85a2912046a21e912fdf17450066f731d12e",
+      "bytes": 355
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_REV9_DELIVERABLE_BUNDLE.json",
+      "sha256": "3446ef799567d517f77ef047b7c4d6e882858f526c7b21ece4713316f90c59b6",
+      "bytes": 55103773
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_PROGRESS.json",
+      "sha256": "3df56c59ea9a625c521fb9630981f86f9bfdddbf8319cf40cac83259f705eea9",
+      "bytes": 53210
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/INVENTORY_FIRST_USER_ORDER.json",
+      "sha256": "577be087f90d0b54005aa02442db64a5f0e4f2032abdae1792971fefb0b9922c",
+      "bytes": 1090
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "d789c5678564a1a9ed8a19415daec5d7682c9512d2fc4a802c2f3bcd1d37db6a",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
