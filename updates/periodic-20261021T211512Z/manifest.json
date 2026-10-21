@@ -1,0 +1,47 @@
+{
+  "capture_utc": "20261021T211512Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 33554432,
+      "sha256": "6c79c70f16afa118bb67df6d4f70b82ed9e6d022472e42cde8d40936260d65b6"
+    },
+    {
+      "name": "research-delta.tar.gz.part-0001",
+      "bytes": 30444169,
+      "sha256": "4d05be622c09bd2a4437f40fc91e325b264b526d686fc0b871c32cb7547d09a7"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/continuity/open-source-status.json",
+      "sha256": "362c0d105ae068b0a1bb77f19735b5db53a4fd5297633a5e3be97a3b79673262",
+      "bytes": 769
+    },
+    {
+      "path": "cairodrive-research/continuity/open-source-prompt.txt",
+      "sha256": "7322ac88dea7a52d1b8f96f19fbe2f2ab83b77f5d2960ed7ede7a057951bad2e",
+      "bytes": 10478
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/REUSE_VALIDATION_FINAL_REPORT_USER_AGREEMENT.json",
+      "sha256": "c5b09dcb7b326ae545c1b8884782892caaa5983a64347575282216a2bb2e3e3a",
+      "bytes": 4176
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_REV9_DELIVERABLE_BUNDLE.json",
+      "sha256": "2983eab3313ad849c3073a0f6b0da69fb101ead892ac7d9e2f4c4d23f0872970",
+      "bytes": 309001555
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_PROGRESS.json",
+      "sha256": "a473a92524f83e14377568aa8296975b73d8a89559ab2408c747aa6f30d46bf3",
+      "bytes": 125191
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "2509e425be8d105facefa5e4f6ec6974b5e0ef8a9901985461bf8011eebdfc12",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
