@@ -1,0 +1,37 @@
+{
+  "capture_utc": "20261021T231540Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 33554432,
+      "sha256": "e0eb281e2b5c1ccd2938240c6ec8697bef64b8cafefab62191a0f5944ea9e602"
+    },
+    {
+      "name": "research-delta.tar.gz.part-0001",
+      "bytes": 32494944,
+      "sha256": "0b23d4874dff18ada17a2d4d8c83eb1bc0ed89ee9950bb55a1f26fadc66f9d76"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/continuity/open-source-status.json",
+      "sha256": "f6892ed8ba04fe027a0faa7d7d5cf624ae4674775851a9110e37c4c911c801e5",
+      "bytes": 769
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_REV9_DELIVERABLE_BUNDLE.json",
+      "sha256": "b6dc5198443bd526eea2862734b999f4da48b565e3c6470ee64a487845bd2295",
+      "bytes": 316784716
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/OPEN_SOURCE_PROGRESS.json",
+      "sha256": "774a7c4184a320fc0c0cbfc77c2ddfa6cf5cf002f692ab46f9cf29f82cd9bd5a",
+      "bytes": 129074
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "6f3afd2cf1083878457edc8c81e599c424aab9aff28034a68a17543d862a3ec0",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
