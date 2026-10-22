@@ -1,0 +1,57 @@
+{
+  "capture_utc": "20261022T212114Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 387682,
+      "sha256": "decbe5ec45d7e839e19ba5db2e97682caa4d67f72276e2de2d79189ee613a645"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/continuity/open-source-status.json",
+      "sha256": "482bf8eba4d50b1d0cec115e4690f1fe0979d2b287673f772a6006a3b6cc3224",
+      "bytes": 40077
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_FIRST_PATCH_BUNDLE.json",
+      "sha256": "4ae62595e3fa7e7eb9854d1d77185a512427635c5d66bc407571ae37d45270bb",
+      "bytes": 462339
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/cloud-emulator-smoke.py",
+      "sha256": "853f14fb11cca9020ca785e29b30949eb98606a77da5801418b75cfa1aab64f7",
+      "bytes": 1896
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/REUSE_VALIDATION_FINAL_REPORT_USER_AGREEMENT.json",
+      "sha256": "a46fecccc63f9e5d0de0cffc087639d5da447e3cf5d624c91d82efa07fb7b1fb",
+      "bytes": 5839
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CLOUD_EMULATOR_SMOKE_STATUS.json",
+      "sha256": "32c2ff088e28ec7b0f0e996d5fed4ec540c84e2d0ab31baef180e132aba40791",
+      "bytes": 98
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_PROGRESS.json",
+      "sha256": "9c7b068590af9e1415e5e7c22fd899025c652cb74c4d188ff8ea220558850b18",
+      "bytes": 1944
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CURRENT_SOURCE_BUNDLE.json",
+      "sha256": "ff92bd0fd3bb90619418b037c46ee97224f0a2f698c5effb152dda5b8fc859a8",
+      "bytes": 488409
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CLOUD_ANDROID_TEST_CAPABILITIES.json",
+      "sha256": "9cd124e4b68d6310e8bac69dd96537fb4947c694f4061b2d17cfbeb3bc9c547b",
+      "bytes": 2695
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "decbe5ec45d7e839e19ba5db2e97682caa4d67f72276e2de2d79189ee613a645",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
