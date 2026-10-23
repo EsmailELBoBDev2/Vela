@@ -1,0 +1,752 @@
+{
+  "capture_utc": "20261023T012127Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 3545434,
+      "sha256": "a68cf0d6f837bc6c6b341a3ea4d918435268eccd784bf6aab8bb66c866983d3e"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/CLOUD_TASK.txt",
+      "sha256": "5a8bd782acdc244439683d88ad183cb93c0b85b4fab6762c2f72c77ed6a366e3",
+      "bytes": 2224
+    },
+    {
+      "path": "cairodrive-research/HANDOFF.md",
+      "sha256": "5a8bd782acdc244439683d88ad183cb93c0b85b4fab6762c2f72c77ed6a366e3",
+      "bytes": 2224
+    },
+    {
+      "path": "cairodrive-research/PLAN.md",
+      "sha256": "5a8bd782acdc244439683d88ad183cb93c0b85b4fab6762c2f72c77ed6a366e3",
+      "bytes": 2224
+    },
+    {
+      "path": "cairodrive-research/STATUS.md",
+      "sha256": "f3ab5a5acae490b6351344313b20c5198b72d3cb23f4c804e9490debde9a9f63",
+      "bytes": 2646
+    },
+    {
+      "path": "cairodrive-research/COVERAGE_SPEC.md",
+      "sha256": "5a8bd782acdc244439683d88ad183cb93c0b85b4fab6762c2f72c77ed6a366e3",
+      "bytes": 2224
+    },
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "447ae84fbef80da4191be2e3eeb88579dc5b0039e5bd4af9525ef68d8e968560",
+      "bytes": 1265
+    },
+    {
+      "path": "cairodrive-research/CONTINUITY.md",
+      "sha256": "5a8bd782acdc244439683d88ad183cb93c0b85b4fab6762c2f72c77ed6a366e3",
+      "bytes": 2224
+    },
+    {
+      "path": "cairodrive-research/continuity/implementation-last-run.json",
+      "sha256": "6a8ff7f36f3a442df7abd51c8e2199367aa1879f81cb575fe4098b8ba9b70f19",
+      "bytes": 199
+    },
+    {
+      "path": "cairodrive-research/continuity/guard-last-restart.json",
+      "sha256": "a4f4521657fcf5d651d16ed3da379b64dadab9cfe5e37ced08b2f1d41e15fe3f",
+      "bytes": 46
+    },
+    {
+      "path": "cairodrive-research/continuity/implementation-prompt.txt",
+      "sha256": "0879baf5847e175ba34144e60149e1dd34f68958cd854e8a6281f61415f60c9d",
+      "bytes": 6808
+    },
+    {
+      "path": "cairodrive-research/continuity/implementation-thread.json",
+      "sha256": "b1ae080bbbbb5598219e40e815bf7e5d6a0f5cafce5c0ddb1bb92408f31c86ef",
+      "bytes": 85
+    },
+    {
+      "path": "cairodrive-research/continuity/implementation-control.json",
+      "sha256": "dfddb5bd81744a9ad062ccf20033b5e235c5eaa2bbdab4938b6c0f88255030ab",
+      "bytes": 761
+    },
+    {
+      "path": "cairodrive-research/continuity/FALLBACK_AND_STEPS.md",
+      "sha256": "17cef8a57609386d5008f75f1421e692559de4a8b3ad34910875786da80748c5",
+      "bytes": 9331
+    },
+    {
+      "path": "cairodrive-research/continuity/watchdog.py",
+      "sha256": "d5b81599bd512f06933980c5ff21104f0c8e3fcca1a23fcc357851b6d723fbe6",
+      "bytes": 2054
+    },
+    {
+      "path": "cairodrive-research/continuity/implementation_worker.py",
+      "sha256": "afcb665f1c3e65d999194ae75eac11dcf892140729c375f1c787668903da53dd",
+      "bytes": 3298
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/SEARCH_UI_LANE_20261023.json",
+      "sha256": "26221227ce8d1001b261b3b755d4a2802b748d42696534c04baf34930bfbafa5",
+      "bytes": 4447
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/WATCHDOG_BEFORE_IMPLEMENTATION_ROUTING.py",
+      "sha256": "650212744f4eb98079769c8b3b63ebeb2c5534cce145fe1ea57a64281e062269",
+      "bytes": 1445
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/ROOT_HANDOFF_IMPLEMENTATION_TEAM_20261023.json",
+      "sha256": "bcb587a6e13c60ea45cac92e5fcf716669b3d25c667882ea7d96a067c79612e7",
+      "bytes": 4849
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BRIDGE30_SYSTEM_DEBUG_SESSION.json",
+      "sha256": "fac1fb631a9366583337f6345879aba464266ce1063833230495dc1fa1c490dd",
+      "bytes": 600
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BOUNDED_WATCHDOG_TRIAL_ATTEMPT1.json",
+      "sha256": "43cd4fceefd06ce2d318dfdfbc0625609eb4e27fa48e8e89a73b9c98df260d75",
+      "bytes": 857
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_WARM_USERSPACE_RESTART.json",
+      "sha256": "53871dbc788fcba58bd749b5fc149f930cb56e7a8e6c4a99c7a64ed968568079",
+      "bytes": 1370
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/bridge30-boot-debug-attach.py",
+      "sha256": "35a2f349d63cd8ad470772deaf2a2aaea4942611c3b3ba7d512cf3984b322364",
+      "bytes": 1376
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SAVED_MUTATION_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "32f59251ade42e668e6ba9bcb42f360c8bbdc635edc32c0a72649c1b202dd908",
+      "bytes": 2426
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/VOICE_RECOVERY_BUILD_AND_TESTS.json",
+      "sha256": "98f8b2732fe1865cf4e3b0b4c74121339f352f06a72c515a235625811541e405",
+      "bytes": 338
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CONSENT_FINAL_CHECKPOINT_20261023.json",
+      "sha256": "3971111901ee4b47f896ff5b4909a6ab15767af5e31da386086774f7fb17cd99",
+      "bytes": 789
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GRADLE_SOCKET_SANDBOX_FIX.json",
+      "sha256": "130f37f9202734bad5cdb3d68cbd42e20281affd941ed688fcbffbd038732bd7",
+      "bytes": 880
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_API30_SIGNER_COMPARISON.json",
+      "sha256": "8d657205518762e69a6f2d155b029c7c6b83b20a6a951e3877439ed7133ee699",
+      "bytes": 1855
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_FILE_SESSION_RECOVERY_LAUNCH.json",
+      "sha256": "433ddc1de735e3263658a17c12bf50ce38ee01405509dc033fe6eefb04b4d770",
+      "bytes": 714
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_AA_RELIABILITY_REVIEW_20261023.json",
+      "sha256": "3e38642ed47251689b18cecda102a173463b0f65049ac99c600546bb1db85436",
+      "bytes": 2450
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CONTACT_CACHE_RELIABILITY_FINAL_REVIEW_20261023.json",
+      "sha256": "7012ec0cbd7f16b0380623d1e9a4d7a2b2778524097d4de984f89cff70a1a1d0",
+      "bytes": 2693
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_RELIABILITY_DIRECT_TESTS_20261023.json",
+      "sha256": "d6dae4085584bd990d8505c32277ea8127f72b0911a81afb22917934a543d55c",
+      "bytes": 2579
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_TRIP_CONSENT_RELIABILITY_REVIEW_20261023.json",
+      "sha256": "5a0ea3bc6b1078e7cabaa874da8119363ecef9c2da4994b3a06e06bc14038217",
+      "bytes": 2667
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_P1_DIRECT_COMPILE_20261023.json",
+      "sha256": "80876d20b7abeeb2509131a42aba3bc5ca1a5e16ed75126bad83147a23b88dbf",
+      "bytes": 1680
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SAVED_MUTATION_RELIABILITY_20261023.json",
+      "sha256": "3cbad2e7b8ce4677c69569aecdaaa110f5bf5767a62e3f08f18c05e83d32e2f3",
+      "bytes": 16432
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023.json",
+      "sha256": "ca7e80f9a262bbfed012fac1516095dfe514b77603d3e240c790d019b5e4e152",
+      "bytes": 1250193
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CONTACT_INTEGRATION_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "4e9ffbaa7f87f905efe6032aab2dc6551570e74dde6de56b130214543fabc0c0",
+      "bytes": 3741
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA178_DHU21_POSTBOOT_PLAN_20261023_aa_runtime_requirements.json",
+      "sha256": "9b4b75bd507ea8fca7ee972d1d1005f4d6664d6aee7d08c030f3487db45ea775",
+      "bytes": 4840
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-signed-system-overlay-recovery.py",
+      "sha256": "67611dc6e33799a5a9a01c079f1815a5c1b0d2c2ae8dead7957def712d888a4e",
+      "bytes": 5516
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023_CONTACTS_DIAG.json",
+      "sha256": "a7630bb4620fd472cfcf6b741b8d0688c7927c2e3794687e1d0644e44c129b3c",
+      "bytes": 1914124
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_DIAG_URL_RELIABILITY_20261023.json",
+      "sha256": "20156ad1f309141857670fa7483792cf21e4417449929b005f2dceb97322ac88",
+      "bytes": 7935
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/EXIT_REBOOT_LOOP_ACTIONS.json",
+      "sha256": "3938485ffeeee4393ac5b389117c0007a9d12028a795171c363b090a128d6584",
+      "bytes": 1439
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/bridge30-runtime-followthrough.py",
+      "sha256": "4de259982e54da55c228264f7fc83b2dd61cfda904e49d92275abc4b68edab17",
+      "bytes": 3129
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BRIDGE30_RUNTIME_STATUS.json",
+      "sha256": "3a10ee71899c8439045c7aeb5f6da9a3442cbd91fffe8dbaee03d10ea33e0987",
+      "bytes": 769
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BOOTSTRAP_DEBUG_OVERHEAD_EXPERIMENT.json",
+      "sha256": "30a7aefb5db97f021c4e60c8be02c8afaf49b48720001db3633c23494f2f5c76",
+      "bytes": 432
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-trial-deadline.py",
+      "sha256": "0953e4125edb21c34fa2cad801396b6ad57233a626e261223504c1e1dd14e8ca",
+      "bytes": 3059
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023_SAVED.json",
+      "sha256": "d7db5d2ef635a3b7e11bda2731a95583fba4e51ccf6e322f7b5ed3b88490f922",
+      "bytes": 1934954
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_CURRENT_API30_APK_VERIFICATION.json",
+      "sha256": "d70dbca3c4829c45a08b020a8fd987d56402a64763d585d1263268b1d84ca44e",
+      "bytes": 1405
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CONTACT_LOCATION_RELIABILITY_REVIEW_20261023.json",
+      "sha256": "e0d49ea60ca5a90f07e64de7bc90aead868ed9f02cc3e156f9e888765c32b750",
+      "bytes": 3020
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_INACTIVE_IMAGE_CACHE_RELIEF.json",
+      "sha256": "046e0159cf3d511650b44b58e7ab88f0982c418f046b5ca01ab45262ff0cc281",
+      "bytes": 1176
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CONTACT_CONSENT_CACHE_LANE_20261023.json",
+      "sha256": "f1794de69edef37f7fb3c78ddac2e190035ab510d5a0f4fddf01a2041c80d56e",
+      "bytes": 5487
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_WORKER_BEFORE_SOCKET_FIX.py",
+      "sha256": "66ffc7951a79618a4415394467aac6ae29a13d8f98e7eb10cddea189d5d1c127",
+      "bytes": 3084
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-file-session-recovery.py",
+      "sha256": "38e012eb411e2ad79ab1c4d3f4255c35795bfc14f230704d031432974bbc38a0",
+      "bytes": 10104
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_SIGNATURE_CONFLICT_DIAGNOSIS.json",
+      "sha256": "7017b3deff12287e32cbcb04f3b0fbd5a808b110cdebbc5cce7b8a4996a31290",
+      "bytes": 717
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_TRIP_OWNERSHIP_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "4012a425f6902db684fecc900720f65db1179cbaeeaa862860c1ae55339c7e38",
+      "bytes": 1831
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_P1_NEXT3_CHECKPOINT_20261023.json",
+      "sha256": "1a37101e048fd51903fec32f660e33cc72ba69f318ee9b2ab8cd59011871c933",
+      "bytes": 777
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BRIDGE30_DEBUG_ATTACH_STATUS.json",
+      "sha256": "b143a90e18763b61dc1cc166defede88d5b9dcda2e05a00b55bf2ca31231c384",
+      "bytes": 126
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/BRANCH_RETRY_LANE_20261023.json",
+      "sha256": "705d0684b6786ee2e1d14775387c9e560b97c99c6184074fca2a2e116d9efbdf",
+      "bytes": 3254
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/SEARCH_INTEGRATION_REVIEW_20261023.json",
+      "sha256": "7e35a738098100cd5360bcebe1284de5395bbb77c124a7f2d6e29de00250311d",
+      "bytes": 3383
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/SDL_AUDIO_CAPTURE_BACKEND_CHECK.json",
+      "sha256": "da53ad68cb7e625b0418aa56eff6a2b9528b75f567ed562d310caba784f540eb",
+      "bytes": 330
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CHANGELOG_CURRENT.json",
+      "sha256": "b04544a3775405881f60b301bedb53edff77aacccb7bc12f57c7adf500b57d55",
+      "bytes": 7554
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_NEXT_VERIFIED_CANDIDATES_20261023.json",
+      "sha256": "2925d4d7b2377833698d24f95a5630c3dbd8952f387a879358a2ad2f44f5917a",
+      "bytes": 1479
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_EXECUTION_LEDGER_20261023_aa_dhu_checks.json",
+      "sha256": "10dbf932c5570ad06b6518289b99ad9a37bf154687de0a8673d4e38c4ee3b9fc",
+      "bytes": 453205
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_SIGNED_SYSTEM_OVERLAY_PLAN.json",
+      "sha256": "6711b063220b02bda4473d06177fcb8cc30b056a5d6b042b534028601695002f",
+      "bytes": 10192
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_EXECUTION_LEDGER_CURRENT.json",
+      "sha256": "bb69cabab5eeb91cafe8b4064cdc0ef63ef21dbd06331b0920d2f0ab452eea44",
+      "bytes": 469121
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CONTACT_CONSENT_REVISION_FINAL_REVIEW_20261023.json",
+      "sha256": "c95aea9e9c8f45e0af669ee3ce52c3a7b4e2eaf5e6e1f82a1cfdb2299d2f39db",
+      "bytes": 3468
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/DHU_2_1_OFFICIAL_VERIFICATION.json",
+      "sha256": "5eb6a753d6d1c392d071a17b97c033191143258b4b5361bbd7acd34cb5d18a72",
+      "bytes": 355
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023_CONSENT_FINAL.json",
+      "sha256": "901f0c0dd53d86cc5f816098be232a73d4f4447d5ebeed3dc4c90bb9da885526",
+      "bytes": 1937675
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SAVED_CHECKPOINT_20261023.json",
+      "sha256": "8946bdd2b01b2914217ef1588d741d307416f531bcdd41c13ec9c4641bd5a9eb",
+      "bytes": 648
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_PROGRESS_FIRST_PATCH_SNAPSHOT.json",
+      "sha256": "9c7b068590af9e1415e5e7c22fd899025c652cb74c4d188ff8ea220558850b18",
+      "bytes": 1944
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_UPDATE_CHANNEL_RELIABILITY_REVIEW_20261023.json",
+      "sha256": "9e4ee508a397ed3edf0b6c31a5c9e7d56fde3787a3f1deb31c7d17da3461889f",
+      "bytes": 2422
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_PROGRESS.json",
+      "sha256": "c094bf0565e1b78cf162088ccd6b4202339008d7396f938155dfb418c4da76cb",
+      "bytes": 7618
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/WATCHDOG_IMPLEMENTATION_SCOPE_GATE.json",
+      "sha256": "3082affde0b4f8c15e595d7c5b334d10412c55ce7dc2d823de05d43b50f5c128",
+      "bytes": 337
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_CURRENT_RUNTIME_HELPER_SOURCES.json",
+      "sha256": "7da774a66e9188c6408278bf008e57affea7f75a3cd2b6d3c6ce376c6eb1c24d",
+      "bytes": 20514
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_RUNTIME_FIX_STATE.json",
+      "sha256": "a7cdc44fd7c9ae8b28b5af99735e0056b519ba40c67fe2aa4b461c7263cdcd33",
+      "bytes": 1440
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CAR_PERMISSION_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "8b1149e9be1bd24ed335373303f1cb80750c2680fa886ba9d0516c88c1573779",
+      "bytes": 2197
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CONTACTS_DIAG_CHECKPOINT_20261023.json",
+      "sha256": "d3ebc62037f9369c8ee69fd98ccb4ba039a6498e9f012b1760f1b52b1db269ee",
+      "bytes": 1276
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023_P1_NEXT3.json",
+      "sha256": "febbdebb1f32170c49ce60280ce490cc6290aaf3d843ac2d663796c8892be209",
+      "bytes": 1822314
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_TRANSIT_CACHE_RELIABILITY_20261023.json",
+      "sha256": "a6314b81eeb158d1522aa53dc063fb995bd5b656d75dc15d3d124ea40dd443ac",
+      "bytes": 15996
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/VOICE_CAPTURE_CANDIDATE_20261023.json",
+      "sha256": "02aaad8ad91110cf7c1c0b4325b8f0627ab7b120c8ef33646b6b95298d188160",
+      "bytes": 2631
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BOUNDED_CONTROLLER_SOURCE.json",
+      "sha256": "b31962f03578da3b7730da86ad17668943d9a6cc606e1bfd29ba4dfe9df36742",
+      "bytes": 7170
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BRIDGE30_BOOT_TRIAL.json",
+      "sha256": "f5f43703faadb24772bb178b510ad6d647d39fa5a4ce5bac0d4406cba5cc3f73",
+      "bytes": 952
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BRIDGE30_TWO_CORE_TRIAL.json",
+      "sha256": "70c28901679a8d73c4b7f856ce52f9ec66f5aadb49df7ea09398a3d9d6457287",
+      "bytes": 988
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_17_8_API29_VERIFICATION.json",
+      "sha256": "c958009e86e04ee1ff77f4057caf5f4144482a30aa874622067fab3f22f9e6e9",
+      "bytes": 1441
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_COMMAND_OWNERSHIP_CANDIDATE_20261023.json",
+      "sha256": "38580b9ffd0c5dd09f05b5f37019805df06e6ef1c6c069c9de28651e375cb941",
+      "bytes": 4194
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/VOICE_SWAP_INDEPENDENT_REVIEW_20261023_aa_dhu_checks.json",
+      "sha256": "a15080e6e6893d61b7ce09af7b47d92418a911134beeda2362ae4eae8700bc59",
+      "bytes": 3222
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_DIAGNOSTICS_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "f4efe21f4aed39ed0eecf82406b2e71622a505017e0a339402232e042be4792d",
+      "bytes": 2492
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CAR_START_RELIABILITY_REVIEW_20261023.json",
+      "sha256": "1258252477a38b0cc4c839227f36145eb133da5676821e8aafd47ff80d75214b",
+      "bytes": 3191
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_CURRENT_TOOL_RECOVERY_STATUS.json",
+      "sha256": "b7d708aadd2c80167ccda7d84217b4c168dd64ca1e88c9e7512bc50cd7250bc6",
+      "bytes": 5871
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/BAKE107_INDEPENDENT_REVIEW_20261023_aa_dhu_checks.json",
+      "sha256": "f25ac74164d10ce78fbc0cdd86f15a60e130497edb02b8f3154163fc30b77997",
+      "bytes": 1864
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/WATCHDOG_BEFORE_IMPLEMENTATION_SCOPE_GATE.py",
+      "sha256": "0e817a6c76e8a0e3d265ddfe2f2689cc3d58e60dafa54d9b6cb01799b17d1e9c",
+      "bytes": 1154
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CHANNEL_POLICY_LANE_20261023.json",
+      "sha256": "1c065891421273e36b479bb6ad1335f61c4694a61598df8a72c736acab4db491",
+      "bytes": 3918
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_CALLBACK_PROBE_OVERHEAD_REDUCTION.json",
+      "sha256": "fc2419639384df3785e5d58fa23975d1967600a34f7279be2bd2a6f524a14e32",
+      "bytes": 293
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_DHU_FALLBACK_SOURCE_METADATA_20261023_aa_dhu_checks.json",
+      "sha256": "3b13595f28b361113c6a6bde520b4ac532da4c7da53a8067085fa7a13427d27e",
+      "bytes": 1345
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_RUNNER_SCOPE_CORRECTION_20261023.json",
+      "sha256": "9e284cb3690a24f065c375196db7b34a1493486a41f03bbad8030672852aad25",
+      "bytes": 1145
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023_P1.json",
+      "sha256": "f701397e13f6ae6d78459ce0e333ce39cc5bc90c009249df56255ab7de512fda",
+      "bytes": 1750070
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SUPERVISOR_BOOTSTRAP.json",
+      "sha256": "7264af0d62c52164b80057102e539588542ace08d40f6928667a080c047d751b",
+      "bytes": 13049
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_SIGNED_SYSTEM_OVERLAY_LAUNCH.json",
+      "sha256": "d0d9ba39fb75aadcbde9d1305e53f4abe4ad122f10ebc25643921cab2a8ba084",
+      "bytes": 195
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_DIAG_OWNERSHIP_RELIABILITY_20261023.json",
+      "sha256": "66918051285be2f451b2cf37152fcb7a364d9abb9a6abf1175e672c8130a71ed",
+      "bytes": 10714
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_TRIAL_DEADLINE_STATUS.json",
+      "sha256": "0471c8166289212635d773356687efbd2590d2c76f718c667ec6de7f77dbcffd",
+      "bytes": 490
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BOUNDED_WATCHDOG_TRIAL.json",
+      "sha256": "8461094e4615fcc196c28e56cb4677b7954c028edfca713ff322a3aebdfbb336",
+      "bytes": 797
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_TRANSIT_CACHE_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "94b0cb4c91868d982d32213cf9aad252b8f9866d0b3c9c89a43c56793686e214",
+      "bytes": 2747
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_P1_CHECKPOINT_20261023.json",
+      "sha256": "66c5e99bc5047f757eb87570720db1fe067a83f827c7c03d1543736b791d2aa7",
+      "bytes": 479
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/contact-phone-integration-20261023/contacts-check.py",
+      "sha256": "fa450eead34a41ed2dcbbe298abfde2c32e0c34cc3130a380accf66f6f1497c4",
+      "bytes": 3210
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-start-standalone-20261023/run_preview_check.py",
+      "sha256": "7b1a67220041121ab769eeabe6bc17fef301b8a2895d4b7fe40c34b486d9dd96",
+      "bytes": 1221
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-start-standalone-20261023/RESULT.json",
+      "sha256": "897306ed318438f993676ea5613c7aa1b9d16bc0b4b5c3b5502ee8a081422264",
+      "bytes": 17022
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-direct-20261023/CAR_START_RESULTS.txt",
+      "sha256": "59ffbcc8cce0ada6bf1e1d3845ba78bf633f9bdaa5b147ea816ef28be23fe8ea",
+      "bytes": 74
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-direct-20261023/vela-consent-direct.py",
+      "sha256": "5aaa5dde5794fb3cc2da7f2dd90bca11f80f75bda44cad34052c32432779aef9",
+      "bytes": 1625
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-direct-20261023/vela-reliability-direct.py",
+      "sha256": "3a7b65fb89cb03af3ac37b5e3f309c9f7acb83abbf93426805fec251f0bbf047",
+      "bytes": 1340
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-direct-20261023/RESULTS.txt",
+      "sha256": "b6b46ef003240bc34b24096cd1261e679b6a2991cea0e577d9f4d2eb7e81f7b3",
+      "bytes": 713
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-direct-20261023/vela-trip-counterfactual.py",
+      "sha256": "dd87e492e0457b994538e1d587f4749b7d7f3c7f45be037bd8f25c1d2fabae65",
+      "bytes": 1620
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-direct-20261023/vela-car-start-direct.py",
+      "sha256": "87e679fb32153a525fa915cfecff0b25eb08c616bca846cef8d7d1a58b609fdb",
+      "bytes": 1159
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-direct-20261023/CONSENT_RESULTS.txt",
+      "sha256": "a5494ef29832a4cd108fec19110c659c29be577b5ddf275a424f0a86ad4f1781",
+      "bytes": 204
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-direct-20261023/vela-trip-direct.py",
+      "sha256": "a61531ed654e92e9cf46cd73ec35aea1de21ab0738838086b804febd10ded235",
+      "bytes": 1623
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-contact-consent-revision-20261023/RESULT.json",
+      "sha256": "c719a055d07178a6175b86e8fffe620a981f58547609fd596e4dcc1e1b9f1edd",
+      "bytes": 24466
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-contact-consent-revision-20261023/run_contact_consent_compile.py",
+      "sha256": "2b2052582130e17036e31b7cfaaaf29b85f8a51c1da1795d57abe53b1fb6c8d8",
+      "bytes": 1479
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-contact-guard-20261023/RESULT.json",
+      "sha256": "9719816443b42f76bf76cd20ff414fad0abb09b1eaf3c2c84f0f728cb1678f52",
+      "bytes": 15130
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-contact-guard-20261023/run_contact_compile.py",
+      "sha256": "567634f07defb825814323c3353b2bb606b5d0b61b0757c63120d63f4a26f82b",
+      "bytes": 1299
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-diag-20261023/vela-diag-counterfactual.py",
+      "sha256": "775c4d50845b4f2dbbebbb01b453b6c59a7cb9a22ddbf04a414f1a7d71da2fc9",
+      "bytes": 1621
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-diag-20261023/vela-diag-direct.py",
+      "sha256": "e90e147420188b9bb76e0263c70f2c7e84571360f70cdbd35f7ec3f44626bdf0",
+      "bytes": 1628
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-diag-20261023/vela-diag-scrub-direct.py",
+      "sha256": "60f77c54b1a521fda5a989e9e6afedd3c4d748efb4b15ca06f46076ed7505910",
+      "bytes": 1135
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-diag-20261023/SCRUB_RESULTS.txt",
+      "sha256": "a4fb8c5f4fe0121dcbd6ee84f502b121e3bc4e80bc84cc8ec7f9fea0ba7e8651",
+      "bytes": 345
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-diag-20261023/RESULTS.txt",
+      "sha256": "165d1e7f218175eb70aa9a78f3f3ddf836561d93b95f6986befd8f91384d3c37",
+      "bytes": 376
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-diag-20261023/vela-diag-scrub-counterfactual.py",
+      "sha256": "d71a7aee1ba989d37bfdef4daca3d174e6a355de5f448284469bd98077202116",
+      "bytes": 1146
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/p1-integration-compile-20261023/check.py",
+      "sha256": "8bae0d62c61ec377ac0e7528f0b110d70ddf6f5f3b1dda82db38ac7f19f67978",
+      "bytes": 3031
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/p1-integration-compile-20261023/diagnostics.py",
+      "sha256": "b1227138635c7201c8ef32abb7dde48f67bc6dbdee1d7870d153d9180b3a413e",
+      "bytes": 723
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-saved-20261023/vela-saved-direct.py",
+      "sha256": "7a6b8170f2e952368720e8fb7532d45a9969548640afaec9923e5817b25160a4",
+      "bytes": 1790
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-saved-20261023/RESULTS.txt",
+      "sha256": "9f6870839d59bb27c3c32a8d37718931d9d5f8395aef966cb48502a39be9bdff",
+      "bytes": 494
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-saved-20261023/vela-saved-counterfactual.py",
+      "sha256": "071bd89f533752411033c76f722c7dfcf6abe97e03260134198ccd234ed3b179",
+      "bytes": 1785
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/saved-phone-integration-20261023/saved-check.py",
+      "sha256": "a4199e45e81a80eeae75d61fd87ac503fe1495cc99fdb650d415ce0f5e214738",
+      "bytes": 3274
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-permission-feed-20261023/run_feed_compile.py",
+      "sha256": "71f831ca03514b3305bd633eba7078516e6629b109184119439df89c550f8ca7",
+      "bytes": 1278
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-permission-feed-20261023/RESULT.json",
+      "sha256": "877d119458c45cf807a9f53f7534d917e232f5146f3d959e02aba73e29ffad24",
+      "bytes": 17765
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-permission-feed-20261023/run_permission_check.py",
+      "sha256": "5706cbc8d06861675289a4e8dee6bf42bb855afdbfede0bb2a693aae74067cdc",
+      "bytes": 1704
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-standalone-20261023/run_lane_check.py",
+      "sha256": "9e7792cb844b031bebc3b9f674372d885e886ee6ad322a864747e5a2a6f5e4d1",
+      "bytes": 1621
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-standalone-20261023/RESULT.json",
+      "sha256": "55b70d0ca07bdb5afc5846ebf0242924d165b44556afb61e1b5617a2e44b4619",
+      "bytes": 1836
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-standalone-20261023/run_screen_check.py",
+      "sha256": "10856ba2787a326e2bd74f7caefe92ffe19b58a1f0576debdb99fa750d6f605f",
+      "bytes": 1212
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-standalone-20261023/SCREEN_COMPILE_RESULT.json",
+      "sha256": "502b4179028ddbee4ef8e8e155403fc1f8921d6947e2c179149a2c264b9046c1",
+      "bytes": 1508
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-precise-admission-20261023/RESULT.json",
+      "sha256": "a860c50357ab50e8340834e46adee776f5c91412f48b087fb7119a4e8ba15b26",
+      "bytes": 17776
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-precise-admission-20261023/run_permission_check.py",
+      "sha256": "5706cbc8d06861675289a4e8dee6bf42bb855afdbfede0bb2a693aae74067cdc",
+      "bytes": 1704
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/car-precise-admission-20261023/run_permission_preview_check.py",
+      "sha256": "c58394f3be8ccb8cad588ec927151ea3af7de389007bd88caae535ca4f2096e8",
+      "bytes": 1297
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/consent-phone-final-20261023/saved-check.py",
+      "sha256": "a4199e45e81a80eeae75d61fd87ac503fe1495cc99fdb650d415ce0f5e214738",
+      "bytes": 3274
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/bounded-runner-repair-20261023/scrub.py",
+      "sha256": "fbc05911cb1a3b402a9e9deeba78c3fcc9e010819168034c92ae0664dbfd7871",
+      "bytes": 1426
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/bounded-runner-repair-20261023/saved.py",
+      "sha256": "f37e9ff7e28e79d08b6f82c6e68fea9fbec7dd36f94b1eeb5a57bbab0b6c51bf",
+      "bytes": 2081
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/bounded-runner-repair-20261023/diag.py",
+      "sha256": "a370906c9c99160781be1f6d5aaee6c72f57929726845e483f4530bbafa3346a",
+      "bytes": 1918
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-transit-cache-20261023/vela-transit-counterfactual.py",
+      "sha256": "3d73aa912ef6bb699183cd1489f3596efa459ba030e9345007e8ea1135deb49a",
+      "bytes": 1009
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-transit-cache-20261023/vela-reliability-direct.py",
+      "sha256": "3a7b65fb89cb03af3ac37b5e3f309c9f7acb83abbf93426805fec251f0bbf047",
+      "bytes": 1340
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-transit-cache-20261023/RESULTS.txt",
+      "sha256": "db27389b1d3bd7e823588391c2ea0e311a1516293863215227c6f082cb214855",
+      "bytes": 461
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/reliability-transit-cache-20261023/vela-transit-cache-direct.py",
+      "sha256": "0e20b94ed57951e9a41c0522109f73d50442e5dbf99c5e8618b4a8bd9e20aba5",
+      "bytes": 944
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "a68cf0d6f837bc6c6b341a3ea4d918435268eccd784bf6aab8bb66c866983d3e",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
