@@ -1,0 +1,587 @@
+{
+  "capture_utc": "20261023T112158Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 94524,
+      "sha256": "9c020d0cc4912b3b06278e31dd5559710452651a6530ed9082f4129df9d4bb79"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SDK_FIXED_AUDIO_PERIOD_RCA.json",
+      "sha256": "0bde238029c3e61904eaf2f91830668a8a1ff03f17932551ba7617951f71d6d4",
+      "bytes": 1093
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_RW41_NORMAL_SERVER_UI_RECOVERY.json",
+      "sha256": "2839ed4dd3dad6e8c02d6319ba428f4b0ae427fb063ffd38f25078269ebc31ad",
+      "bytes": 565
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-session-pulse-v3.py",
+      "sha256": "8b1ab234f960154b525af9cd1635f757ad324852e435f3f6edc5b8b79165ce4c",
+      "bytes": 7440
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_UNDERRUN6_QUIT_AUDIT.json",
+      "sha256": "b501133c68f286b919f4979f4ff88fb17facf7c14d79d83bf3ab6ee62a57e083",
+      "bytes": 6173
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_BUFFER7_POSTQUIT_NATIVE.txt",
+      "sha256": "e55e46069d7edb7a089543e48dd3f8a30657cdf8ad2a3c76f8dd821b04c53f42",
+      "bytes": 838
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_FRAMERATE15_LEAD_REJECTED.json",
+      "sha256": "d891fb5e1a9c423a43381a59318639f26078aa119cd991cf4d26be2139e6fddf",
+      "bytes": 536
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SERVERFIX5_PRE_EVENT_STATE.json",
+      "sha256": "071e7d00c7e0d5de6165a111f68eb33da87c7f4f81be9f0a2195f4b0e130ab8d",
+      "bytes": 2456
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_WARM2_V31_QUIT_AUDIT.json",
+      "sha256": "be93c5aae58cecde473c9c850001f8f44de0ebcbe48db5439e8d17b36e10f168",
+      "bytes": 6865
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_BUFFER_V7_SOURCE_PREPARED.json",
+      "sha256": "a6976c8779517737795a08edde34ab907fdd8ff7e14c288a63214d13e5162903",
+      "bytes": 1240
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_UNDERRUN6_INDEPENDENT_BOUNDARY_GAPS.json",
+      "sha256": "e531531529454d010a16811d52adc20638e9a1ea9340d4ac249f5254232ede7f",
+      "bytes": 1020
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_WARM2_FINAL_HOST_AUDIT.json",
+      "sha256": "081911f6d545607d4797ba518cc769f8acc21809145d1aebf9bdccb7e0774045",
+      "bytes": 214
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_RW41_PRE_EVENT_PROTOCOL_ABORT_CLEANUP.json",
+      "sha256": "fb31d182109b3ce20efc5a944031a77a37550f5a49613defd34ec76c67a4df5b",
+      "bytes": 3584
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_PULSE_V3_HOST_VALIDATION.json",
+      "sha256": "2cc4956426cbf0de1395d0eac92ca5f1cd43cc9ddb2d620505d6d7252ee98fdd",
+      "bytes": 5323
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_ALREADY_CONNECTED_INDEPENDENT_HOST_RCA.json",
+      "sha256": "4d7234c778412868f5b873fe6eaecb82e01fb8f35f22e8dd2bd10adebc3f6c9a",
+      "bytes": 1777
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_RW41_CLEANAA5_ACTUAL_RUN.json",
+      "sha256": "44e6a869a8281c2afc09de764cd27a110216aede7e634bf7fcfd0eb9023934d5",
+      "bytes": 4849
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_FOCUS1_BOUNDED_MANAGER_SHUTDOWN.json",
+      "sha256": "b9d089183b4b7b7bde49458e7b8f5084de3b2bf5a172fcbd496ce3595b7a5b9a",
+      "bytes": 6356
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-session-pulse-v32.py",
+      "sha256": "430dc7a04df241055409bafab9b56dbc7379713b40c9104a5ce5add155ec4a67",
+      "bytes": 8853
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PULSE_HOST_SYNTHETIC_INDEPENDENT_VALIDATION.json",
+      "sha256": "30bb108deb39cdc4ecb79c2e744d6b4b9ce3e28e37a542bea3e30e7f2b08c58a",
+      "bytes": 1181
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-session-pulse-rw-v4.py",
+      "sha256": "f36fa58079b6ab163e7d5da3642083416e1dbd5b4cdb34a381aaf663806e1e93",
+      "bytes": 9412
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_CLEANAA5_EXACT_TARGET_ALIGNMENT.json",
+      "sha256": "d908cc2c77e215f5293468ee895f7d2e21fe2fc879d757990e0d305063f1b645",
+      "bytes": 577
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-rw41-buffer7.json",
+      "sha256": "be2a1845b5c72ed2bba56d08fcb804bdfa596cf68bc0a6f2cb3c28593cf2bbe9",
+      "bytes": 5469
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-run-pulse48k-once.py",
+      "sha256": "0f85610dbb1fa8a7d2071c40d66d9b6cc4514d45c56f8fa00fee45bba20ca08a",
+      "bytes": 3139
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-rw41-serverfix5.json",
+      "sha256": "4d7d6a0276f5bfca186e7d159f55412255d41a1dabff3e8ca2e288806ec93346",
+      "bytes": 2024
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_RW41_UNDERRUN6_ACTUAL_RUN.json",
+      "sha256": "608b1eb3e71e0005b2c4712742fc10a283dbc7465bcd40deb5a752ead87cb5f2",
+      "bytes": 4744
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-rw-focus5.json",
+      "sha256": "8942d519fcf7d95a52d3927375233d0956c7cc899d64e7506a0a16410f0ccae0",
+      "bytes": 2281
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-rw41-cleanaa5.json",
+      "sha256": "df6cf91c0cafa448e0ca187bf0cd34f36a2b0c7a64d6afb2412422ba8f947b2c",
+      "bytes": 5473
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_APK_CAPTURE_CONTINUITY.json",
+      "sha256": "6efeeffe63650f89de2c91c99d85d0539cf33059e7dbeb067f2d5cd1f0ed5989",
+      "bytes": 430
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-rw41-head8.json",
+      "sha256": "d0637aa29b0c46a8b75590cd7ef26e6e5f9f023cbfad1e88d2b08efd2f63cee2",
+      "bytes": 5408
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_V6_DEFERRED_METRICS_INDEPENDENT_REVIEW.json",
+      "sha256": "0f6fb55cf8d6dfc901e61f50b29e32a75b9e6b6f2c262325143146f7bf8221ac",
+      "bytes": 1028
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PULSE48K_ACTUAL_RUN.json",
+      "sha256": "4576824be18dc326e5bad3acc2647e41b0ebc01e37e3318f7495f3814875561b",
+      "bytes": 2333
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_CLEANAA5_POSTQUIT_NATIVE.txt",
+      "sha256": "44bb8f00c26c169d46b2ad4e4fc32dd47940022f60b1defc3177712e2057bd4d",
+      "bytes": 838
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_ALREADY_CONNECTED_CRASH_AND_NORMAL_RECOVERY.json",
+      "sha256": "079c6fd19cf6d5f5e5c69b9e6e951665b376825950d7e572c3b341ec094dfca4",
+      "bytes": 3464
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_BUFFER7_INDEPENDENT_BOUNDARY_ALIGNMENT.json",
+      "sha256": "25021d846910facd9c6b809a83bfec454d737cd0bfa082e1d181572434edd8b2",
+      "bytes": 623
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_ARRIVAL8_QUIT_AUDIT.json",
+      "sha256": "5cf635bd3e25dc44d76762d3a87d862ab926d5489278fde2b018f178f524bb22",
+      "bytes": 1226
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-rw41-underrun6.json",
+      "sha256": "0ad808ffb4ec284e9510415244a52c8521d0022ef1bb23d2cde5425d49765e71",
+      "bytes": 5460
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-rw41-buffer7-actual-controller.py",
+      "sha256": "6e9f07d5936efc27635cd8bc429d7d26b087b084fddcfe8bbf818eca8d142cab",
+      "bytes": 3667
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_UNDERRUN_V6_SOURCE_PREPARED.json",
+      "sha256": "59ee47d987d303e7515574946ff5e57e036bc32c0b903afd6b8e62200dd1151b",
+      "bytes": 1761
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_WARM2_CAPTURE_CONTINUITY.json",
+      "sha256": "7ee91cdcbf9632b93fdd2437e6781db73c7ee4cf144fb7f0200878700354ba32",
+      "bytes": 538
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_CALIBRATION4_CAPTURE_ANALYSIS.json",
+      "sha256": "8de8ac11daa003d14372c9e04db3415b82161b5c1997362e0b6b2d4815830a91",
+      "bytes": 567
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-focus-warm2-one-actual-case.py",
+      "sha256": "284a5fac0aecead1f510f4a246a23c62c58148182004680b318242c06fa3135c",
+      "bytes": 3636
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_HEAD8_INDEPENDENT_BOUNDARY_ALIGNMENT.json",
+      "sha256": "faf54721186085d95883f478a7ab971e76c1e68842a00bbfc850c6a52ce768ee",
+      "bytes": 661
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_V8_HEAD_BRACKET_INDEPENDENT_REVIEW.json",
+      "sha256": "1e2cf5c20fb7916144f73610f5a365044926b52b4fd4efd49ef3382769da6bab",
+      "bytes": 731
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_PREROLL_V2_HOST_PREPARED.json",
+      "sha256": "8eae961fdbec9a8c33bd7576c5fa6080b75e6b5612255a7d360eebb37dd354d2",
+      "bytes": 1526
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_PULSE_POST_HOST_TEST_PROCESS_AUDIT.json",
+      "sha256": "ce6b38e3f672ed51511893b0835d93b49880197297db1ae3c67266e059c3855d",
+      "bytes": 107
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_AUDIO_ARRIVAL_OBSERVER_HOST_REVIEW.json",
+      "sha256": "b3f545439cce1e25a8d38dd0fb02c7d8af592dfdc28186e8668b6054d8c68d90",
+      "bytes": 1357
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_RW41_HEAD8_ACTUAL_RUN.json",
+      "sha256": "b02ecfa5530fc7d061f7f9147f61568843351aebed5c41db7c8d49908f628be7",
+      "bytes": 4557
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-pulse1.json",
+      "sha256": "0b1877698cf4bb3a129eae22ea842283cebe141d05138c3b40e774e31dca5959",
+      "bytes": 7456
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_HEAD8_POSTQUIT_NATIVE.txt",
+      "sha256": "e9ccd46f9b44c5b42251bba58bf10658c55bcbcd32149365c95d3d39a9a0377c",
+      "bytes": 838
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_HANDSHAKE3_FINAL_HOST_AUDIT.json",
+      "sha256": "016b875ec4b7c74b8e5acac1c8982c7a2e5748d3439027b01184b1adb9662a3f",
+      "bytes": 6767
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-analyze-arrival8.py",
+      "sha256": "739675a74dfee92e7a733aa4474faa7e6f0aaf08eb9d228119fcecdb7998cb5b",
+      "bytes": 2235
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_STABLE_UI_V5_SOURCE_PREPARED.json",
+      "sha256": "7c80bb1d9eb2d6088c185ad156d72b3a2be4ea2c0760321a3989e8eb0b5acb2f",
+      "bytes": 904
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_BUFFER7_QUIT_AUDIT.json",
+      "sha256": "7f7559537b07e454a3486db636268a57011952b6835b2a000ed094234e3fb7a2",
+      "bytes": 1409
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_RW41_CLEANAA5_QUIT_AUDIT.json",
+      "sha256": "b3bb15921e43b02ee169af5e95ecaeaee8c5779eb5896e4cfa1e42e57cba34b6",
+      "bytes": 6078
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_HANDSHAKE_V3_SOURCE_PREPARED.json",
+      "sha256": "4f51c3158f6847ef03ea8ae88d669e7f49106beb8c79588f8eae2a9c602316a5",
+      "bytes": 1384
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-focus-apk-one-actual-case.py",
+      "sha256": "5437fb45c970bb9797b76505deece5369d4860550a9d43f6a0fc834964f21485",
+      "bytes": 3582
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_BUFFER7_EXISTING_HEAD_TIMELINE_BOUNDS.json",
+      "sha256": "32dd38ff8bbedb0d2998bf9c0198f3f54f67c6264a66290a73083352d1ebb2d9",
+      "bytes": 455
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-rw42-arrival8-actual-controller.py",
+      "sha256": "ad895615bf153f6ee4b8f2e2dd0b37079bcf31b5d6de2a998c6552db7c4cb57f",
+      "bytes": 3670
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_CLEANAA5_BOUNDARY_TARGET_GAPS.json",
+      "sha256": "1c634a5dcef8f2e7b4da0633dbd01e306e8c4811a8c5a63aa1d8c0dbff53365d",
+      "bytes": 10575
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_CALIBRATION4_ACTUAL_RUN.json",
+      "sha256": "6a62ead4e018a5cac8ee01fd97d6598b1ab84919135ae4ea82ce31ed214bce09",
+      "bytes": 4949
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-rw41-focus5.json",
+      "sha256": "d9ca429cf90ff32f5a6b8cb5a4fe6c0b30626142a2331baf3f3dc31b3525b6fb",
+      "bytes": 3012
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_RW42_ARRIVAL8_ACTUAL_RUN.json",
+      "sha256": "f101f57793623d4ec70e5b58fede6e2230b11fc834ea00b20b47f0121d313352",
+      "bytes": 4471
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-rw42-arrival8.json",
+      "sha256": "a0a5ae45fc694facae1f9c8988722b4804f0f84afe5329e0e2e76170472a7f04",
+      "bytes": 5614
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW42_ARRIVAL8_CAPTURE_AND_METRICS.json",
+      "sha256": "527870a756a332edb568e3816bd092a01c69dd70164e470e6d5d0771ceaa3264",
+      "bytes": 4466
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-session-pulse-v31.py",
+      "sha256": "b9f9463c4b53c624623527aac844b9c34a32faff6937900898a5d2dbc9e032f2",
+      "bytes": 7852
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_PULSE_V32_MANAGER_REVIEW.json",
+      "sha256": "f3a2ed2be9462f3e433afb0006bc9d2fb2af7779ed34e31e72ecd2bbdcb9600d",
+      "bytes": 608
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-session-pulse-rw-v41.py",
+      "sha256": "41ed3324ffccd99f92c7de908739ed899cef1aecd023369013ccbf6bbd94e046",
+      "bytes": 9415
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_RW41_BUFFER7_ACTUAL_RUN.json",
+      "sha256": "2e3296afe2dcf0d208d78c3fa5beca476976c79714ecaa84132f8c08fea72e5f",
+      "bytes": 4283
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-focus-calibration4.json",
+      "sha256": "e3152ec1675c6afbf8baa99f033a3ecbc91fbd5813654b6504cfa180b3cb898e",
+      "bytes": 6399
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-focus-handshake3.json",
+      "sha256": "40e5d3cc7d0ee475dc4563dcb9f4e0ae556b5146e6e0fd08cbcedd8f0f4c156e",
+      "bytes": 5829
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_HEAD8_CAPTURE_AND_METRICS.json",
+      "sha256": "446f049352ee78a7d5cd489e2a8f0c5f9a2ed967a49603de77535f2194c8d6a9",
+      "bytes": 4708
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_AUDIO_ARRIVAL_OBSERVER_INDEPENDENT_REVIEW.json",
+      "sha256": "ac644524a7231ed4df3eaf18e0e0274652cc833276a62f9f03605b7e02f819a4",
+      "bytes": 1290
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_APK_ACTUAL_RUN.json",
+      "sha256": "0b803cc6ce8a9600071a85607897fd4beed90c30f99d42a7be37abe80adbc288",
+      "bytes": 3522
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_CALIBRATION4_POSTQUIT_NATIVE.txt",
+      "sha256": "ad40e43c00081ef5b9cbaa6cef7229fef97404742bc7ac4a428f3fde8091c87a",
+      "bytes": 838
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-rw41-cleanaa5-actual-controller.py",
+      "sha256": "6b02f18ea2b1b0b8d7d70103b49b7c6a9b31100f98cd18ded4144f6895ff3278",
+      "bytes": 3675
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools_dhu_pulse_runtime_rw_v4.py",
+      "sha256": "fb92c781f3632bfe7e6a303b67f0a5baf439df0900a85187acd4854e899b091e",
+      "bytes": 6863
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_HANDSHAKE3_ACTUAL_RUN.json",
+      "sha256": "d108e8e697580666021ddb3f70b629c66d1e745db4c2ac4a960d83b8e80a7fe9",
+      "bytes": 2201
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_UNDERRUN6_POSTQUIT_NATIVE.txt",
+      "sha256": "6bd9e0215c46d422341e4122108b98a9d41a33168367d4ea8b144b702c96ef3a",
+      "bytes": 838
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-pulse-observe-ready.py",
+      "sha256": "ba34f9080049e2f41e1635c9c7fc5b645b7f8d8097ded22bbc97c0728174a812",
+      "bytes": 2964
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools_dhu_pulse_runtime.py",
+      "sha256": "73d1a436a8d8c314eddb439299abf78d042a90f55c0e61a2f76cde37407233f8",
+      "bytes": 6718
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-rw42-videooff8.json",
+      "sha256": "fb20d8653d12943ca99c0ff3748686708a2d77200cab8be4c5df3917578dd03e",
+      "bytes": 1993
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-analyze-head8.py",
+      "sha256": "772b1a89795105c7f5f3ec0120853da7355fc0abe14bd3a5475768dc22a9d825",
+      "bytes": 2218
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_RW41_CLEANAA5_INDEPENDENT_GAP_LOCALIZATION.json",
+      "sha256": "88e938649c245c3856879ff7f9f17e309a31ee3cfd6dbf57b45893e019fb8f1b",
+      "bytes": 9544
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW42_ARRIVAL8_POSTQUIT_NATIVE.txt",
+      "sha256": "c8d836bdac1cffb79ada31dbe76a42566d5c65621a684ba7d476304a63f416b5",
+      "bytes": 839
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_APK_HOST_PREPARED.json",
+      "sha256": "4c89819f55784d10e8ab534214fbcc4f8f692d6bee0f3a35f0cf7eddde12987e",
+      "bytes": 1806
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_PULSE_V31_MANAGER_REVIEW.json",
+      "sha256": "ae7ea2c51fff7960da1e312a5df25b5928b11ce711aa0b35460b1fc077944756",
+      "bytes": 795
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-rw41-underrun6-actual-controller.py",
+      "sha256": "deb5be18aa9aabb1f4aa597a8de9fabe248b2f52e688b466ce8e34e89cf8099a",
+      "bytes": 3677
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-analyze-buffer7.py",
+      "sha256": "fc41103c060be4650bda3ee2c6a6777af12a94445e0ceebd55a585e5cd26698a",
+      "bytes": 2230
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_CLEANAA5_CAPTURE_ANALYSIS.json",
+      "sha256": "255dc2e78ea323a8b94ccc30ece1fa3f3dc9ffcc2d9230ebf015fca1983199d3",
+      "bytes": 1065
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_CALIBRATION_V4_SOURCE_PREPARED.json",
+      "sha256": "08683444f86a75c623e4c28c6866cd69af2679ff3e4f495c5dc8d4a445eea32c",
+      "bytes": 1253
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_ARRIVAL8_ZERO_CALL_TIMING_ALIGNMENT.json",
+      "sha256": "203cffdd17e5ced5add6639a385ade4b2e5f876c22a09b9a30b93fcdd347db95",
+      "bytes": 3223
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_LANE_CURRENT.json",
+      "sha256": "360c65adf7dcd14f9c1fd6523fd55dd134f4ea3f3c03d24c9e0cc3b6a6ce8053",
+      "bytes": 3294
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_FOCUS1_HUNG_CHILD_IDENTITY.json",
+      "sha256": "a5bb531dd20237dc625bef129dda0570ec2e156dfb1e09fc4f23ef7b6a54dec1",
+      "bytes": 543
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_HANDSHAKE3_POSTQUIT_NATIVE.txt",
+      "sha256": "75893529604572846868d5e25bb671183bbd4d04c8f7473eb9660228ed05d133",
+      "bytes": 838
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_UNDERRUN6_CAPTURE_AND_METRICS.json",
+      "sha256": "0b72b2aac789b34b5b565399a3ae04e54566da5eda06330da36d4b49acb57a7d",
+      "bytes": 3114
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_HEAD8_QUIT_AUDIT.json",
+      "sha256": "680b78c4aafc125d24674be3abc7c0594bfbfc9ea1124241d53e22122043253a",
+      "bytes": 1194
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PULSE48K_CONTINUITY.json",
+      "sha256": "b84c2f7abadc0e73c2748cd8c8dc588854e12af77d7d523a5477865561a4e7e2",
+      "bytes": 502
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_WARM2_OWNED_ORPHAN_KILL.json",
+      "sha256": "028eb3e1e9c938ad96611b23fe0c3c845054b93893f30ff88d2b0ebb038025ef",
+      "bytes": 301
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-rw41-v5-actual-controller.py",
+      "sha256": "08b02075e988e4a2893f3a108663b9d3710e50dffa46176cdde2d6cd074e18e6",
+      "bytes": 3659
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools_dhu_pulse_runtime_v31.py",
+      "sha256": "eab27e805fd38f2e2daf2cb58c5fbb373d0f6442245b4583b7e58c8b6fa9cbbe",
+      "bytes": 6865
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_PCM_BOUNDARY_V2_SHELL_EXEC_HOST_PROOF.json",
+      "sha256": "ee522715aa2747876639fafab825ed5f4858d590bed5fcfd14118b8fd2c7376c",
+      "bytes": 4864
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-session-pulse-rw-v42.py",
+      "sha256": "74e2e38cc89e65a7e517a8c19d9e7ba9bf4f7ed873a3eede830617c830581cba",
+      "bytes": 10360
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_HEAD_V8_SOURCE_PREPARED.json",
+      "sha256": "2a5f956ff8481bde9090b75f4e9ab6937322e87c0301f6747a7945bdd25eff07",
+      "bytes": 1352
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_RW41_BUFFER7_CAPTURE_AND_METRICS.json",
+      "sha256": "4f3c42dab4181bd3db435b162a70d88f7e1b97c1aed120ad752226c183b835e4",
+      "bytes": 2933
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_PULSE_HONEST_RW_V4_HOST_PROOF.json",
+      "sha256": "e2ce7c31c56262deea1d6676680cc033d3c6bf2ab3652932087d9d4090b70849",
+      "bytes": 5853
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-focus1.json",
+      "sha256": "06b0039d40f7c89952168b9b742fa6d953fe2858bd30e57e65812dd99427b344",
+      "bytes": 5203
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_WARM2_APK_ACTUAL_RUN.json",
+      "sha256": "4e257968b9d4b24e91ba0fb942be5f11e5eddbc472c5496e3e80ef258514e943",
+      "bytes": 3492
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-calibration4-actual-controller.py",
+      "sha256": "36d324d5ab0936619ef8417947975494b0f7c0ff5e41a576bfd6ffa62e48fb64",
+      "bytes": 4115
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-rw41-head8-actual-controller.py",
+      "sha256": "5f710d68b659fa8fd25e21d170217d411fe17202c72d2db47cdb2ffdb6a2862c",
+      "bytes": 3657
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_FOCUS1_OWNED_ORPHAN_KILL.json",
+      "sha256": "f0554dd3e3b41ba08c341717d7e4e1471d0de873aee555d3f77b8b33996e66bb",
+      "bytes": 527
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-focus-warm2.json",
+      "sha256": "24e08d713cd0d31dca1b1f8193ed3ef0e2696f8900c04bd15a4f5fcda986a8ad",
+      "bytes": 5973
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PULSE48K_ROUTING_NATIVE_AND_TAGS.txt",
+      "sha256": "c3799fde6000dab7a6fe9c584bed42327a2c482279402c755f863d4432a283b4",
+      "bytes": 1314
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-pulse-isolated-host-test.py",
+      "sha256": "93ac9274ec57c8769b1ea3eba9ca66764464a256df1a95f86ade5b4736c60276",
+      "bytes": 8140
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ONLY_RUNTIME_CURRENT.json",
+      "sha256": "01ec8250ebef2d299e5c0750d943149dc42d8c32a91eb611c5c4bc8d1305f8af",
+      "bytes": 3138
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_WARM2_POSTQUIT_NATIVE.txt",
+      "sha256": "dc7e102c469b86d80cdd2d9c1bbe81e69d65e067b213921cea4420a350735699",
+      "bytes": 837
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "9c020d0cc4912b3b06278e31dd5559710452651a6530ed9082f4129df9d4bb79",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
