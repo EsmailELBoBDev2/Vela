@@ -1,0 +1,437 @@
+{
+  "capture_utc": "20261023T152210Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 85084,
+      "sha256": "d0da649724989efac8f61460c82959729adec3bb97b46371fc96d5e5462cf1fb"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SPACE_CACHE_AUDIO_QUEUE_RESULT.json",
+      "sha256": "4d929bc279ac47b527a34c5dadcd53f7736263be0863f89ef90f3171f6b686c9",
+      "bytes": 1653
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SDKCPU_V9_QUIT_AND_ROLLBACK_AUDIT.json",
+      "sha256": "e5d4c1cc00133e676a451b7662a1b716abf3f1569e4bf484c877818dd3ab704d",
+      "bytes": 1887
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_UPDATED_PROFILE_CACHE_FAILURE_VERIFIED.json",
+      "sha256": "1aa8b0d099d5deffcf83d583ae0bbe53f9aa69399b5cdca9d7050bb9f24cddb9",
+      "bytes": 1043
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SPACE_AND_VERIFY_FALLBACK_REVIEW.json",
+      "sha256": "92343639d93ff5bcbdf713c7663f9d13173bdd0fd36482e8f20eb17bf5b2b993",
+      "bytes": 946
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_SPACE_V9_ACTUAL_RUN.json",
+      "sha256": "fc69cdedc5b0a4d4eec1547a2f8813b12e211b2c0f76f3aad6a3fd6f5da49cd0",
+      "bytes": 8987
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SPACE_V9_CLOCK_EVENT_BOUNDS.json",
+      "sha256": "c29f55d5b1ba0bf7bcc5f5404a679c8508d6abfba0a0dca4ef2ecc26b252cc53",
+      "bytes": 2489
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-orc.py",
+      "sha256": "5499985fe60dc3bc9d8cb21fb9c457b0a0abf1a59cb0c816e5529073097e06d9",
+      "bytes": 1444
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SPACE_V9_QUIT_AUDIT.json",
+      "sha256": "8ca0291c536bb22898c60ef201915e73fa07c7088c3d7f6a2dc4bef925b128b1",
+      "bytes": 1463
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_AA_VERIFY_CACHE_PEER_REVIEW.json",
+      "sha256": "fd5a78777b414e2508352db18d9819cfc751e7b21e8562286a37ff113b2d700d",
+      "bytes": 812
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-systemd.py",
+      "sha256": "e857eb8e70040b5b26b23ec71e1ddddba45d8fb39f7745d461275740e9a2d7cf",
+      "bytes": 1448
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SDKCPU_V9_CLOCK_EVENT_BOUNDS.json",
+      "sha256": "d5403314edb4c268e86b5cc76d2928979ca3162f16c3f5a5dd98916a3d234e7f",
+      "bytes": 2491
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-updated-profile-cache-v1.py",
+      "sha256": "9355bede9f6bd6db4bcecaa6ec080a24bb31e1fb12ad7811da9af67f8ea1577d",
+      "bytes": 7876
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-space-v9.json",
+      "sha256": "8de5c1f1e58d21ab5608ea06dcceacaef3af74892233259d91c8a6142676d3da",
+      "bytes": 5627
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FOSS_REAL3_PROTOCOL_RESULT.json",
+      "sha256": "f99b92797b1bc46fd4c865a835ebc5c56ddd5de2b58687a9ac3c8b62b5082f69",
+      "bytes": 2368
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-private-session-v1.py",
+      "sha256": "954a68a960712894463aa7ac48b877a4aad24ba98c4916f54d0003d79e8ad003",
+      "bytes": 8125
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-space-v9-actual-controller.py",
+      "sha256": "44795ef35d200169519ad5c5c72e57ae98ca963e99ee49ec330d883a56a13302",
+      "bytes": 6148
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_FIRST_PROTOCOL_DIAGNOSIS.json",
+      "sha256": "85d4f34e0513476a88d02638b4b84061c28990e0244d5e19c66e954ba94430d0",
+      "bytes": 770
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_ART_COMPILER_WATCHDOG_PRIMARY_RESEARCH.json",
+      "sha256": "53ad0c2f1604a0276a1326231fe64b2983cf304fe5d9b52510d976e81f27efec",
+      "bytes": 1958
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-opengl.py",
+      "sha256": "0e87288eb22872cda2a7d5c6203e3a59a6d7919282a4f1f284e44d01d83cb35e",
+      "bytes": 1471
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-ffi.py",
+      "sha256": "aaa72a7d751712d1533758b0405d9ef26a784ff98e9027d4ecf736f8bb9360cf",
+      "bytes": 1440
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SDKCPU_V9_INITIAL_MASK_AUDIT.json",
+      "sha256": "c1cbbf476e11c2004e7113084cda3785f4488ff549b9ec3aa737b49ee0abec3f",
+      "bytes": 46169
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-dev.py",
+      "sha256": "d726c059def6001e1fa2cbd63ee16b6fa16e59853641197322c0fea84bc6cc26",
+      "bytes": 1997
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_AA_SPACE_CACHE_PEER_REVIEW.json",
+      "sha256": "217eddcae6147364e531db4bde9ed6db129ff33991b84ad00fcdbf7302847d05",
+      "bytes": 923
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_CONFIG_ISOLATION_REVIEW.json",
+      "sha256": "631606576d19d69c7f945a6e859a45cc5a389cc4f31d746f7d5279dbd1283039",
+      "bytes": 3248
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SPACE_CACHE_V1_STATE.json",
+      "sha256": "6cf04976a773138a20710b9ca1c256a86acedc1eddd868b9874d97adc7e816f3",
+      "bytes": 3104
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-analyze-space-v9.py",
+      "sha256": "b15741eb9effc3c00ee8f6b02bfc2391353da92bffdafe51423a17d782334bf3",
+      "bytes": 2210
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-private-session-v3.py",
+      "sha256": "c6f042c60b2dbaf16c8792fb2b41816f69a46efd7827b382af1319d7f2c1607d",
+      "bytes": 8415
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_UPDATED_PROFILE_CACHE_PEER_REVIEW.json",
+      "sha256": "2e8510cb0324a6269082ca9dfddbe7a970925eb10254186457e106c84c7ef202",
+      "bytes": 883
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SPACE_V9_CAPTURE_AND_METRICS.json",
+      "sha256": "b2bfd07689873ced034b731a9a122673fe650818188b857a5ab36788c5ae8e8a",
+      "bytes": 5385
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_UPDATEDPROFILE_REPLAY_HOST_PREPARED.json",
+      "sha256": "32e2acd9a6e9ac19dec48f65d340d237ebe9e5f3a203c7194e8772fe5f7e7012",
+      "bytes": 859
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_REAL3_AA_SERVER_READY.json",
+      "sha256": "74abbd53181bf52c4737e874b701e8e021e8401a83fa1daa02c1a4d3b187e674",
+      "bytes": 579
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SDK_AFFINITY_BASELINE_HOST_ONLY.json",
+      "sha256": "2d16fb813352669f57823b368725c517cefc3e67575f7f3fa5fc290120f0827c",
+      "bytes": 33192
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_AA_PROFILE_TO_SPEED_SHARED_POLICY_CAUSE.json",
+      "sha256": "dfb4843c92aaa21443fa5eddfaf366a196b98f8c0bb97a64aa30a99881091c66",
+      "bytes": 1515
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SPACE_V9_ACTUAL_HOST_IDENTITY.json",
+      "sha256": "cd157d2fb64c1843a32c47de71413431ebd6291b4aecd04a16f4b4ef234c7910",
+      "bytes": 1135
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOCUS_SDKCPU_V9_ACTUAL_RUN.json",
+      "sha256": "33622f85437ebcddfd7be42da4d92b8660a0e445aa75a6c5a429d4cb5edc78a4",
+      "bytes": 18166
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-private-session-v2.py",
+      "sha256": "4b8af5373f9b72199040eac567ef7029998dbc47a1aeeb2c17c41ca78f22772f",
+      "bytes": 8244
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-updatedprofile-v9-actual-controller.py",
+      "sha256": "e1a76d73d79734140e5088b3dd6144be842f4f1da2a11b6a9a7db3000b4a6a38",
+      "bytes": 5965
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-qmake-protoc.py",
+      "sha256": "fca98685451950ed53f4bea570decb48c0f09c8d36c3ada953c5f46f6f5ae3c1",
+      "bytes": 1475
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-bluetooth.py",
+      "sha256": "6e3d8fe653866ee1dbd3925a97a9cfceba18a40372435a4577604c4d01632828",
+      "bytes": 1452
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_AFFINITY_AND_FOSS_RECEIVER_FEASIBILITY.json",
+      "sha256": "b6b1ec97b0bbb0214fe63fe11011784efb3d22cd5edc4684cfbc1b80e0a9fa11",
+      "bytes": 2925
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-session-pulse-rw-v47.py",
+      "sha256": "f4c266d0a6228932b5cc101e8c77c0c81a245450f2030616d17a9bcdf68a8a41",
+      "bytes": 13330
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-gio.py",
+      "sha256": "f816bb4966914c79103004f4b6760de747471cddefd463f430f27c6af3fb89c6",
+      "bytes": 1444
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_AA_NORMAL_SERVER_READY.json",
+      "sha256": "6ae91178c653d8efe163866a0b0f5fbe84978fdf4f0c0a35540e302c3e8307f1",
+      "bytes": 565
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-analyze-sdkcpu-v9.py",
+      "sha256": "b8a826f9d0f8dd953f229998ab9a519774af63b899d88142ad9d932cfc5d9fd2",
+      "bytes": 2216
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_HOST_AFFINITY_FEASIBILITY.json",
+      "sha256": "a94d073b2f73f3c2638afcc786ece011e3d53966c8bfb256b5093d1bcf543c2e",
+      "bytes": 501
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SDKCPU_V9_POSTQUIT_NATIVE.txt",
+      "sha256": "8b73c7fbf93391b9477bda94a33e8f0f038e54231115b65ae5334ecf4e68075a",
+      "bytes": 772
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-space-cache-v1.py",
+      "sha256": "63b69daa64979b025bbce2e64845fec1c12274a0f9edafde8791f57fcc17c7b6",
+      "bytes": 7754
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_REAL3_PHONE_DIAGNOSIS.json",
+      "sha256": "3fbe76296640119b9ee8a93d9049dcac44e22198ca46f2ab45c403a7753e6aa9",
+      "bytes": 702
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_AA_FULL_SPEED_FAILURE_REVIEW.json",
+      "sha256": "2ce598a9a7a361d17f781dcfc36f08828d7a83ffc87d235b8f810172430b5b84",
+      "bytes": 1483
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SDK_SINGLE_HOST_CPU_DIAGNOSTIC_PROPOSAL.json",
+      "sha256": "2da498e85723f0da3de9bbdb278d77f7073566d3e614e180a096ffb8125d7cbe",
+      "bytes": 2658
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SPACE_REPLAY_HOST_PREPARED.json",
+      "sha256": "077a7f0d68d0fd44cbbc53243145babc55466d32d92cd943fe6aaad3f03f712c",
+      "bytes": 553
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-verify-cache-v1.py",
+      "sha256": "afbfce7bc22a84680e62582e87acd83c6b8b765b1f810934271f2d262ded4dab",
+      "bytes": 7776
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-core-bounded-build-v2.py",
+      "sha256": "270b641e11b2225fd77b3e0c95c1e46fd96ee9346ad416ca37dc23d7505e6ee5",
+      "bytes": 5852
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SDKCPU_QUEUE_RESULT.json",
+      "sha256": "9bd1aa59ce31efeacc39001dd7ff06336c5e686ce7956090adb2be15caf62cf5",
+      "bytes": 842
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-foss-private-runtime-adapters.py",
+      "sha256": "27360f2ed9badce2288a5b5a3f09c72561ea15da0d922568ca48c1b08218c691",
+      "bytes": 1421
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SDKCPU_V9_NEAR_READY_MASK_AUDIT.json",
+      "sha256": "19e47b6bfd0083d677a9044b8eeb70d48d9109bdf543834132e584f929a659a8",
+      "bytes": 45504
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SPACE_V9_POSTQUIT_NATIVE.txt",
+      "sha256": "6105ca64c836e1ba6f4a7bb8ddce2a7d4248e3a9673fe6e424dcd4bbfe2a1ca4",
+      "bytes": 789
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SDKCPU_V9_CAPTURE_AND_METRICS.json",
+      "sha256": "ad1ee46e65ffdd7d192cb5d221250951b11ca5588955ffa3a4cfc6b42618e110",
+      "bytes": 5779
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SDKCPU_V9_STRICT_TIMING.json",
+      "sha256": "718c99404c94fa48b8af30045f74c3097983ef1ca4998598aaf57c1701360762",
+      "bytes": 3476
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_PRIVATE_PROFILE_REVIEW.json",
+      "sha256": "b313f20eafba9351d426a725dfaa9701012dc04f0a4eaa1f21dba949c7032371",
+      "bytes": 1279
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FOSS_REAL2_PROTOCOL_RESULT.json",
+      "sha256": "90ad757edde4757ca58b30fe645675a2ca72598be8b372dbb5fd31d6a96f57ae",
+      "bytes": 2332
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_UPDATED_PROFILE_SHARED_FILTER_FINDING.json",
+      "sha256": "2e6d0c37196bdd204e0a98df6148ef2eaa620383ea8959b1373465b46f00a53b",
+      "bytes": 745
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SPACE_CACHE_QUEUE_RESULT.json",
+      "sha256": "fb8764c122102a6a1963f038148cecd27ae517d314deb8e5852a90c2f7aa9e3f",
+      "bytes": 361
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FULL_SPEED_CACHE_V2_STATE.json",
+      "sha256": "ff8d5f48e9e2332986d7253c8c27b0105c5a085cd0d98a39fa8e96076cf92678",
+      "bytes": 1892
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_BUILT_SOURCE_BINARY_INDEPENDENT_REVIEW.json",
+      "sha256": "6c44e09a1b077f6f2d7bbb29738ec784acf556ab30419ef732e3aac4ee2f9a87",
+      "bytes": 604
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SDKCPU_REPLAY_HOST_PREPARED.json",
+      "sha256": "c051d22a02d6f4f39760d68e5dd24f5ed6967b68d41fc1095f68f13af38937fb",
+      "bytes": 416
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_AA_FULL_SPEED_CACHE_V2_PEER_REVIEW.json",
+      "sha256": "7d0eabebf85f7c13e44ca3c53a98257cdf1244c38bc0e476ae2cb541c4d8aee6",
+      "bytes": 683
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_LANE_CURRENT.json",
+      "sha256": "64f16a54f8dd7ca28cff0ed72937688bed9e40d7de738d9aa193039cdf0ceb61",
+      "bytes": 621
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_CAPTURE_HOST_FORWARD_INDEPENDENT_REVIEW.json",
+      "sha256": "6377d4553cf18e2a5a76a7cfddd8b33b99062df8adca55facda7caadb42cae6a",
+      "bytes": 1348
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_FOSS_REAL3_SENSOR_FIX_PREPARED.json",
+      "sha256": "c144777f74b48fd773241f5171c7819c9fc31dd355734e7c335f91c9ea62befa",
+      "bytes": 782
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-sysprof.py",
+      "sha256": "0b1c56e71a57974d9a307304082358b007a3c85c5888ea05a14360aa398b0186",
+      "bytes": 1458
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_FOSS_AUDIO_PUBLIC_CAPTURE_FEASIBILITY.json",
+      "sha256": "b70d390cdb14829bbcb0ab60edd6dc59a14688f0968e959454b2af308ddd8dc3",
+      "bytes": 1986
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SDKCPU_V9_ZERO_CALL_ALIGNMENT.json",
+      "sha256": "31733177316c57f5a3dc6c4886df33194d92698344c9dd96f1d571a852cd9974",
+      "bytes": 2457
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-core-bounded-build-v1.py",
+      "sha256": "b4beccb183162ef104246edb971e32378dd47a3a27127615accb248260fabb90",
+      "bytes": 5841
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_WORKAROUND_QUEUE.json",
+      "sha256": "bd53e83ee86c6c78fac90a79f5aa14df76eac20c5c4ca75f288998b302cff51a",
+      "bytes": 5621
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SPACE_V9_ZERO_CALL_ALIGNMENT.json",
+      "sha256": "c94b74fbbddf98cbc8e2bb13df99d416b41b4dece5ba6c2ac389b345137b1e56",
+      "bytes": 1517
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FULL_SPEED_CACHE_FAILURE_VERIFIED.json",
+      "sha256": "76f418aa962e2cf0ca828901e1b418ef264a7909fc5d882f83be2b05ef42d4be",
+      "bytes": 531
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SDKCPU_V9_OBSERVERS_ACTIVE.json",
+      "sha256": "2c06991cd217c1e96e5facfab7a4599f3ef462937c72334914f859402c3e1ff8",
+      "bytes": 298
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SPACE_V9_STRICT_TIMING.json",
+      "sha256": "67dcf6ab35821584296b0c77c2c870e55e857eaadf33f539ac1d7c6bebc16f85",
+      "bytes": 2732
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-sdkcpu-v9-actual-controller.py",
+      "sha256": "a9d1b8d7dffd8505576d7faae4305ac07b54da8bd1634a4f5c69b6944cdcb758",
+      "bytes": 7694
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_UPDATED_PROFILE_CACHE_V1_STATE.json",
+      "sha256": "cfb8a986e391ab1bd18a76f45e94050d127814ddc814f56fe0740d7488baa9a6",
+      "bytes": 2127
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SPACE_V9_OBSERVERS_ACTIVE.json",
+      "sha256": "5090bf5b96dad18ccbcf03dfc68d32f7201d4b6202e735854c428c7ba4148e1b",
+      "bytes": 284
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-sdkcpu-v9.json",
+      "sha256": "622edbf7a883b8c62d8fd52d357f841d8365747e9f87fb98bd8d5779d3c2ffa1",
+      "bytes": 9812
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-stage-foss-dev-extra.py",
+      "sha256": "4c2aee6e0b138d83c01329d5b52933e96ba88941ba93ee72fe7d2195363429a3",
+      "bytes": 1636
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "d0da649724989efac8f61460c82959729adec3bb97b46371fc96d5e5462cf1fb",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
