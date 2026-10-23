@@ -1,0 +1,462 @@
+{
+  "capture_utc": "20261023T072147Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 151784,
+      "sha256": "e4c0498a59747f45cca0c9ed0afc946f9761279271d366fdfdc4e08d160fc928"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "3cb600733ef5057508e35c22f31dce098e23c3b86dcde9a5b5899f0957385b30",
+      "bytes": 2022
+    },
+    {
+      "path": "cairodrive-research/continuity/RECOVERY_CHECKPOINT.json",
+      "sha256": "1259bed9d7ecbbead2be80b1837d733ef7b7a2c15ba51ac187f5db9b74ff86a6",
+      "bytes": 3575
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PROJECTED_TONE_POSTQUIT_AUDIO_TOMBSTONE12159.txt",
+      "sha256": "f7822cc7ea196ff5a09da99de13463ec068209ab6964358a791b75843f62d782",
+      "bytes": 218938
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PROJECTED_TONE_POSTQUIT_AUDIO_EXACT_RCA.json",
+      "sha256": "957b1286e2351dbda7a647370600e357d3cb203c7ec3992b9462090dad0964fe",
+      "bytes": 1140
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_METADATA_GATE_POLICY_PREFLIGHT.json",
+      "sha256": "27fd55d7a2939935ceacfce6c2e383840d518e9865e0b6706ee961c9d0d8be30",
+      "bytes": 2424
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-single-tcg-validate-registration.py",
+      "sha256": "1c5f6a4dc0991291ac898d19c375f0d4226531d43f352268ab6c03b765791648",
+      "bytes": 2889
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SINGLE_TCG_AUDIO_READY_GATE.json",
+      "sha256": "eb3f9e11d9c60d38c516a300f2566405df46f277cad1f36b298821d162acdf7a",
+      "bytes": 224
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PROJECTED_TONE_ACTUAL_SEGMENT.json",
+      "sha256": "8d5070c04cb76417da64d159685f75ac257645daa929ae6755db39838cd07faf",
+      "bytes": 1033
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_AOT_VERIFIED.json",
+      "sha256": "772257ebf70b7c592c5812f059a0fc97d8be747d36dbaa61278164ac2f552f2e",
+      "bytes": 958
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa31-prepare-metadata-gate.py",
+      "sha256": "68a661408f56ee98572a286d67979590cad51cbe3a754d94317bc774f9a0129a",
+      "bytes": 5498
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_POSTAOT_INTERACTIVE_ACCEPTANCE_PLAN_20261023.json",
+      "sha256": "beeb160ec34b1e2e16e1f78affdf2a7c80e3769f760b813b2897e15cc63a6689",
+      "bytes": 2992
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa31-stage-metadata-gate-v2.py",
+      "sha256": "d44b53cd2cf014366df5d4329ac898d4e76b045b6305d9fbc853c6da5da06324",
+      "bytes": 4196
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_NOTIFICATION_REBIND_AND_RECONNECT.json",
+      "sha256": "ba6a5db8d34eb3f5506efedb6c3e2ea7cd3ec96a8da2a6523b468dd45f1fbc0d",
+      "bytes": 1539
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_VELA_SINGLE_TCG_AOT_VERIFIED.json",
+      "sha256": "df7491f91e7559e935a02f799c0a8f5783776dd69de71d87f326fe07bcdeb268",
+      "bytes": 1905
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-v2-controlled-restart.py",
+      "sha256": "12e32d6588d2a99820fb14c42ec30a82db17ecb8632075dd8402f6b3d058a808",
+      "bytes": 12294
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PROJECTED_TONE_ACTUAL_RUN.json",
+      "sha256": "588e35e51e53f3bc55662b32e5fdb372189be0a241b014a6ba3483dc5457e592",
+      "bytes": 2281
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-single-tcg-native-registration.py",
+      "sha256": "412f9027310a0a5048dee0a9db76c30976d5d8d06560c184f6fb370e326c41cd",
+      "bytes": 2081
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_DHU_PACED_CAPTURE_V2_INDEPENDENT_REVIEW.json",
+      "sha256": "00b0b7a222b33ab2b48c6b039d07234c17eac84541ae4f3602ef1bcd0bc0054e",
+      "bytes": 1191
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_AA_INTERNAL_ANR_ONLINE_REMEDY_20261023.json",
+      "sha256": "09b80d20d45a45dc8a02b8c37e50920d2303a8e46917b6d890867f35412abf80",
+      "bytes": 2063
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_AOT_STATE.json",
+      "sha256": "13c74d34eed128e3ab512199f56e5c12fb26c121e1f1429d5fa67b01da37ff65",
+      "bytes": 2780
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_METADATA_GATE_STAGING.json",
+      "sha256": "38022a3046dd3fd3028e9b138dd4a709327a4d05602bda0351d1f79a494da2cb",
+      "bytes": 3721
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_EARLY_ADBD_RECOVERY_SOURCE_REVIEW.json",
+      "sha256": "935bac499018cc388daaa222f7b13290f174cb1e472f21bb3d9f24d3d3ce9299",
+      "bytes": 1011
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_AA_AOT_AND_DEVELOPER_ANR_REVIEW.json",
+      "sha256": "c6abe45dfe8081e837efc23057e55cc868d0af3246c85e2aeb5ddb05ee35607e",
+      "bytes": 2489
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SINGLE_TCG_TWO_AUDIO_ABORTS_EXACT_RCA.json",
+      "sha256": "2a43c68a0964bd60a9eb6ce4ecfe005cafb77c419be74f8641dd320c2bb6e2ea",
+      "bytes": 2749
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_LIVE_CA_RECOVERY-attempt1.json",
+      "sha256": "a46dc0382443308ca3fcc3e06db0201855589c9a85651b8836bc4d96de7bb35a",
+      "bytes": 570
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_V2_CONTROLLER_INDEPENDENT_REVIEW.json",
+      "sha256": "94794853e36bdb3334a7e1862dadd001f566e2117a6655d4abb54d395fc54a2e",
+      "bytes": 586
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-vela-paced-v2.json",
+      "sha256": "7341152c35e46fc58914025655e73a37f0763b50472b1e3e209235c6a2c7428d",
+      "bytes": 8885
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-vela-cached.json",
+      "sha256": "ad3dd114a7172cddcee515689024124ebcc2ff6e8159021a107c16df929118d5",
+      "bytes": 13235
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_METADATA_GATE_V2_NEXT_BOOT_RECIPE.json",
+      "sha256": "03a24e5c0bc367a939b269ab6fde6d04096670b0c8707cd2c2fba9ed9c026ce7",
+      "bytes": 1831
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SINGLE_TCG_NETWORK_RECOVERY_VERIFIED_20261023.json",
+      "sha256": "dbd74d80a54e95bca03e9aef8947d3c0be160db4482ff7f18e84af0fc40df1be",
+      "bytes": 1901
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_VELA_CURRENT_PROJECTION_VERIFIED_PARTIAL.json",
+      "sha256": "614034055aa2ede131f8bec06134ef568021c9d4f0384314e31dafb24815b4bf",
+      "bytes": 1950
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_PCM_RUNAWAY_CAPTURE_RELOCATION.json",
+      "sha256": "3530f8581cac1b96801cf720efaeb02361eb7e421082fdc05562ff4588674932",
+      "bytes": 1060
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_DIAGNOSTIC_ANR_CONFIGURATION.json",
+      "sha256": "fd7cc9dc80e44108c2baebf4a35cbd6a2a34b3b26a0b90a8c9803278b2452cbf",
+      "bytes": 758
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_REGISTRATION_AND_MOUNTS_VERIFIED.json",
+      "sha256": "49035d06e497d0c8107b55a042eff1eba72d98077e1d8ce10fd6d1aa4e51dbf9",
+      "bytes": 1261
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GUARD_RECOVERY_20261023.json",
+      "sha256": "189a5b6e50caa93f3d7764b37cc3064d7715b12b41c78cf43dcbae230bd7cb04",
+      "bytes": 189
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_READINESS_MATRIX_RECONCILIATION_20261023.json",
+      "sha256": "3623917769301c657578181c5e3e99b11c2c7c3e5dc797d3453f16d359084d1b",
+      "bytes": 2814
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_NATIVE_REGISTRATION_CAPTURE.json",
+      "sha256": "78495986622f20c202d0cd4697f27bdc3d02b5bf36bd2e29450c124b92023786",
+      "bytes": 418
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-single-tcg.json",
+      "sha256": "ad3e1f2fe4946f2a92d7ee978b3c5475149aad7fbda87d1690e587518ac57d34",
+      "bytes": 2163
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa31-prepare-metadata-gate-v2.py",
+      "sha256": "808a3db78d75c1ede9bab264d4b513a61c29289829e6b1307e401eebd11cbcb1",
+      "bytes": 5696
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PROJECTED_TONE_CONTENT_CORRELATION.json",
+      "sha256": "ab59f3cb1dfd39ac8a8184510df7830d7a0e38ca9416eedaf1706d18409b0a7b",
+      "bytes": 1666
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_CLIENT_FOCUS_ANR.json",
+      "sha256": "f501a7d5aab9093765df00cf82e0e637193a9519be0b59d1e187315186e556c1",
+      "bytes": 1131
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_V2_CONTROLLED_RESTART_PREPARED_DRYRUN.json",
+      "sha256": "687addba800392e628c503cf2e3577bf070ef17117572e645b17b622f4764ac2",
+      "bytes": 3312
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_METADATA_GATE_V2_STAGING.json",
+      "sha256": "b2e9787570c0251216e48baf3e93ccf29f50a3f98b63065808de53538ad653d3",
+      "bytes": 3044
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_NOTIFICATION_LISTENER_NORMAL_REBIND_SOURCE_GUIDANCE.json",
+      "sha256": "3dfb1898c78c5cb20260f6e956b8132268426ade0c2d1b90f1a8b17efcfb095d",
+      "bytes": 3068
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SINGLE_TCG_AUDIO_TOMBSTONE_21.txt",
+      "sha256": "0957f8e7f096343e214ad7543751f2cd56e47fedcaa725c8aae918f3297560b0",
+      "bytes": 192705
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_RUNTIME_BOOTSTRAP_PAYLOAD_BACKUP.json",
+      "sha256": "40b57308f931e56efdbbbcf327125e5140b8a399bfea26a570e7c6d56fc83997",
+      "bytes": 1398
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_TWO_AUDIO_ABORTS_CAPTURE.json",
+      "sha256": "00fa2bc43c66da982a28685727d79357e4dbf81bef1f00b0df650e8d5f5ada45",
+      "bytes": 272
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_VELA_PROJECTED_MAP_ZOOM_ACTUAL_PASS.json",
+      "sha256": "cef376b02373a04fca9548ff0e01456b33fc617a214f9f2ba35fa1c844b6c931",
+      "bytes": 1799
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_HOST_CONTAINER_FALLBACK_CAPABILITIES.json",
+      "sha256": "7cc800f837429c11514ae033ce1e45f1e3a1fea1bf5a9bbd00eee9ce5984f4b3",
+      "bytes": 628
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-pcm-segment-analyze.py",
+      "sha256": "f8db3536040daf2ef71a45993b210242398affcffa7b7f28669397ce87e1901a",
+      "bytes": 2984
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_AFTER_AOT_UI_DHU_PROGRESS.json",
+      "sha256": "5a056575857497f4687e4a33b7e078b7cadb410966ec9366ac1104a322310c9b",
+      "bytes": 1502
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SINGLE_TCG_AUDIO_TOMBSTONE_20.txt",
+      "sha256": "9ea5b9f8ffad041ad4cc2a2a6432eadca1627f44884a8100c2d9ffdbc94fa208",
+      "bytes": 212176
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-single-tcg-aot.json",
+      "sha256": "af326813efcd1a26c2cc8474221e5868abcd42253a0cfb17cb5123f4624b9e41",
+      "bytes": 6434
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_GATE_CA_CORRECTION.json",
+      "sha256": "0eb493703d1892f71cbc13e83a5b9c60ef55725b0c392ab15144eecc4b122b20",
+      "bytes": 1526
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_METADATA_GATE_V2_STAGE_PLAN.json",
+      "sha256": "6102dff5e8bdc6e10582c1e74c582d11b7b42534df38810f9cea2372166ba163",
+      "bytes": 1261
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PROJECTED_TONE_EXACT_HANDOFF.json",
+      "sha256": "e5f28f8e7b5a731ebda1265cd276c42696e41ef9a10d09617f42c890f22f54e7",
+      "bytes": 2404
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_VELA_CACHED_AUDIO_NATIVE_HEALTH.json",
+      "sha256": "fa94ea55bfaff2316b9b83e13b4487480e8753431b2381c1dd7ecf13f8be16ff",
+      "bytes": 317
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_METADATA_GATE_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "786fffe343d67b2e2902e0ef0da8f9435ee274e88cc2cb90e3b5b0142522087e",
+      "bytes": 1803
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SINGLE_TCG_REAL_FULL_DRAIN.json",
+      "sha256": "3fd410aef65ad8efea8ac59c58f90dfbecd4332db79a2207530f406b454eb1f4",
+      "bytes": 940
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_VELA_SINGLE_TCG_AOT_STATE.json",
+      "sha256": "c83048ed3c43586745e7a8b4e6b9d238b15d8711549dada789604d744bd67f17",
+      "bytes": 1534
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_VELA_AOT_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "daa0d980ea96c89f1d23b78c1e10a071ee95a047fe1ab453b96ce70b78a3775f",
+      "bytes": 1853
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_UI_DHU_PROGRESS.json",
+      "sha256": "8fa6f9d89dbb522534a95cd47164fd401e5eb7730414a26fdb5cd8275b20d3e2",
+      "bytes": 1776
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SINGLE_TCG_AUDIO_FILTERED_BOOTSTRAP.json",
+      "sha256": "c084902bb90541980974dc41f048a52044b826cfc69c4eb7fdff3901a1f7717e",
+      "bytes": 173
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_NORMAL_HOTWORD_OFF_ROUTE_PREPARATION.json",
+      "sha256": "3e6a588a7d2bfe27b0ece84be8bc5b59aa0ed017c0b8173de00c001cf0f80355",
+      "bytes": 1602
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-single-tcg-restart-controller.py",
+      "sha256": "2f945354e6c3c7f50dee0aedbe4d1223bcf3fe34019773b2628814b34ae3d269",
+      "bytes": 11150
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SINGLE_TCG_REAL_FULL_DRAIN_OUTPUT.txt",
+      "sha256": "8fc542c6f6c76c9139fa5aaacb333b0488d9e03d5e10174e4f06c7f18598c3f7",
+      "bytes": 577
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SINGLE_TCG_RESTART_STATE.json",
+      "sha256": "b0ec95cfd48bc03e6f2c893f83ab76bd8f58c53b2e94798d11d5a0c5d5dd0cd9",
+      "bytes": 3503
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-vela-diagnostic.json",
+      "sha256": "850ab9170c4bbfd1fa2e0d7eb9c23257e6159e7febb5c0f49bc91ff0a7b11a07",
+      "bytes": 13623
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_INIT_SELINUX_AV34_OUTPUT.txt",
+      "sha256": "32e4edfccb946244d186374975e32acfeb6b59059e4f34104fe0edf0d6ff6ee3",
+      "bytes": 7250
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_AOT_PROGRESS.json",
+      "sha256": "3379ca440b54439ac753a4fc0ac8e73bd64195a1d62ce52bc8b0710f1c1ddf3b",
+      "bytes": 1022
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SINGLE_TCG_NEW_AUDIO_SIGABRT_OBSERVATION.json",
+      "sha256": "6e12286fc00452f9de1eb4b4db79262d5edba5f3691896d9d57fd29f02f58e5a",
+      "bytes": 815
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SINGLE_TCG_ACCEPTANCE_BUNDLE.json",
+      "sha256": "be418c7f6d01664f7859e15f9026407095ef29bccd73e118ff4db23644b40eda",
+      "bytes": 2972
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-single-tcg-live-ca-recovery.py",
+      "sha256": "c9bba9dfd2f411c4fefe328b0020c34e222411cf35fa3f648aae117bd28689ef",
+      "bytes": 2477
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa31-stage-metadata-gate.py",
+      "sha256": "cead3ed033217a0f3c2df0861166a5af73b046664a085f179aea00606b1bacd4",
+      "bytes": 4185
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_PACED_CAPTURE_V2_HOST_PROOF_20261023.json",
+      "sha256": "1fe294e2c6d7cac7e9e7723959b91992fba284b9b22b54fccfdde4ed6682fd5f",
+      "bytes": 2644
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_VELA_DEBUGGABLE_ART_FILTER_LIMITATION.json",
+      "sha256": "c9ae7e648c97f758ad390e84f9563ce7e4ca132b22e51eaf35fe2e8e3dffdd55",
+      "bytes": 1635
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_LIVE_CA_RECOVERY.json",
+      "sha256": "b0f3216a0aeae1c5066e63e8fab1b15c0f270df834110c2d7e3d23e0447f4df3",
+      "bytes": 569
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_RUNTIME_ACCEPTANCE_GATES_CURRENT.json",
+      "sha256": "ed89a5808b09b146823e4c82ac3ac47c8f91e8d2eded2cd80fec170398a7f4a5",
+      "bytes": 2844
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_PROJECTED_TONE_FORMAT_LOG.txt",
+      "sha256": "63323ca27b92d23d464c5217b4eb9200be57c25799eb02f98ca77c5d4a481bd9",
+      "bytes": 737
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SINGLE_TCG_OFFLINE_MEMBERSHIP.json",
+      "sha256": "7127cb881a7bf5359d38d1b9541b2027eec0a11a6f8d5d94f6f570505e5d7112",
+      "bytes": 6349
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-single-tcg-aot-profile.py",
+      "sha256": "71e731a81c96d21bda75b7fe2ca814bd07588bccb6ce1a5ff291109311e84558",
+      "bytes": 4120
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-session-capture-v2.py",
+      "sha256": "0ef8c7012036d1b670268dc2eb46c5981a657a4ddea9d3e82407cfd94c1839f3",
+      "bytes": 6993
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_VELA_ACTUAL_FIRST_PROJECTION_ATTEMPT.json",
+      "sha256": "fd4d3b99b1bd1e13dc5fc896065f21c2933a0f7d4c99421a25fdf35f924ecd41",
+      "bytes": 1107
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_INIT_SELINUX_ACTUAL_QUERY.json",
+      "sha256": "910e59e1c9c996763f4b0d01ecd2b791ed0c3f7e7cdb40a4319c34598999bdd3",
+      "bytes": 1021
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-vela-single-tcg-aot-profile.py",
+      "sha256": "771bba79feae6d2121564e74fdb16711213f5cdadea2162a2559b3d05d1d48f5",
+      "bytes": 5053
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_VELA_SINGLE_TCG_OFFLINE_REGISTRATION.json",
+      "sha256": "b0f6c644310facdecc2872e9f3d80b79f6fd0799ff6e26cae444b3d2bc452398",
+      "bytes": 1277
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_aa31-notification-ready.json",
+      "sha256": "00b2e78c33b322b91f639ad6a437c3f949ec50eaf506f122342dd744ae44792c",
+      "bytes": 5940
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ONLY_RUNTIME_CURRENT.json",
+      "sha256": "55867ba21723244aa98e3d3bf88a2c9f93033c9c99ec4a91808ea4d94af855e5",
+      "bytes": 2929
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_EARLY_GATE_CA_CONTEXT_DENIAL.json",
+      "sha256": "28a486cbe4de3af14aad640abdb3ff936f1d2fc1876b6b5a40118b7dd4fd3016",
+      "bytes": 1053
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "e4c0498a59747f45cca0c9ed0afc946f9761279271d366fdfdc4e08d160fc928",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
