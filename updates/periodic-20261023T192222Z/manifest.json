@@ -1,0 +1,197 @@
+{
+  "capture_utc": "20261023T192222Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 47397,
+      "sha256": "de67e18bce51b81b9f096aa50ccdcba676b67527caf4e0c065a4c948592b9423"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "60950558f0ef9f58b91ed08a83ec1c33fe43316a277af14fb4ad6b66c2cc6681",
+      "bytes": 2033
+    },
+    {
+      "path": "cairodrive-research/continuity/RECOVERY_CHECKPOINT.json",
+      "sha256": "7259a918d2e205662f0b409a9f8730ae833b6d8c577c8988703d7ae3bfc2d5f2",
+      "bytes": 3830
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX_INTEGRATED_BUILD_V2_INDEPENDENT_REVIEW.json",
+      "sha256": "0c2b5b2837cde11345ffaf75d9f667db82fcc5da6ce25c9b44cc46613bf34929",
+      "bytes": 611
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX_INTEGRATED_BUILD_INDEPENDENT_REVIEW.json",
+      "sha256": "b1906495e6f61ed4554634705129520765fe341150f521413b8b85f4854bb7d5",
+      "bytes": 676
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX_RUNTIME_FINAL_INDEPENDENT_REVIEW.json",
+      "sha256": "3343ce8b526d46a3c15c56a2e4f7301680d29ca2ec3feeb71e0bbed31eeef9e7",
+      "bytes": 1136
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX6_CLEANUP_TRANSACTION_SOURCE_AUDIT.json",
+      "sha256": "aba40fcbcb5b962e542796e84dd40f5654d78912479f5675458e95286900b654",
+      "bytes": 2204
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_RECOVERY_NATIVE_HEALTH_20261023T1819.json",
+      "sha256": "114fa5bb7514c9c7f73e51e6da09a9868224d78b628510e438665217d9533e53",
+      "bytes": 539
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FOSS_PREMIX6_V9_ACTUAL.json",
+      "sha256": "e50783bd5f9150cb97c641aa132582df97ab696a415b8a4dde5f494a9e2528d4",
+      "bytes": 2962
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_SYNTHETIC_RAW_SPACE_RELOCATION.json",
+      "sha256": "d200c76245bebe0b54b8abf27fb2120bed0af2b57cfb01a773de97cfebf86aca",
+      "bytes": 742
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_PREMIX6_HANDOFF.json",
+      "sha256": "62748ae74988ed6f839c7b669f71ba57f747b4cc8bdd63313dfb6774e15fcdcd",
+      "bytes": 1083
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX_POSTMIX_ALIGNMENT_HOST_PREPARED.json",
+      "sha256": "b91597b77242ec3eb77b2375f5587bafcd051af8fbfdd715d5dd9f11b64f3f4a",
+      "bytes": 801
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-integrated-build-v1.py",
+      "sha256": "9f936fecc98797c606b068501acf90b4d8815e9a858818c93de4d125651fd7b0",
+      "bytes": 6156
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FOSS_PREMIX6_ACTUAL_RESULT.json",
+      "sha256": "0cd0720f1b3b5ebc057d5963882877d42bc3c45f6f2c0de2b018b67b4984eee2",
+      "bytes": 11175
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_PREMIX_OBSERVER_FINAL_INDEPENDENT_REVIEW.json",
+      "sha256": "cb407976ba5fd3f22fa72e0933bd7636ae1c2eb75fe9e41d2a828f64ce1d7a85",
+      "bytes": 1467
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX_OBSERVER_V2_FINAL_HOST_PROOF.json",
+      "sha256": "620c7dc46083e24a76eaaa6ace3f6941f6c3db7dac8fb8f87aabacf1c6dd9017",
+      "bytes": 955
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FOSS_VIDEO_NO_ENCODED_DROP_HOST_PROOF.json",
+      "sha256": "d92a8f04df1d89f665167eb51d8623828886df34986a203f3374dac062f1172f",
+      "bytes": 2367
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_H264_CANDIDATE_INDEPENDENT_REVIEW.json",
+      "sha256": "2ca1951db23c54f9040382ca32bd5e23fa81f2e5c62cc4bc8e82281038a77110",
+      "bytes": 707
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX_ANALYZER_HOST_PREPARED.json",
+      "sha256": "1d42d61d37995bb41fdb46b571a62b7e48e26c06987a98838711fd3fcef9aa52",
+      "bytes": 1037
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_NEXT_FOSS_PREMIX_SOURCE_AUDIT.json",
+      "sha256": "0dd0da2c1b5ab77a2fc135f67b92020b25e602a9443a49d5d8de3d03d62c9855",
+      "bytes": 3180
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FOSS_INTEGRATED_V2_SOURCE_MANIFEST.json",
+      "sha256": "9f03485a58aba4ffe4ec84ca61f6488f596639bfbfc83ad5a787985a925c4c09",
+      "bytes": 16906
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FOSS_INTEGRATED_BUILD_V1_STATE.json",
+      "sha256": "c2b080e408da1fa46eb2bb1981df06cbf64dd1de0b4dee987fb12b8b5f8112ec",
+      "bytes": 1017
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-premix-video-session-v1.py",
+      "sha256": "ee1154f52dbf7e36d3730c5a23598c35060f8b58906a8b365ac7065599d9699e",
+      "bytes": 10461
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_PREMIX6_COORDINATION_PLAN.json",
+      "sha256": "3850fa202290ffbbd41b09f0f3eb0fc4023b8fe2f6963525c5f78fbad712eafb",
+      "bytes": 1968
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-integrated-build-v2.py",
+      "sha256": "339e84824b4f47e2c7713e4afa55da87c62d8a1c1810f9f2f56a0994663e4c85",
+      "bytes": 6156
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FOSS_PREMIX6_PREFLIGHT.json",
+      "sha256": "6776bacdae0d4bd62f3978e0062c99695ea557b50a57efdee8173c16ea645a45",
+      "bytes": 496
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX_HOST_CAP_EVIDENCE_RELOCATION.json",
+      "sha256": "4f4e1f4ef781f44cc303b70cc077fb31e00c4704af2676ab80a124c85df00c22",
+      "bytes": 1263
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_LANE_CURRENT.json",
+      "sha256": "40ba9ff56542b25040e429dc5592b52cabae22473c1e4ae85b2f70a5a95fa450",
+      "bytes": 1579
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-premix6-v9-controller.py",
+      "sha256": "3fe49455c4ada7ca0b1d027f6e142216d77bc0d535c35492adabe41cb631750f",
+      "bytes": 7567
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX6_ACTUAL_ORIGINAL_LOCALIZATION.json",
+      "sha256": "42a0adbf1fd71c5745d7f8653fd3d0a5a0150c470a4835e33d0f264ebf230f14",
+      "bytes": 1002
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FOSS_INTEGRATED_V2_OFFLINE_COMPAT.json",
+      "sha256": "d2cf915ac6e79e348ce1894b9dae8b7bb0695fd2b71ca78b87e96e9d056a9fc2",
+      "bytes": 11673
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PREMIX_OBSERVER_HOST_PREPARED.json",
+      "sha256": "840487d0b5c2016775bcfec3139c75b81170481709596da8e3c8c457917ec4fb",
+      "bytes": 1735
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_RECOVERY_COORDINATION_20261023T1818.json",
+      "sha256": "4af2e30ddfb1e7a7bdb55b496764eeb683322bcbfdab0abe4c040d1ffc1b7831",
+      "bytes": 241
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_NEXT_PREMIX_LOCALIZATION_PROPOSAL.json",
+      "sha256": "6306ef9b099c73522173fe5903caa9574bade839efade74a9fda350893baf799",
+      "bytes": 2289
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FOSS_INTEGRATED_V1_SOURCE_MANIFEST.json",
+      "sha256": "4ae7d53eaf624094a675d17fe4ff5349b1ee615317473d4039c46d2624ea9702",
+      "bytes": 16841
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FOSS_INTEGRATED_BUILD_V2_STATE.json",
+      "sha256": "4ab54463400fa8d0aa731f87ca80b2ac5bcd1911e6086f6a423cc4302c0a934e",
+      "bytes": 1018
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FOSS_RECEIVER_SOURCE_PIPELINE_NEXT_FINDINGS.json",
+      "sha256": "11d245ec011c1cd43381d5422be1dc334ceb55c650e6d2f48a41406d5bd2854d",
+      "bytes": 2793
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "de67e18bce51b81b9f096aa50ccdcba676b67527caf4e0c065a4c948592b9423",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
