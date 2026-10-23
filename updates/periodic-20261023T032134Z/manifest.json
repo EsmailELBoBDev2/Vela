@@ -1,0 +1,817 @@
+{
+  "capture_utc": "20261023T032134Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 2967726,
+      "sha256": "907c1abe6c84eea63705df5a6da5baf1c65751a688946aeb00c05dbff7b710c6"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/CLOUD_TASK.txt",
+      "sha256": "6141f5fe017a38cc266bf91029520e47d9cb6147656d43882e63e3407ec284a8",
+      "bytes": 2802
+    },
+    {
+      "path": "cairodrive-research/GOAL.json",
+      "sha256": "068b7c6ea9913cf15f9d5912b53ede810865331c2a42d84b2972f0a970ad96f8",
+      "bytes": 6245
+    },
+    {
+      "path": "cairodrive-research/HANDOFF.md",
+      "sha256": "6141f5fe017a38cc266bf91029520e47d9cb6147656d43882e63e3407ec284a8",
+      "bytes": 2802
+    },
+    {
+      "path": "cairodrive-research/PLAN.md",
+      "sha256": "6141f5fe017a38cc266bf91029520e47d9cb6147656d43882e63e3407ec284a8",
+      "bytes": 2802
+    },
+    {
+      "path": "cairodrive-research/STATUS.md",
+      "sha256": "bf9d97e2ce21b18a655f533232967fad3e6cdbd523c7851d75db729201d8805e",
+      "bytes": 3224
+    },
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "26a2c002749114fce0530e6333851003bdca1b5b7dff810090dcef6caffe2271",
+      "bytes": 1390
+    },
+    {
+      "path": "cairodrive-research/CONTINUITY.md",
+      "sha256": "6141f5fe017a38cc266bf91029520e47d9cb6147656d43882e63e3407ec284a8",
+      "bytes": 2802
+    },
+    {
+      "path": "cairodrive-research/continuity/implementation-last-run.json",
+      "sha256": "75124318965aa4e76debbfb54c833b3eaa3336bcc7964751fb8463ec939eaa97",
+      "bytes": 198
+    },
+    {
+      "path": "cairodrive-research/continuity/implementation-prompt.txt",
+      "sha256": "c5e151d44ceab3138a61f12cf2e78db4294a5583373ef7b8284091fdea9caf2e",
+      "bytes": 6971
+    },
+    {
+      "path": "cairodrive-research/continuity/implementation-control.json",
+      "sha256": "4de8620d26547edf8ac9823490858b3a79f9d0f8793e9576832aa9b505e2d599",
+      "bytes": 1789
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_ACTIVE_OS_DIAGNOSTIC_CONTROLLER.json",
+      "sha256": "56e559fd9c5b84d36bbfdecd8034395a9518db93642d5e07923f624782245cae",
+      "bytes": 647
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_INDEPENDENT_AA_OVERLAY_REVIEW_20261023.json",
+      "sha256": "52bd50af3fd387e39a38678d9214a3b7fa0aa69fb63a0f7c6da89b7fbc4f9636",
+      "bytes": 1307
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/UPDATE_RETRY_WINDOW_LANE_20261023.json",
+      "sha256": "5b4a0993817ab4fc16267a740707a9e2d7b354566a0ec57d9acfb73d9e39602d",
+      "bytes": 4295
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_UPDATE_SINGLEFLIGHT_FINAL_REVIEW_20261023.json",
+      "sha256": "a477d7d93f217a8db95e5e617320bed6e4d5de73ba8b06666ec6a4501b517ba1",
+      "bytes": 3532
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa31-finish-install.py",
+      "sha256": "c40394561fa6d5438bbca74aa48fc3f15783bb06ee9a55bacee0ff80d0c1e965",
+      "bytes": 4313
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-readonly-trace-window.py",
+      "sha256": "a08bc7d89f0df00ccee76d492079f1249b28a2736947ac9f14fc84059e77bb58",
+      "bytes": 2901
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_RESUME_PAYLOAD_CANDIDATE_20261023.json",
+      "sha256": "718a811df31a71cba4eb4b0b540a2d2e795d8bbc0a09982e0a384f93b005eea5",
+      "bytes": 2500
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/GRADLE_SOCKET_SANDBOX_FIX.json",
+      "sha256": "59ebe5e954f769bbad0774a999f4136f48360c3e49ef8aad5efe8073ddec5aed",
+      "bytes": 1270
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/ROOT_CURRENT_GRADLE_RESULT_OBSERVATION.json",
+      "sha256": "cc94c0ad1d275db8ef1d9251f6295474c766555d62495f5c1489773a154137ca",
+      "bytes": 587
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GMS_GSF_PERMISSION_SOURCE_BUNDLE.json",
+      "sha256": "d74a2bd531a82490eb31982dde6a17041cfc6356de011d8254bf4bb84badee31",
+      "bytes": 109373
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_TRIP_CLEAR_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "51ac18145a232dbf2d2bb2aacefa03c7b611333b2dfa356d0eb9658fc36cf0b9",
+      "bytes": 2684
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GMS_FACTORY_SIGNER_COMPATIBILITY.json",
+      "sha256": "dcc6f91293d818c1feb85863653aa1f8bcf170f1eddc97d515870f8f108db164",
+      "bytes": 2483
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_ACCOUNT_AND_SERVER_RESEARCH_20261023.json",
+      "sha256": "0005a8bc4910e370b8b434dd1ae7392bc85a77aa0852b13215e6a8b8dae74c2e",
+      "bytes": 3633
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CAPACITY_RECOVERY.json",
+      "sha256": "a9742f845d8852854578f6283dfce4279ef18650d427438966f4d410b3b43e76",
+      "bytes": 244
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023_RESUME_COALESCING_STORAGE.json",
+      "sha256": "94dd8e39958dbf9a233e8b8d5f36fed243f4fabc5ece0a2bbd78ef19ad10781f",
+      "bytes": 2176598
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-vela-tested-install.py",
+      "sha256": "5c6f9e5444cef74136f39fcdeef3deee5bb7b2db5c338a191fef915f2462bb53",
+      "bytes": 2144
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_RESUME_OWNERSHIP_CANDIDATE_20261023.json",
+      "sha256": "ff5fcd3b9c102329e88b3a7fcfdd493b146a0d3d1f151d37d8513039c347e1a0",
+      "bytes": 2895
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/API31_OFFICIAL_IMAGE_PREP.json",
+      "sha256": "bd7d4245d8faf19401cf47a0de0f78ae1dc59452f829ac0563fdfe27ddab49ef",
+      "bytes": 5358
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GMS_AAOS_REMOTE_MANIFEST_METADATA.json",
+      "sha256": "ac09cfb5770b71c278ba6c0d8cb42dc4866a0f9a7483607cba58bec2ab233a8a",
+      "bytes": 3807
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/NEXT_STORAGE_MOVE_CANDIDATE_RELIABILITY_20261023.json",
+      "sha256": "fe541ab514f49aa0b796cdaabda27f9377fd4563a8e4f63133a3984983b4601d",
+      "bytes": 2206
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_API30_CONTROLLED_STOP.json",
+      "sha256": "e1e78cb73623349f5e7ed6330cae8366da1bf93c5d4104cc2184e7545498b932",
+      "bytes": 371
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-api31-prepare-permissions.py",
+      "sha256": "de5b13fffb7aef52f73ee69b637d5fcade1a8b97c60229594abb307739ce8a3c",
+      "bytes": 2548
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_HOST_RESOURCE_DIAGNOSIS.json",
+      "sha256": "0e809dba9aacb4e3392d7cef52c02992f10adc89375e82acfade1899383956f6",
+      "bytes": 1417
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_XVFB_PROBE.json",
+      "sha256": "8ee77ab63dd3808f47cf4c2a2ca4eb9087daa6d12c411a33ee8707c6e3e166a7",
+      "bytes": 1405
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CRASH_TEST_ISOLATION_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "fba564ef4f5484e06df832095cf4c74dc6858b88a23d6454cf7067a3f11f7844",
+      "bytes": 1540
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/CRASH_EXPORT_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "6a6a0c07215c7e8f6c1a50e7c2a18e1bea76191ce1795348d04361806daadd97",
+      "bytes": 3060
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_API31_FIRSTBOOT_EVENTS.txt",
+      "sha256": "3134da68cad29ef33ce83110fccc8af15c95375dd5fb8899b189bb9279783f9b",
+      "bytes": 67556
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/VOICE_MICROPHONE_PROGRESS_LANE_20261023.json",
+      "sha256": "8093af187afe2c37ebb291635373525e8d408b6cc173688cffb26713659ce86f",
+      "bytes": 4147
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-signed-system-overlay-recovery.py",
+      "sha256": "b595dcb26d4267239b843f0e9fe72c0f3748eec052d9480d47d962b36e87174e",
+      "bytes": 6926
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_API31_PERMISSION_SOURCE_BUNDLE.json",
+      "sha256": "1bab667ac1ea742af47c8715057c50a89efd6fa0a7620898537a926022b21876",
+      "bytes": 94694
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_API31_PERMISSION_OVERLAY.json",
+      "sha256": "f75bdbfa5d74bc543871833a6d5f5a482483ed34cfe5da7f7e6761a017220699",
+      "bytes": 5936
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-api31-apply-signed-overlay.py",
+      "sha256": "ac1db88c50e4fb0724531256263113f32b99c58a9af1d580d7a55460651ae0e7",
+      "bytes": 6545
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_COMMAND_MIC_CRASH_FULL_CHECKPOINT_20261023.json",
+      "sha256": "5049a885f8921fbfa5960f1a80f8fe1e8634f7006e17b075a20b3b032faec511",
+      "bytes": 2530
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-xvfb.py",
+      "sha256": "156b640be1e0ee5047869b695a861ca62f78e0cde5d7de64ba88a345dc12a1e7",
+      "bytes": 3226
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/RELEASE_CHECK_CANDIDATE_20261023.json",
+      "sha256": "6f9001401c6f4f99f8c9b551ff16da7eea16b90beffade653a992edbbf62aa8c",
+      "bytes": 2897
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GMS_GSF_COHERENT_SIGNED_FALLBACK_PLAN.json",
+      "sha256": "1cb70fb04aa015951640fadc63e65915eda658c60fcb500d8fb0f8d02ec3dcad",
+      "bytes": 9079
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GMS_GSF_COHERENT_PERMISSION_OVERLAYS.json",
+      "sha256": "beb86059863eb8a0285c7e90b17d41e3aeaf6fc9969dc0be4e9f872cfbaa74a1",
+      "bytes": 18078
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_UPDATE_RETRY_WINDOW_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "649def853de4e479e65070580e19b7ca7acaee7e49bd3a3f670b19dc78507fdd",
+      "bytes": 2970
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-prepare-gms-gsf-permissions.py",
+      "sha256": "f96d2f71edb8687a4aae9e4ab98bdcb04348ae85d6d660e77e6d63927c0e75ba",
+      "bytes": 3522
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_API31_TIMEOUT_CALIBRATION.json",
+      "sha256": "074e7e3e9d094b06fdb6f272a99a011a03bc1ebf9dbd9d5d2b2ba5ef29c8cfb5",
+      "bytes": 549
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_FUEL_FUTURE_TIME_CANDIDATE_20261023.json",
+      "sha256": "d7a903b90ad4bf8fd51b789dd17acfcec662eae367ecd44ee2946a3041a31766",
+      "bytes": 1562
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_TRUST_POSTBIND_CONTINUATION.json",
+      "sha256": "c8dcb5e2aa4986017afe5d6adbaf43cadc1d29e2253f9aabe058491eef79997b",
+      "bytes": 4329
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-api31-install-when-ready.py",
+      "sha256": "7a5807892570a18760a57531c47744406a1eb1fe6d101daeb9ead2b92d6de515",
+      "bytes": 2805
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_ANDROID11_UPSTREAM_WATCHDOG_LOCK_RECEIPT.json",
+      "sha256": "818a51a929701ba5602b3934aea384eb6a48b30058ef925aae09343353d7656b",
+      "bytes": 1910
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_SYSTEMUI_SENSOR_PRIVACY_DIAGNOSIS.json",
+      "sha256": "56bb53fa153b64cad427d88336bd376d8fd515fa50aa773e09118b2fc9e29c93",
+      "bytes": 5913
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-gms-download-verified.py",
+      "sha256": "e1c2a2c7c9722a03e7baad54ceda9ed90059d9bf6f5e5b82171e76901e26d144",
+      "bytes": 3990
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_COMMAND_INTEGRATION_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "1cb3c29d75d36619981cf295eaedd5f9916801301bc3040d53dc238db6c6595e",
+      "bytes": 2988
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/NEXT_STORAGE_SOURCE_CLEANUP_RELIABILITY_20261023.json",
+      "sha256": "5b6edd88ab9881a329ec0b25d276b223c9409340025402e504952d94209cfd7e",
+      "bytes": 2644
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-offline-abx-membership.py",
+      "sha256": "3c3347a57e6c357e3a2fb5145a05318b257b8153f8ab69ddc5ceca8342d68409",
+      "bytes": 3361
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_API31_COMPATIBILITY_AND_NEXT_STEPS.json",
+      "sha256": "8acc5bd67d2c5ae43704c57c00f3b9d941fda226c42082a6a56d2b2d0766f395",
+      "bytes": 6503
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-ui-observed-controls.py",
+      "sha256": "aa7004374f4a464b886ca4637d9a7a57cb73c8f7eb70fa6e7147201e369da068",
+      "bytes": 2551
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/NEXT_STORAGE_BYTES_AGGREGATION_RELIABILITY_20261023.json",
+      "sha256": "4bfbd6a8661ce30db6896498cccfdc3047cc8b2fbd237d897c28208318496dad",
+      "bytes": 2199
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_NEXT_SLICES_AFTER_FUEL_UPDATE_HISTORY_20261023.json",
+      "sha256": "3ff178b4a60da971ac453ab2595911ffe02823c493edb4ba8181dc768eb697e3",
+      "bytes": 917
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_MIC_CRASH_WIRING_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "24e6ec6d06d2fed8afa11e8e0080e567b95b296ba14c2d81ce0e7ebac20fb2ff",
+      "bytes": 2826
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-gsf12-download-verified.py",
+      "sha256": "92fc92550b310d684f554e4a47b9ab3fa6ec279b5ab29b4e1ef986d294256a95",
+      "bytes": 4233
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/implementation-capacity-recovery.py",
+      "sha256": "d2e6e7cb4b70c4e42364c59992bcf0e42f33f39efac25094709aa9e13f96110d",
+      "bytes": 1610
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_TRUST_OVERLAY_PREP.json",
+      "sha256": "9e548cbc8b395d24a785e24806ea158487e0dab2deee19be6943d6522f7bfd5b",
+      "bytes": 30751
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GMS_NATIVE_DOWNLOAD_HEAD.json",
+      "sha256": "9b3c705ab5862cc831fc23fe9c05a850b306e5abd2d1b8811a02092a2cd2e604",
+      "bytes": 933
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_API31_AFTER_OVERLAY_UI_EVENTS.txt",
+      "sha256": "b3f2b402f3d6c3769c56ad70d0e37ab9b7a17b87bde8bc4b7ba31091d5755b51",
+      "bytes": 36925
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_PINNED_CURRENT_TESTED_APK.json",
+      "sha256": "60732ee315136f8d952bb4dc441e38746a14fd3853b009373adda7e64ae7d801",
+      "bytes": 582
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_UPDATE_OUTCOME_FINAL_REVIEW_20261023.json",
+      "sha256": "bfde5f42b177768f7fef13a5a7923495edf6bbc8a95cfccf74cb84cc86722616",
+      "bytes": 2307
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023_COMMAND_MIC_CRASH.json",
+      "sha256": "3d3bfdb88076fadca8b2fda9a8b001050ec7503620edcd7deb137a5dcee1c048",
+      "bytes": 1985544
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_XVFB_PREP_20261023.json",
+      "sha256": "9b9ae366b61fa527a67eaa5842b7904f562ee743309403dcaa8ef54929ca9376",
+      "bytes": 11066
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CHANGELOG_CURRENT.json",
+      "sha256": "d5bb1234024bd3a931fc2f0ecebbf8217fd579f3b21147316e0df525e28e6680",
+      "bytes": 18448
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_STORAGE_SOURCE_CLEANUP_RELIABILITY_20261023.json",
+      "sha256": "705d7fb4aa0c6904fd14b37b2e83c320da90c287671b03b27b8e8d190ac9faf2",
+      "bytes": 18155
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BOOTSTRAP_TRACE_GATE_PERMISSION_TRIAL.json",
+      "sha256": "a90bdf88daaa4094a2c2ee5e9e4b36a9eb542e61de02c9da73e3fa0a3129b933",
+      "bytes": 904
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_PAYLOAD_RETRY_CLEANUP_CHECKPOINT_20261023.json",
+      "sha256": "7dd17e3a362ad545582703a33806dd011bb7de056a1d76b4e0da9e952fd6194f",
+      "bytes": 4414
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa31-postbind-verify.py",
+      "sha256": "a82b4b9b06d820cccda842ae9e31817a7be28993c0d024aaf1ca0900a5e67036",
+      "bytes": 3811
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_DEXOPT_CALLCHAIN_AUDIT.json",
+      "sha256": "2570dcd03ae0cf28e1626925298d292b3dffe2f1cf64d36bf6f93a224994cbe6",
+      "bytes": 2484
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_EXECUTION_LEDGER_CURRENT.json",
+      "sha256": "e9358bf6a013d074f31b22243f91b77e4e7b83cfb043d1278065f52aab1caf20",
+      "bytes": 478683
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_FINAL_INSTALL_STATE.json",
+      "sha256": "c083fb4836dcd6f87d90f1b79a705d6171aec6583c56221052a2ed8bbf7d88d7",
+      "bytes": 173
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_API31_DIAGNOSIS.json",
+      "sha256": "9e8b1a30536b90c048222c151e23ddbcc19cd64e3c0e93e48db9c50449804358",
+      "bytes": 3059
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_WIFI_CLIENT_DIAGNOSIS_20261023.json",
+      "sha256": "2bf0b9ba2777aade5396a162114ca87cb671a08bca46fc77a830ba6c53328c1c",
+      "bytes": 3357
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_API31_REGISTRATION_MONITOR.json",
+      "sha256": "49dcadf1b2db23b2f53c98f9786bd25ce982dd7e4e11f2a70f65cc7e36f18999",
+      "bytes": 3844
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_VELA_INSTALL_STATE.json",
+      "sha256": "1cb887ebc93ef4a9355b3335b7274a2fa655468332dd82158d858f68e9c18837",
+      "bytes": 522
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GMS_FACTORY_SHARED_UID_OFFLINE.json",
+      "sha256": "35b9980abd61e5a340d7231d5dae0a059b9cbe10838140f4ffc331505340e075",
+      "bytes": 5704
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_PROGRESS.json",
+      "sha256": "9ce2e9f958153acc49a0f3489fd12acda27bcf650deb0710ce2ff45b8493733e",
+      "bytes": 10772
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ONLY_USER_ORDER.json",
+      "sha256": "dba40d43c40c2599904a898beb50ce8e5e3dd94887eee93290f96acb9e07d24d",
+      "bytes": 532
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_INSTALLED_NATIVE_UPDATE_CONTINUATION.json",
+      "sha256": "fa0d8d9d5aa012bceaf1950a4c8dd6ba9ba2470cd87c0e0ca5f7d879a943d2b1",
+      "bytes": 422
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_NEXT_AFTER_PAYLOAD_RETRY_CLEANUP_20261023.json",
+      "sha256": "91777e04802769efad53248a267d92fbc45cf7a9d74dd6d232ef8b00138632c0",
+      "bytes": 1029
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_CURRENT_RUNTIME_HELPER_SOURCES.json",
+      "sha256": "0fde53abf4871e780e165cdec3340b2961bbf51c27fdc56b3ba17c76f3cd7d9b",
+      "bytes": 20332
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_RUNTIME_FIX_STATE.json",
+      "sha256": "a2bc85202ac985341006a4d7edfd94e5c7e28112f96715071ba1cefd72c593e2",
+      "bytes": 1506
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-api31-boot-observer.py",
+      "sha256": "fd7342583e57ec63ad3767589a15b4c68fd4d6e1913bec24edcbe3940e7fecba",
+      "bytes": 1734
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_API31_SYSTEMUI_GRANTED_BY_ROLE.txt",
+      "sha256": "97c99e0f7b340a9ad826f277afaef816783f33b2850d295a9c28876393291803",
+      "bytes": 41764
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_UPDATE_OUTCOME_RELIABILITY_REVIEW_20261023.json",
+      "sha256": "27885a6f78a2c82c512ee7f3415d8d2a94e8de67a691fc5c22a40be4a4ef3705",
+      "bytes": 2085
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_NATIVE_TOMBSTONE_INDEX_CURRENT.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/STORAGE_MOVE_RESULT_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "b2d50405301eec62746be1473981be7967382cefdd4febbdbfe513b0299cedde",
+      "bytes": 2713
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/VOICE_CAPTURE_CANDIDATE_20261023.json",
+      "sha256": "f01531a82cadd02a6e0394e5360b11706f95bc79fda992ca4f61199a1c922ef5",
+      "bytes": 3637
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/RELEASE_CHECK_OUTCOMES_LANE_20261023.json",
+      "sha256": "7e04ef544f33e506369ebdfd930e8a2a5d7c63ed1373661643b3aff7a0847fdf",
+      "bytes": 3161
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_OBSERVED_UI_AND_GMS_CONTINGENCY.json",
+      "sha256": "926fca766919bc382cf5d6535f894ff1642f6ca5a4ce06f66f153300816b3f6b",
+      "bytes": 2261
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023_PAYLOAD_RETRY_CLEANUP.json",
+      "sha256": "fdaf61a539410b0cf0184cd6ea0d61cef23904afe1cc6bf2b9319be82110c663",
+      "bytes": 2198322
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/FUEL_TIMESTAMP_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "dce78a06728923466c733e5c049768f7201f7fc9aec826fd894fddfc444463d8",
+      "bytes": 1604
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_CRASH_EXPORT_RELIABILITY_20261023.json",
+      "sha256": "583dc85ed7be7bc1cbc394d9526a49fa2f12d52c5b5533a9a969a25182600700",
+      "bytes": 10310
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-gms-read-factory-cert.py",
+      "sha256": "614fc65afd5c3a9c0e86137bf032e6c947f97b611d24dfb79bbb35f73fad625d",
+      "bytes": 3605
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-registered-runtime-open.py",
+      "sha256": "4e0152b2d2a48470bf7cc1b1f4bf3e97d9bb89b165f5106f9e86b83f66ba073a",
+      "bytes": 3792
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_ANDROID11_WATCHDOG_LOCK_TRACE_20261023.txt",
+      "sha256": "9c13910f289ca21b7a041a9c96e42de4f990322f5e00681c85992a31fcb4421f",
+      "bytes": 172820
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/UPDATE_CHANNEL_OFFER_CANDIDATE_20261023.json",
+      "sha256": "bc517102b7559b7ff1ff1b8351b48bd82e8e6af0220d2cfd2299feea5243608a",
+      "bytes": 2959
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_RESUME_FIX_FRESHNESS_CANDIDATE_20261023.json",
+      "sha256": "d4d8e5d32893169bc7a9bec6a24065765807a331c44fc3d395b4090bb4059e73",
+      "bytes": 3058
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_CURRENT_TOOL_RECOVERY_STATUS.json",
+      "sha256": "ed8e97c790b4ff29b7f04a2aafde84fba64c6f4957141060b4e68d4f1f3b62bc",
+      "bytes": 7161
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_BOOTSTRAP_TRACE_GATE.json",
+      "sha256": "d7e6760b5b68f2e9ce2a71738ee600f1ecd894c98a90c6f692da1d8315a9d50a",
+      "bytes": 656
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_SYSTEM_OVERLAY_ARM_BRIDGE_FOLLOWUP.json",
+      "sha256": "f344d29dff5c21e89e8e101d7e84a6f26c0fb876553b26404d17e32e2aa64661",
+      "bytes": 617
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_HOST_READINESS_20261023.json",
+      "sha256": "d1059aeb13396cde0ab8d2f55d502e4b3156d4525a01c2e5e6ceb8fcca6126e3",
+      "bytes": 16026
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/STORAGE_COPY_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "a0b39031de1b7a41136e9564786b475023004c4aa32f4f4f1f2f19b717d51cdb",
+      "bytes": 3006
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/UPDATE_COALESCING_LEGACY_CORRECTION_20261023.json",
+      "sha256": "f49bc25cf572a4fa63f87425ed5c646be7cba8a858f254cbc0f3baca27794dcd",
+      "bytes": 2257
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_STORAGE_COPY_TRANSACTION_RELIABILITY_20261023.json",
+      "sha256": "0f4b4b67ea0516b29fcc87aa03de4b1de676d7a3d619e938ff4154d3657889bc",
+      "bytes": 19818
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GSF12_DOWNLOAD_VERIFIED.json",
+      "sha256": "7958c4226bfcef9339a83de7b9dec41a270247bdab1ff9acf14ca4c2c5a5ad32",
+      "bytes": 4167
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_UNUSED_IMAGE_CACHE_RELEASE.json",
+      "sha256": "8ca3dbd6c370099361f8eb9afa79513cf98edbabcac6bcbeec60fffd221349bd",
+      "bytes": 351
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_API31_RUNTIME_STATE.json",
+      "sha256": "f20965d09d3fa69cfb149601808f1e4392222dbc6efc346fd4f1a448a318fa89",
+      "bytes": 1396
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_NETWORK_TRUST_OBSERVATION_20261023.json",
+      "sha256": "be0154c77ff9985b8046072b50b5c9425dfe36e24963a8f7aac507912208be58",
+      "bytes": 1864
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-dhu-session.py",
+      "sha256": "617003a1436fb569e6ac48e5ac0325503d76594e09c51a5b8fd6e6cf8e102948",
+      "bytes": 6368
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_SOURCE_BUNDLE_20261023_FUEL_UPDATE_HISTORY.json",
+      "sha256": "ded0a241bb74febe5fdbb98b9adb01070bd335972e0413324c1e3bae35479eed",
+      "bytes": 2051188
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_TRIP_CLEAR_RELIABILITY_20261023.json",
+      "sha256": "1d95e89700c3826235117fea2ca0c953b6e2cc7f78399d42e4db905f49c34e6a",
+      "bytes": 18165
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_API31_SIGNED_OVERLAY_STATE.json",
+      "sha256": "86450201a2985ecec5bea454886af877c3065a478ac154bcce3afb6665e182de",
+      "bytes": 7277
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_isolated-negative-final.json",
+      "sha256": "4c127f84b9fc96b12fb175594554c986445b6804dabd063178b6054e0e7c2525",
+      "bytes": 861
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/UPDATE_RETRY_WINDOW_CANDIDATE_20261023.json",
+      "sha256": "75606fddcb3d18164b81b89b3e08f340351df32f065f40f7b0e5645eb5fd1db0",
+      "bytes": 3116
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_API31_INSTALL_PIPELINE.json",
+      "sha256": "2cbe467829aa5626532a1b73b4b7f1ec5c886c329b6affd9f856e9883e51e03b",
+      "bytes": 391
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_BUILD_HARNESS_FOLLOWUP.json",
+      "sha256": "6a833895b20d0298377803c58d08478ef2460000c9b89d6b9301e8bcf00da570",
+      "bytes": 7316
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_UPDATE_SINGLEFLIGHT_INDEPENDENT_REVIEW_20261023.json",
+      "sha256": "762669cc4bc8c45c7e3bcca1a065dd2d5c7c1aac7f8d24b5f11a0a54f53048f3",
+      "bytes": 3132
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_API31_POWER_STATE.txt",
+      "sha256": "9c90245d9ecf90b22004b8b35ed464fc1cc024ec7b4d5e91e055b866587b5564",
+      "bytes": 12401
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-os-controller-handover.py",
+      "sha256": "3fa28dd0cdcdf7868c080127ab6f1e983be29af157d205f88a59c7ab983261f4",
+      "bytes": 2786
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/aa-bootstrap-trace-gate.py",
+      "sha256": "a73a94c7e75da1c48f4509b3b82fa9581c3733740bc8d668e60fdad0bb104978",
+      "bytes": 2411
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_RESUME_OWNER_RELIABILITY_REVIEW_20261023.json",
+      "sha256": "a1592ce07a8a1b06d7644dc2c373bf437199a3755cc7f7250e22121174036abe",
+      "bytes": 2373
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/UPDATE_COALESCING_CANDIDATE_20261023.json",
+      "sha256": "1a3a29c477e51eba16edd5da6bb934759d701eaf2b72a9a91b1450268459e7df",
+      "bytes": 2621
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_NEXT_AFTER_RESUME_COALESCING_STORAGE_20261023.json",
+      "sha256": "455012a965e53779dfcb51e368dcd15b37ece3f7ea0188d42fee2ff6cfdfdb90",
+      "bytes": 946
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_SESSION_isolated-negative-host.json",
+      "sha256": "99d68130fb87e5e0798d7c95d11aca96c48934f25287ffacf26005ef4eacc536",
+      "bytes": 859
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_RESUME_PAYLOAD_STORAGE_WIRING_REVIEW_20261023.json",
+      "sha256": "6846afc5f631e55030b42e4ec42ddc9c33422d9d95adda125601cdeedf2eafcf",
+      "bytes": 2673
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_RESUME_COALESCING_STORAGE_CHECKPOINT_20261023.json",
+      "sha256": "25950e9cee4337bc7cdb49edff8acfe5237e831c79bd07dabd9035b9a46597c5",
+      "bytes": 4501
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_API31_ROLES_AFTER_OVERLAY.txt",
+      "sha256": "5c6801b14a92882345b0666fca9d07e4e2d72c631ee96897429adc7a9ff6d925",
+      "bytes": 2409
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa31-apply-public-ca.py",
+      "sha256": "5575a0a3b914ab0b7e1e255ec981822186a8767cdd0872c41dc07c48b7beab8f",
+      "bytes": 4445
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_NEXT_VERIFIED_SLICES_20261023.json",
+      "sha256": "f3e00c29037215e9ced85397bf3b4835e62d4025e854d4c2716862ebf993e196",
+      "bytes": 2971
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_SIGNED_SYSTEM_OVERLAY_LAUNCH.json",
+      "sha256": "22571476315f56d9d938d7dd49cc7b48351d06102991439ea1d817d47c22cf8e",
+      "bytes": 374
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GMS_NATIVE_DOWNLOAD_VERIFIED.json",
+      "sha256": "a86c2b9e854c4e8396b25ef0c2213216fafd3a8689de2f2f83b0552e53cdac72",
+      "bytes": 3479
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GMS_SIGNATURE_LINEAGE_VERIFICATION.json",
+      "sha256": "8b2ad6e1fcfe9de341893299e654ddeb728e78031e5288cd19eedb30fb7eab80",
+      "bytes": 6921
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/AA_API31_SHORT_DEXOPT_TRIAL.json",
+      "sha256": "00262cfc87ef1e65f3e9ea54d1abe25b77eb4090df3f573727a46b5ab317fe3e",
+      "bytes": 445
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA31_TRUST_OVERLAY_STATE.json",
+      "sha256": "b59d03dc1af8c90cbf53d61a48e879cc3b22686702b271024011b57d85145daf",
+      "bytes": 1121
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_FULL_GRADLE_DEBUG_CURRENT_20261023.json",
+      "sha256": "46b8f044f2eefaa552a943eeaa48245a9e44cb419a1ff7e751053c95ddca13f4",
+      "bytes": 89266
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/prepare-official-api31.py",
+      "sha256": "dc60723dcd512cf3db9f78a3c81797e1e3e0c5f2e412426b6fee97c8515bbc8b",
+      "bytes": 5185
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/UPDATE_COALESCING_LANE_20261023.json",
+      "sha256": "bd58e36b9a1c3f0cabf8256ec73967169db2c08776e97c366d75dfe88650f4c9",
+      "bytes": 3720
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-aa-inspect-aaos-gms-metadata.py",
+      "sha256": "80a002100e9a7f86af20b7cda4e184cb23cb802e65fe2d0a50f165ed5740642b",
+      "bytes": 3562
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ONLY_RUNTIME_CURRENT.json",
+      "sha256": "7629b15fe4552c42768d068a00e906ff9cc1246c45dcac7175e107b83b226c37",
+      "bytes": 991
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/IMPLEMENTATION_FUEL_UPDATE_HISTORY_CHECKPOINT_20261023.json",
+      "sha256": "8bc9762906720ab2d2983501006706ceeb4b931a99af864c60e91d4c00d44984",
+      "bytes": 4309
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/storage-copy-transaction-20261023/run.py",
+      "sha256": "0d6a1c70b5ae229dacb7534492b53281586c696a17d9d5a6fbd9534931c4602c",
+      "bytes": 1374
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/storage-copy-transaction-20261023/RESULTS.txt",
+      "sha256": "0f8d7a7061f1811afe9fa86c0e377eedb0ced495d4258b5d4bbd1ff7070dba26",
+      "bytes": 287
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/resume-payload-validation-20261023/RESULT.json",
+      "sha256": "c70062c921d480924180ec3abda0ee36a0d07510f7f8e44b2699e751dd93c553",
+      "bytes": 98447
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/storage-source-cleanup-20261023/run.py",
+      "sha256": "23d1d4544ce2fe7892c7594d26908e227a34552b4892b63c6b7c949436b6d3f9",
+      "bytes": 1436
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/storage-source-cleanup-20261023/RESULTS.txt",
+      "sha256": "6437c818d8907bbd0b74b00dcd9210127a64f104b88d6e21e2318ef23a72312d",
+      "bytes": 281
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/fuel-future-timestamp-20261023/run_fuel_timestamp.py",
+      "sha256": "ad26c5b5c62f7b5c67259f7d4aef9ecb3322576d8734d313b971b32cd20805e2",
+      "bytes": 1696
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/fuel-future-timestamp-20261023/RESULT.json",
+      "sha256": "19299a4e0f7f2ca34b8f2a0561d8c43ddf542d36ea2dbb8b9fd96efbf63b5226",
+      "bytes": 39286
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/resume-request-ownership-20261023/RESULT.json",
+      "sha256": "25354bcfa147088e3c06328f4abb401ca826ee1467900b14ea9c7b19e3567c36",
+      "bytes": 101122
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/command-request-20261023/RESULT.json",
+      "sha256": "2da58c19d948c626c5d696b82c75e388f018951363eda7142a4b62251d7c68a1",
+      "bytes": 7429
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "907c1abe6c84eea63705df5a6da5baf1c65751a688946aeb00c05dbff7b710c6",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
