@@ -1,0 +1,107 @@
+{
+  "capture_utc": "20261023T212231Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 16192,
+      "sha256": "7a4ae75c1d9010a405fd31067c5c5b3bde3d25cbc5f5a83613dd814412cc7961"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "1c1b3d4a6af1371ff15d657d07ab63d2a06c36e2147fe7244d8e458a5e58cb9c",
+      "bytes": 2011
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_TEARDOWN_PHONE_FIRST_BOUNDED_PLAN_20261023.json",
+      "sha256": "2492dd250b659ae206b5d7f22d72b40cd020a8dacbf5f16afe7d2bd7f741bb8e",
+      "bytes": 3992
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_ACTUAL1_INDEPENDENT_INTEGRITY_AND_PAYLOAD.json",
+      "sha256": "d8e47ef923507304fe6ccf91bc4a3be7ff90a47ce3fbfe6266127f17b352ba26",
+      "bytes": 2391
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_NATIVE_PREFLIGHT_20261023.json",
+      "sha256": "8968d686899818141eb89738ace237e15a2eaa433479afd78cbc639eec0066f8",
+      "bytes": 379
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_ACTUAL_WRITER_HOST_TEST.json",
+      "sha256": "2db98e86dc03b107b86eccff404b5bf6d5f8d6a3685a179d5e553678782e38e1",
+      "bytes": 912
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_RESULT_ANALYSIS_READINESS_20261023.json",
+      "sha256": "94b033a243a0246dab0a6e9ec7c483aeea3de029339ebc2fe27f9666beb7144b",
+      "bytes": 1576
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_SOURCE_POLICY_PRECHECK.json",
+      "sha256": "b52a97fe0d423b90626c9066ec3324cc10d59ac4fb05f7e5f45ede50ec5bcd1b",
+      "bytes": 1038
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_UPSTREAM_CURRENT_HEALTH_20261023.json",
+      "sha256": "c4ef6380e8fb0a377f8f53b409b0748ea2c17a4ea16abc0f0161942e52ce8d77",
+      "bytes": 1350
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_UPSTREAM_RSUBMIX_PUBLIC_CAPTURE_DISCRIMINATOR.json",
+      "sha256": "ee035623933d1ae75f9df4238252bf9576ff9ad3616d897a301b035475570f63",
+      "bytes": 4053
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_ACTUAL1_STATE.json",
+      "sha256": "c98d87ecf6fec47d798201a8d9016074580c3d8f77b95d005571af1054f87863",
+      "bytes": 1648
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_ACTUAL1_SOURCE_WINDOW_COVERAGE.json",
+      "sha256": "9099db208ca9f2763094c3a6b7c554548363458f457a3b3d041babda48dee09b",
+      "bytes": 1947
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_ACTUAL1_CALIBRATION_ONLY_SUPPLEMENT.json",
+      "sha256": "9daf45a8c18b028eb0d204375775f68180f31402e1c016babcbda81d8213d64d",
+      "bytes": 3445
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_SOURCE_INDEPENDENT_REVIEW.json",
+      "sha256": "4918888a06100a72533519e437c52a509fcb0f03534fe81da69e4332a1821d96",
+      "bytes": 2576
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_RUNTIME_PULL_AND_CLEANUP_HANDOFF.json",
+      "sha256": "78e4e99cf989b96edb139b5e3febade04c25bf32f0420651b8a59955c8d44bbb",
+      "bytes": 3194
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_NATIVE_PREFLIGHT_20261023.txt",
+      "sha256": "011e25f8ab37d937fa1a96f87c148a7bf2584d29dfc17f16165a990beff3473e",
+      "bytes": 1169
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_WORKAROUND_QUEUE.json",
+      "sha256": "e2afc2489d3964c30439ee25363a4804af14a9c1edf67e6006a9923df45e4cf7",
+      "bytes": 6178
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_PUBLIC_CAPTURE_APK_HOST_BUILT.json",
+      "sha256": "f7af9847f55097d55e810d1a9785c959ee75a23f01255fd4cc85127177ef04f2",
+      "bytes": 2837
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_CAPTURE_REVIEW_PRIMARY_AND_ANALYZER.json",
+      "sha256": "77c15e03b7470a5482499a527e64f14f5418cbc2083720386c098f7675452928",
+      "bytes": 2338
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "7a4ae75c1d9010a405fd31067c5c5b3bde3d25cbc5f5a83613dd814412cc7961",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
