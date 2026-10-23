@@ -1,0 +1,117 @@
+{
+  "capture_utc": "20261023T172215Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 14371,
+      "sha256": "e750f1a70fc394b6fa4cbf99025b6d08170fc64c98652fc4e036e10edf086e87"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_AUDIO_CLEANUP_FATAL_RCA.json",
+      "sha256": "d9b8f12437bafab94e6cbcb1f5c9e74953e8b6ec17da8544914e15dde6d70ea2",
+      "bytes": 1216
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FOSS_REAL4_RESULT.json",
+      "sha256": "aa597543bc99289e49b03bc31a482fe45668742360efdcf34d5f03c8a1814bd7",
+      "bytes": 2611
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_ANDROID12_RSUBMIX_ZERO_PADDING_PRIMARY_RESEARCH.json",
+      "sha256": "3cb0ea6b13d8214c3f837cb78484142b9f27eff695e79d16b8c1bc03f124d8e0",
+      "bytes": 1399
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_FOSS_REAL4_INDEPENDENT_CLEANUP.json",
+      "sha256": "938d25c8cc51a15e2fb85748397c5da847e96f134e4c6a21c3a92d25fccb4985",
+      "bytes": 403
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-foss-real5-audio-only-v9-controller.py",
+      "sha256": "9c9f721258a29150cc0ba15f8bf48fb72ba66e0ed315d1deefb8535b425e08ea",
+      "bytes": 5537
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_REAL4_PHONE_FIXTURE_READY.json",
+      "sha256": "9e9e3f7b9199db3f0ee15f3fd107db97036b7f539501967721541647eb4b1e0c",
+      "bytes": 561
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-foss-real5-v9-controller.py",
+      "sha256": "8e920fe6dd3a7fa1d4699216b076bf89d1942742557400a114a49b93a0d4c884",
+      "bytes": 5295
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-boot-foss-real4-v9-controller.py",
+      "sha256": "7b702d0dabeed14e3167ae3f226164cb49c43935905277c255fffdb746fc2000",
+      "bytes": 5295
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_REAL5_AUDIO_ONLY_CERTIFICATE.json",
+      "sha256": "dc2d9edf667fca497cb93eb14bbec79e90e8779256f2ea5fc9444467f518a33a",
+      "bytes": 818
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_INSTALLED_RSUBMIX_BINARY_ZERO_PATH_PROOF.json",
+      "sha256": "92c5026fd426efdca32473a8d2d7a846e4b2bf699624e240f3aa895c68dfb122",
+      "bytes": 1460
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_POSTCLEANUP_FUNCTIONAL_AUDIO_AND_REAL5_READY.json",
+      "sha256": "b68dd6b798aa7a531938bdc236931a7346d27f1ab8649ca9bad55ac8b53d3cb2",
+      "bytes": 1043
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FOSS_REAL4_PROJECTION_CHECKPOINT.json",
+      "sha256": "643102395d404c450fc719487fd3519ef1f43ef5c7b7c3e0b9e58de2174c0d73",
+      "bytes": 554
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_REAL5_AUDIO_ONLY_V9_ACTUAL.json",
+      "sha256": "f248e29c0b29196bb3d4fe10e746f81ff8b79dca4118a4da610d396cc3bdf8d0",
+      "bytes": 2683
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DHU_FOSS_REAL4_HOST_AUDIO_ABORT_CORRELATION_LIMITS.json",
+      "sha256": "76619dde8a9ea1c124a26f7fd55bc92e4db6a10930a2233be671d708f3254ee5",
+      "bytes": 2277
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_LANE_CURRENT.json",
+      "sha256": "b5c0928b2072b54c24ca97eccd977b8cd99f69479cbd2598ddf327409b351244",
+      "bytes": 832
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools-foss-private-session-v4.py",
+      "sha256": "c8063f59c3144094613e221c03e8ea955dd7a8c16ef316f66db13c4cb323e359",
+      "bytes": 8493
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FOSS_REAL4_PREPARED.json",
+      "sha256": "30a33e5d56417ef997f9deec3c8d4509bf62baf2eaf26b8a53ca1c5d36c862e2",
+      "bytes": 571
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_REAL5_AUDIO_ONLY_INDEPENDENT_RESULT.json",
+      "sha256": "ef8e5179c07df6a41b0e619df37081ba4f0ffc3f5f6da9a5ce814c0041a51da1",
+      "bytes": 2605
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AA_FOSS_REAL5_AUDIO_RESULT.json",
+      "sha256": "0c51bff4803f21ec1aa3b94ce59f25b371defda4c426befb30184c031e1ed503",
+      "bytes": 7715
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BOOT_FOSS_REAL4_AA_SERVER_READY.json",
+      "sha256": "ceaacd5476fcce1af72ddadeabc66248444e93eea80e7732926a18d52309fee7",
+      "bytes": 566
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "e750f1a70fc394b6fa4cbf99025b6d08170fc64c98652fc4e036e10edf086e87",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
