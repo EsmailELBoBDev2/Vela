@@ -1,0 +1,142 @@
+{
+  "capture_utc": "20261024T072259Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 1110137,
+      "sha256": "4a293804f2f0ac545074c8a123ab7d75e9faa9323e0da7ec194e1ee350335b7b"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "06f18b635a62da6c2a05e8f9969affef2a5b0946c50d0a18071be3fbd12f31ce",
+      "bytes": 5244
+    },
+    {
+      "path": "cairodrive-research/continuity/FALLBACK_AND_STEPS.md",
+      "sha256": "fa1d9e04c34e548a23f214ffdbf77a1237bb01a9dad0f47dd7b0efa98b54dc2e",
+      "bytes": 13118
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_AGGREGATE_ACTUAL_EVIDENCE_BACKUP.json",
+      "sha256": "bf0f01909684f6ea938e2e718ff19c161fe5928537ae721f66d3149407cb9af3",
+      "bytes": 248211
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_SEARCH_REFINEMENT3_20261024.json",
+      "sha256": "6b25ebaef6ad559edcb0e97e51d00407977d785837cb3a5fbe44374f287ebe5c",
+      "bytes": 1096
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_CONSOLIDATED_RESEARCH_20261024.json",
+      "sha256": "4f382c00eab2b243ac1aeb99f6f3177c6b76d94be76e53aa413aef9307ff489a",
+      "bytes": 1655
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_SEARCH_ROUND_CLOSEOUT_20261024.json",
+      "sha256": "56ff89093a17637831b7e7ed4803fff4f8b269cf1890f0fbb6052653ba3ab1ed",
+      "bytes": 1413
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_SOURCE_ATLAS_FINAL_VERIFICATION_20261024.json",
+      "sha256": "b32c49aa2be4486b24135a07ec526057ea5b467fe0ba827685ea539e09c4bdd9",
+      "bytes": 274
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_METADATA_AGGREGATION_HOST_EVIDENCE.json",
+      "sha256": "313a1dfa3a33409bc148d2ec5bd67342951471e72eab949b83eb55c68a68d9d4",
+      "bytes": 56154
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_SOURCE_COLLECTION_PHASE_20261024.json",
+      "sha256": "73a91b053cc1cf0747f5626170afdf7d0e1c1bd46d3c618f9b39cda3c6647929",
+      "bytes": 453
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_SOURCE_ATLAS_20261024.json",
+      "sha256": "46dbc6e0d73d17b30dcf411cabbed1b43ebc8b5da7a796c8e602972862f4faab",
+      "bytes": 2192
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_DEEP_RESEARCH_CURRENT.json",
+      "sha256": "2f002c775d8e04870a892b25b1b1560bf98a8bd99fa1e6c6322af7e1562349e8",
+      "bytes": 4837
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_MONITOR_CORRECTED_IDENTITIES.json",
+      "sha256": "7270975f82e5e806fdd870de4c7bdb1a4721d5aa7390a857e99bc490fb9fdba3",
+      "bytes": 1149
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_AGGREGATE_FRESH_ONE_GO.json",
+      "sha256": "8a8704c881e4f4c28dc8fc07def3efbd5a3ba5bb60f5dedcee5d06bf95e272d8",
+      "bytes": 3662
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_SOURCE_COLLECTION_PROCESS_RECONCILIATION_20261024.json",
+      "sha256": "13739c269526fb4c322771958ce42963c4954e07e77fb9801fea080904546337",
+      "bytes": 4284
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DAC48_FINAL_STOP_AND_PRESERVATION.json",
+      "sha256": "22d4d50aee4352e2974317ad1683258c227d98a0219805a2b0a65be7c899c54f",
+      "bytes": 2141
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_CONTINUATION_REVIEWED_EVIDENCE.json",
+      "sha256": "e150aa0a1615ad075d89a5471c72397f95852d7e9d33e9cb126f12163a60efa7",
+      "bytes": 39773
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_SOURCE_FOLLOWUP_20261024.json",
+      "sha256": "940a3505cb49450933a3cf7f264585b64eb421360259f6e0c9c527d592c6e5b8",
+      "bytes": 1848
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_PULSE_MONITOR_CORRECTED_ONE_GO.json",
+      "sha256": "89fe5da293412c55ec3c2fd87524a73e66639033637593592fe76013352a03f3",
+      "bytes": 3029
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_MONITOR_PARTIAL_FAILURE_EVIDENCE_BACKUP.json",
+      "sha256": "b28f5e0f1dceda702be19474b64927b21fc2ecf214953274860cd40b6747108f",
+      "bytes": 884203
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_BOOTSTRAP_ROOT_GO_20261024.json",
+      "sha256": "8f8a3276f3c7590100a0bc90a3d1d4f132cf5c9a3b6c7f333dcfd0ff9b2f1703",
+      "bytes": 4002
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_SEARCH_REFINEMENT2_20261024.json",
+      "sha256": "29e51d596f87a95b399509c62a8d227bd097c4c447541404b1e07b0a4ea53a1c",
+      "bytes": 1246
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_BOOTSTRAP_FAILED_EVIDENCE_BACKUP.json",
+      "sha256": "7b1cadbba5eceb356f684a10499dcac7cec679c0e80106a449d7b517182a4c1f",
+      "bytes": 285219
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_SEARCH_INVENTORY_20261024.json",
+      "sha256": "cee9081d6d1f9acfbfbd1a8b39222c9436dc3c66f374a8b37210be31ea4aff75",
+      "bytes": 47067
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_MONITOR_ACTUAL_CURRENT.json",
+      "sha256": "157c2167848bbc713260a0f09fa5bf70673cf9667c8fea33eecb606c99d718db",
+      "bytes": 751
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_LATEST_AUDIO_RESEARCH.json",
+      "sha256": "b9e9d433bb772440e3bc4d2d1c948288ee3eb8439fbbebd09ccaf058a5962ee8",
+      "bytes": 2290
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "4a293804f2f0ac545074c8a123ab7d75e9faa9323e0da7ec194e1ee350335b7b",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
