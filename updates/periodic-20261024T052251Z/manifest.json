@@ -1,0 +1,262 @@
+{
+  "capture_utc": "20261024T052251Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 1000952,
+      "sha256": "6b8abe371729c5864d84386d44f861e8eff48aa613fa10f5aaaa986d7de3c8f3"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/CLOUD_TASK.txt",
+      "sha256": "501d3ac0f8cf6c41627e24fc76c48ad0361f597a9d0b714b531f7aa5037494d9",
+      "bytes": 4138
+    },
+    {
+      "path": "cairodrive-research/GOAL.json",
+      "sha256": "ebd54a695430a9fb577726089b0b3f5b7ee932ac55531c3a282c570d3e36add3",
+      "bytes": 6516
+    },
+    {
+      "path": "cairodrive-research/HANDOFF.md",
+      "sha256": "0007bab66a00886b0b996b986065e1790d49dce2fd5ab78343b28ec97d617d51",
+      "bytes": 3256
+    },
+    {
+      "path": "cairodrive-research/PLAN.md",
+      "sha256": "0007bab66a00886b0b996b986065e1790d49dce2fd5ab78343b28ec97d617d51",
+      "bytes": 3256
+    },
+    {
+      "path": "cairodrive-research/STATUS.md",
+      "sha256": "13d9fb6a47f5e6be5aa645fc4cd0614dc8c88134c79bab22eb62583f2b6f374f",
+      "bytes": 3678
+    },
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "433509b97b5dcb1d3924624b4fd00cd656068135fc9395380b2050e0ed0f9a00",
+      "bytes": 3199
+    },
+    {
+      "path": "cairodrive-research/CONTINUITY.md",
+      "sha256": "0007bab66a00886b0b996b986065e1790d49dce2fd5ab78343b28ec97d617d51",
+      "bytes": 3256
+    },
+    {
+      "path": "cairodrive-research/continuity/local-checkpoint-disabled-by-user.json",
+      "sha256": "ee731ba1b4e26d1129f5c9aba675985d19b373756a6618dc59c9cef792170569",
+      "bytes": 126
+    },
+    {
+      "path": "cairodrive-research/continuity/snapshot.py",
+      "sha256": "11e780cbd5a01f0aa7806bf52a8e983bac65382cffd34a96656d581f11a08a33",
+      "bytes": 1828
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_BUFFER_REQUEST_ACTUAL_EVIDENCE_BACKUP.json",
+      "sha256": "e76ce03869832e14965238c56ba00f538cf6fbc3f0b3ef7ba56735411aeb6bbe",
+      "bytes": 269213
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GUI_NATIVEPA_ACTUAL_CAPTURE_EVIDENCE_BACKUP.json",
+      "sha256": "6a6bf1e7e08955ec8fe4f4d3ceeeae39a64b97d20d02b79d782c59cd9b8cd89e",
+      "bytes": 409390
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_LOCAL_BACKUP_CLEANUP.json",
+      "sha256": "b05ff5b8a2a1241f6946f6e15ce682e2fd77bc83a6c6b2792c8271cbc2329317",
+      "bytes": 1141
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FURTHER_METHODS_ROUND3_EVIDENCE.json",
+      "sha256": "bb0a187ebfaaadffad6c9553fa1204ed369e8be5010a4b3968793324f51eca63",
+      "bytes": 7474
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_CLIENT_BUFFER_1S_CONDITIONAL_GO.json",
+      "sha256": "6ddbd581de5893425cef043ec5c5640de2b1658a22cbd7162272e2e2843fa69d",
+      "bytes": 2835
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_FURTHER_METHODS_ROUND3_20261024.json",
+      "sha256": "ff9b6624c294f75ca41b316d32c5373d01d3d9358c1f28973425edb4d77aff01",
+      "bytes": 7142
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_CLIENT_BUFFER_REQUEST_DISPOSITION.json",
+      "sha256": "84c85b6b851ae09bbfedb10503fa3e64a82c11bf3dacc842febfc21667c5cce0",
+      "bytes": 2985
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_STOCK_INPUT_CONTROLLER_INDEPENDENT_REVIEW.json",
+      "sha256": "94c9683ad9d0b3d76ba3290cd2ca3b947dea43a2fc150864e222fa7b10712c1d",
+      "bytes": 1827
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DEEPER_AUDIO_RESEARCH_20261024.json",
+      "sha256": "114eba7c5a5a15098087a24d4e6b14b4465b68692d3051ddffe5f230ca1b5e87",
+      "bytes": 7756
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_ACTUAL_RAW_SEGMENTS_INDEPENDENT.json",
+      "sha256": "908bb21de9282fd2c5c92d45e90b0e088466eb1779325c320e770bfe683b4cfb",
+      "bytes": 703
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_BUFFER_REQUEST_AND_NEXT_MONITOR_EVIDENCE.json",
+      "sha256": "4d88db966de570e88b085db250ce6c435bfbafbda46a871564f0e01cc876a00c",
+      "bytes": 42525
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_GOOGLE_ACTUAL_CAPTURE_EVIDENCE_MANIFEST.json",
+      "sha256": "101a6ab06b7ecfdf81078738be9740eaad371a418a7c7064b3ba8ba20d6fd526",
+      "bytes": 12865
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_ACTUAL_CAPTURE_INDEPENDENT.json",
+      "sha256": "3f891591c5acdfe91c1ceb08f48a8925eb72f521b6350ab419588940778f1e22",
+      "bytes": 4083
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_VELA_DUPLICATE_BUILDS_CLEANUP.json",
+      "sha256": "640b1bd250667d854394d79c2282d1d1b0e1764e6adbaf00664f14b7a92a3155",
+      "bytes": 1007
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_GRADLE_CACHE_CLEANUP.json",
+      "sha256": "4a3432509e3c795553c7cd8576f7687edef01a2d87284a68ec7de2f2b5d41f9e",
+      "bytes": 431
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools_retained_runtime_inputs.py",
+      "sha256": "5fcecd7a7f57d00ea140e962b4c7e9fa663c101d442b55bfc56488fdb0fe6e1e",
+      "bytes": 1094
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DEEP_AUDIO_DIAGNOSTIC_EVIDENCE.json",
+      "sha256": "bfc78fddeba399ca281b5547bff8300bfd392b126336aa0309723ac2d25e4d62",
+      "bytes": 232461
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DAC48_ACTUAL_CAPTURE_EVIDENCE_BACKUP.json",
+      "sha256": "a413941826058d71d49481e7446ecd3d37f6c73d0f61244411fc97092b813aa2",
+      "bytes": 385669
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FRESH_SOFTWARE_WORKAROUND_RESEARCH_20261024.json",
+      "sha256": "7592630f9ade962e2ead56ccbe32fc46dbef15daef9e1b0c27febd00e216dd10",
+      "bytes": 3047
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_ARCHIVED_VELA_APK_REMOVAL.json",
+      "sha256": "c7fdb1cde496312b6930db87e44eab8f63f28ab33bae3cb73dcdf04cfb3b0be1",
+      "bytes": 1935
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_FOCUSED_INPUT_ARCHIVE_CLEANUP.json",
+      "sha256": "4f67a3ac17b71d1839f6673a258d39410b472fbc407e05ef15b9a1430d1d02a0",
+      "bytes": 4899
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NONPERIODIC_ORACLE_ROOT_SYNTHETIC_AUDIT.json",
+      "sha256": "2398f3727d0565b4483337c6b8e713e0399e75072d4713ef567d16e73347f0e0",
+      "bytes": 32675
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_CURRENT_RETAINED_RUNTIME_INPUTS.json",
+      "sha256": "e7b399f1dd589cbdc594eca887f460442b3e40ef57558764436d0ec650d37c63",
+      "bytes": 8266
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_LOCAL_REMOTE_BACKUP_PAYLOAD_CLEANUP.json",
+      "sha256": "ae8ef49032f04df1ea21324a0ac08c391ecce1b05822e77f69ae9325c9b2292a",
+      "bytes": 37477
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/LOCAL_REFERENCE_GIT_HISTORY_AUDIT.json",
+      "sha256": "6a9e7045fa44fc437572a6698a395457d5a879aaacb185a1752fcabad00c806f",
+      "bytes": 7280
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_KVM_ONLINE_FOLLOWUP_20261024.json",
+      "sha256": "9f05f05021480ce54c38b101b2c7f7fd706e1112a89a15991af617b560e35f1a",
+      "bytes": 957
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_ACTUAL_EVENTLOG_PROVISIONAL_REVIEW.json",
+      "sha256": "d00f2b79b82e4afd7ce45f3051ddacc976a971db272ba8db5f0e2c4490ecf928",
+      "bytes": 2754
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ADDITIONAL_AUDIO_EXPERIMENTS_20261024.json",
+      "sha256": "20ed0441b0ac729f56f111dea6a4bc932b11a66f20dd6900ecc16552aa59a655",
+      "bytes": 8938
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_NORMAL_INPUT_PRIMARY_FEASIBILITY.json",
+      "sha256": "c06975fa452a2f34cf385ccc55754699b5decf24dbc177a2ae936edd33adc546",
+      "bytes": 1853
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_SDK_OLD_CMDLINE_CLEANUP.json",
+      "sha256": "dbcf572f8b21acbe6c02a7e945fc949ff1633e5bce4512452a2098ccb1cd24d3",
+      "bytes": 327
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_UNUSED_TOOL_PACKAGES_CLEANUP.json",
+      "sha256": "5bc917806dbb3861cd4668d244e5212cecf1ab83678cea2f3595d4cba7a73ff4",
+      "bytes": 1163
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_SINGLE_VELA_MAIN_REPO_CLEANUP.json",
+      "sha256": "d9044f08f6f2dd7a881b27afd5bfec8185cfc9046c0e2cc3845d74bc77b7ca4e",
+      "bytes": 10723
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/VELA_UNMERGED_CHANGE_EVIDENCE_REMOTE_TRANSPORT.json",
+      "sha256": "c1975a9154569dfe580478470db51dd3050ebb1e19c0f6c06d706569a1df4914",
+      "bytes": 331307
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_ACTUAL_WINDOW_INDEPENDENT.json",
+      "sha256": "f5a2c38051343da3cb42d38ac8bc62014bc295de03e5e481eae5556fc37a7573",
+      "bytes": 1361
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_DISK_REPAIR_UNUSED_CACHE_REMOVAL.json",
+      "sha256": "9ecc7358382f5737e1b361eac094a0cf7e0a02d4c04e9ee990932257d1f2cd59",
+      "bytes": 671
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/tools_export_own_probe_capture.py",
+      "sha256": "dcc5264d994b1afe0288916e494d6b63d221e55bf74c9692bcabbc677987e636",
+      "bytes": 2169
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_FINISHED_IMAGE_INPUTS_RETIRED.json",
+      "sha256": "67a53122805470f02ae2e664a36241a506a82461193e184c381c100da33b2351",
+      "bytes": 2237
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_NATIVE_PULSE_MONITOR_ONE_GO.json",
+      "sha256": "45d9261e862e03f6e9ca5714c9361e20d87bf1f7ca85f419eb1487539f0edffe",
+      "bytes": 2339
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GUI_NATIVEPA_ACTUAL_CURRENT.json",
+      "sha256": "75218f74a2577858b1e44c5286d4655d496365d0690341e32bf0034ba71c6cb8",
+      "bytes": 1340
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/USER_KEEP_ONLY_VELA_FOSS_TEST_SCOPE.json",
+      "sha256": "86b6d6c9def4e7c960faf7fa01816bf5ccc6aa34c4ad0aa1b78171e3fabe4614",
+      "bytes": 1120
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "6b8abe371729c5864d84386d44f861e8eff48aa613fa10f5aaaa986d7de3c8f3",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
