@@ -1,0 +1,97 @@
+{
+  "capture_utc": "20261024T012241Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 14655,
+      "sha256": "e8d835f21530c196e48277acc0e02f1e80915147791e4f20edd47bfb8423f31c"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "410161e5bd7eafccf4cf6cc108ff09677484877dd80ae3805ba06ccb4a710557",
+      "bytes": 2098
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_ACTUAL_INDEPENDENT_PRETRANSITION.json",
+      "sha256": "5f0cf52f05b106a07f0c4c7176b83a297e121bb57f006e9fdd4cb94e80067917",
+      "bytes": 1946
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_WARM1_TIMEOUT_AND_FRESH_CONFIG_INDEPENDENT_REVIEW.json",
+      "sha256": "60dd9ec1d4098061d9e11f458a37317a823bd1566fccac737306aa6a67f32d6c",
+      "bytes": 2563
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_FIRST_LAUNCH_INDEPENDENT_FAILURE.json",
+      "sha256": "6a1d089d3d32fedc158c18b8509a62c405d3ac5327fab16b223ca2d35eec2c53",
+      "bytes": 990
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_WARM1_INDEPENDENT_REVIEW.json",
+      "sha256": "ef6a072eecff9edf9271f908a12a522795bf2297b8b81c82e91f94fce58842ec",
+      "bytes": 2019
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_USERDATA_V2_INIT_PERMISSION_INDEPENDENT_REVIEW.json",
+      "sha256": "67c36af5a9747f36cdbe7128df8656f6265423bf655d4daa75d1efd92f687720",
+      "bytes": 2729
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_ATD_SAME_SOURCE_COMPATIBILITY_HOST_AUDIT.json",
+      "sha256": "d6d1490a98441aee06853d9d7d38ee6247029fa2fa9c35c8cbf584cd261030e9",
+      "bytes": 2316
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_VALID_USERDATA_PRIMARY_FEASIBILITY.json",
+      "sha256": "4708340575793e90a4a170a6f7098180764e74892f547b614f48922f9512ede2",
+      "bytes": 1855
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_WARM1_CAPTURE_INDEPENDENT_VALIDATION.json",
+      "sha256": "d6a6a589aaafcb7f1dec03db12558816b2f08c07460b370463a38833edb9bd86",
+      "bytes": 2386
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_WARM1_ACTUAL_INDEPENDENT_IDENTITY.json",
+      "sha256": "b180b61d0fb7ff7cec4ef2c1dbe64c843492a3543ca545755b29e030b8db7207",
+      "bytes": 5290
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_WARM1_TOOLING_AND_SOURCE_INDEPENDENT_REVIEW.json",
+      "sha256": "c7d06d755263c76baf8474159615e512e7f7aed62aaa55f80ed4ae60778d5f07",
+      "bytes": 2734
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_SAME_TOOL_COMPATIBILITY_AND_TIMED_CAPTURE_PLAN.json",
+      "sha256": "4cca4de08c001ab8e423025820fbdf0d15d5866297243390e7477ba6bc87213a",
+      "bytes": 2868
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_USERDATA_V2_INDEPENDENT_REVIEW.json",
+      "sha256": "ec2c14f56ea4caed8ef34f3d129d95145930c7e4c5f7a065e0fdb0d6cdc5399b",
+      "bytes": 2258
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_SEQUENTIAL_FINAL_INDEPENDENT_REVIEW.json",
+      "sha256": "b66f3bc879660168d08b09b18879b58959e4370d94ba6851371a95dc2f0824f6",
+      "bytes": 2322
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_SEQUENTIAL_INDEPENDENT_RESOURCE_AUDIT.json",
+      "sha256": "3e6cd0063e4fe8ad692b8ed7ae31d0e6705d8ed8e54b871ba758d1b91f872312",
+      "bytes": 3680
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_PREINITIALIZED_DATA_PRIMARY_REVIEW.json",
+      "sha256": "c94f587b3f8274d959f73cfa5a82e2c36a820d3444f988b7d9d28d5983f04c1e",
+      "bytes": 1341
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "e8d835f21530c196e48277acc0e02f1e80915147791e4f20edd47bfb8423f31c",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
