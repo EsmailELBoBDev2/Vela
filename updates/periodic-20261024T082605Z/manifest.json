@@ -1,0 +1,657 @@
+{
+  "capture_utc": "20261024T082605Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 467115,
+      "sha256": "327908ffdaaed8274d9dde409de1a81217ead3c5d9c8e8fd37b8d4020752629d"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/continuity/RECOVERY_CHECKPOINT.json",
+      "sha256": "a0f9b75efeccc080811ea81b574f0f1891f32f25a7c60a09890e99a24fcb637e",
+      "bytes": 5565
+    },
+    {
+      "path": "cairodrive-research/continuity/FALLBACK_AND_STEPS.md",
+      "sha256": "71d85049424585f9520c30c2c1c688294bde1299c9a358e89c09f8c689889d50",
+      "bytes": 16293
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_LATEST_AUDIO_RESEARCH.json",
+      "sha256": "1d29d3dcc1670d7cc4b39df02d9dbedebb51ade75595d654f8dbd845247136e7",
+      "bytes": 3034
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/PUBLISH_EXPECTED.json",
+      "sha256": "a33413c4385275659f9fdd232bf695c772a301922fea5bcc22457ae322955c98",
+      "bytes": 31852
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/HANDOFF.json",
+      "sha256": "b6f18d6e414b59e82c67294631026dbf834ae373cc5c78df64824183308c9dcd",
+      "bytes": 881
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/RESULT.json",
+      "sha256": "e6356648c52e0a2542a833f3eea8fae461a9c4768a34b9b200ca5ef127aa5d7b",
+      "bytes": 4061
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/EXACT_STATUS_LISTS.json",
+      "sha256": "eb1d3dc4685720bd714ff950412d7c43a075c1782e7641802a952b54897c7156",
+      "bytes": 3159
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/KERNEL_RECOVERY_INDEPENDENT_REVIEW.json",
+      "sha256": "c6a1469d2ea28062419f8feae161370529082572de77b1a9efbe109cf17aab1b",
+      "bytes": 1188
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/FeatureControlImpl.cpp",
+      "sha256": "6c5d5b8a5bb220adfd9fca2996fa9a47ad8a25c4f3a3d7d22240b80ff7523c04",
+      "bytes": 16219
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/IMAGE_READER_PLAN_REVIEW.json",
+      "sha256": "57d0057a826c1cd4272c8936e3a6218542bc827f71ce6dfacb74cc7a324415f3",
+      "bytes": 1659
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/FINAL_SUPERVISOR_REVIEW.json",
+      "sha256": "a75e70b9229b9413ae2f6b0d35272610a88c6f10ee3aae91b41fbece60a17be2",
+      "bytes": 1652
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/FeatureControlImpl.h",
+      "sha256": "f15155af3cf879d63ba5c386282171accdf81d52cafe181e3d355e405d629cb7",
+      "bytes": 5132
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/SUPPLEMENT_CROSS_REVIEW.json",
+      "sha256": "ba5352e32f6cf18107e3534c5a5e9d7c64d1c1b7c2d989983df554948c604680",
+      "bytes": 2323
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/recovered-kernel-config.txt",
+      "sha256": "5b71a629aa5d5f2f649c91602de22d4cc326cd2896f96e4b7582f6fd621ab806",
+      "bytes": 155964
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/rev3784-FeatureControlDefGuest.h",
+      "sha256": "7dde4aa0c6e1fbb65868dd9c93173369db1a1dc1e3e392c875aaff030070a860",
+      "bytes": 2975
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/rev3784-FeatureControlImpl.cpp",
+      "sha256": "356b917407787f7f46aa717c55ca88f60adbfb37e9e49b812745c8066596a41d",
+      "bytes": 18011
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/EVIDENCE_MANIFEST.json",
+      "sha256": "a104d078bdbf93aa24ff2e21d60f13b7cdb7fc3771d41d38b2db1da3a89f93ba",
+      "bytes": 1474
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/FEATURE_SEARCH_RECEIPT.json",
+      "sha256": "8953782adae919a8e542dc1ecd787ec3e1dc0b375d847dae1e175241fb55a21b",
+      "bytes": 40378
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/FEATURE_SELECTION_QUALIFICATION.json",
+      "sha256": "f5b77252d596a3e55eb7d0fab2fff8998f734b3f82419d91339aea6186a5c827",
+      "bytes": 6418
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/IMAGE_READER_FINAL_REVIEW.json",
+      "sha256": "934ed69927f79b305867914be600617e858653d109daeb4a9107f18559fbfc27",
+      "bytes": 2548
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/FeatureControlDefGuest.h",
+      "sha256": "deffa1130d78654001f245763a30ef4896f11dc12457b72e58daa03ae8f883e8",
+      "bytes": 1649
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/ACTUAL_POLICY_HAL_SUPERSESSION_REVIEW.json",
+      "sha256": "0a8371bf7c49d66856164447e683d357b89b0d87cdd5884c4a937770223a847f",
+      "bytes": 4127
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/rev3784-FeatureControlDefHost.h",
+      "sha256": "a9d5902cb713127e2ea716ae7704b72316a72e9417291b53b6e8943e6972849b",
+      "bytes": 3076
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/FETCH_LOG.json",
+      "sha256": "7e90965a428d19cf859251c2e98ea62172287e470b235ae45b181d58c35b2183",
+      "bytes": 3353
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/review/CROSS_LANE_REVIEW.json",
+      "sha256": "23aea7e1afdb4ab8a6061be5c162ed4baa7a0385fb6a7ec135d3f49fe950b830",
+      "bytes": 1262
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/qemu_exact_advertised_commit.json",
+      "sha256": "952bba01735d5a24f0609e9e38f975c24c6398ab47c6396f2acdf39adc9d548f",
+      "bytes": 644
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/VERSION_SEARCH.json",
+      "sha256": "bc8456be744b88a1abcf3518a631255a5aada3b7ed7dceecf5e61ab893d19deb",
+      "bytes": 32656
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/installed-source-properties.txt",
+      "sha256": "ba13085f647fb8389a4d06a1de0e4104ac4e841733e50f67223ac230e1ce685a",
+      "bytes": 103
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/FEATURE_POLICY_CROSS_REVIEW.json",
+      "sha256": "f7cc46a36f8f7b9d5cf4d36b1ccf699f2341ffa8b45a2dcc2fe76423cfbc4088",
+      "bytes": 918
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/current_classic_properties.txt",
+      "sha256": "61c9f1f1df593decae91be87695a15b3f468305b2c5b8d457e196b7725d21caf",
+      "bytes": 82
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/RESULT.json",
+      "sha256": "f1ab264eb8707c2435b0dd532ee1a0b04407be5ab6380211c5c2dd72bb37f956",
+      "bytes": 6217
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/ROOT_FETCHES.json",
+      "sha256": "3ca0b1934b09b244e9cbed4d6bf1435e74d2c777069134e9fddd76fcec815911",
+      "bytes": 2906
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/official_release_notes.html",
+      "sha256": "440dd1ad71db883a7c9a98e62caea28d94dd77dc55c6d3886aca5f43737eaaa1",
+      "bytes": 445323
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/current_classic_root.json",
+      "sha256": "f08fc0ecc8c5a6bf3863b4518c334387d494a6bf6a495e48a9e0123031375494",
+      "bytes": 23271
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/manifest_emu37_refs.json",
+      "sha256": "f183b7c65eafa2f77893f843a799af6939f12961b7ac04ee26eddb23767b9f66",
+      "bytes": 8
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/manifest_heads.json",
+      "sha256": "120e38226893c3bd6fbbbdb07ff6ea4078689eea7fa8468dea465c077abc6327",
+      "bytes": 319122
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/qemu_emu37_refs.json",
+      "sha256": "f183b7c65eafa2f77893f843a799af6939f12961b7ac04ee26eddb23767b9f66",
+      "bytes": 8
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/qemu_heads.json",
+      "sha256": "d370d229ddd49db80ac84c3132684db0ddabdfccf505ed5ccddf89f878a54ea3",
+      "bytes": 13288
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/READ_ONLY_COMMAND_PLAN.json",
+      "sha256": "9dbe3ca543f8f70961e011b67cfd9b70fd6dbbfd3f5588877041251e879c6aff",
+      "bytes": 2188
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/vendor-read-4.txt",
+      "sha256": "d884f769d65a88a4e786e62b4bf91d3437683d13ad8b3836d0c3acd6fa4f1a76",
+      "bytes": 81
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/RETAINED_POLICY_AND_HAL_IDENTITY.json",
+      "sha256": "196ff73b4fb2cbb597ea19bd1688e17c884c827c91a74c014d65c8660b0600cb",
+      "bytes": 2617
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/InRelease.txt",
+      "sha256": "0584fba32e13e0ab8285fb16c27adea1ec03a73669c18702821094fd6ca86675",
+      "bytes": 140421
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/vendor-read-5.txt",
+      "sha256": "82ce459ef6838cfbcc7304eb431aac8ff9de931e715f8637d5ce410629ad8096",
+      "bytes": 389
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/vendor-read-1.txt",
+      "sha256": "e510f70c9e1b963ad2221ae62ffb109b05ed532a89347ee8b946194b17f5ac76",
+      "bytes": 834
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/VENDOR_DIRECTORY_OBSERVATION.json",
+      "sha256": "b93145734fa6acd6fe88c943d1d687b5600ceed397feb156d46f9e07ea01e5b0",
+      "bytes": 3777
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/libext2fs2t64-metadata.txt",
+      "sha256": "b1c13633acdb736f2c70887c860805621e8a04d4ae142b70230720811a9d9e82",
+      "bytes": 742
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/vendor-read-0.txt",
+      "sha256": "d5819493a95d1620d67e07337680796e3515ed6671108a3995bc4bd69219888f",
+      "bytes": 1926
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/SELECTED_VENDOR_FILES.json",
+      "sha256": "59a8b70ecb1e215ae075ac6634c094d1039f663f121cec14dfb5bbec3b3fca1a",
+      "bytes": 4754
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/TOOL_PREFLIGHT.json",
+      "sha256": "e26a14c37da45b73479d6a5f2c9646ef63d7a5d8232661fa673b6d5d7459dbf1",
+      "bytes": 4274
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/RANCHU_SERVICE_IDENTITY.json",
+      "sha256": "7e9d5e32ee0e1e949336426a604e1948bc2127488417e4e2f4386c4d097ecb45",
+      "bytes": 457
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/libss2-metadata.txt",
+      "sha256": "c55423cd2a11eea8b5eb217c9d7436bc7989d07d4f3dec641eadabe647f855cd",
+      "bytes": 714
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/vendor-read-3.txt",
+      "sha256": "5408a31ec9bc515c9d4d5ec46c9aca828d18526a8f2487a177dd0fee5da7d431",
+      "bytes": 2094
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/e2fsprogs-metadata.txt",
+      "sha256": "20a2b1fe66e38fcfb3786a0dc363ac81f641b8bc958d63ed4fd8b1772cb01786",
+      "bytes": 1007
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/PACKAGE_PROVENANCE.json",
+      "sha256": "0a43dca986a2a1f634d04c61f6186b660163b80f4c5781088116b9fab70bc9ec",
+      "bytes": 1988
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/vendor-read-2.txt",
+      "sha256": "fb6220d19dd03fc399707673b714fdc8b0d41e977a205ca18923a2b6cb8e554e",
+      "bytes": 2426
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/EXACT_EXTRACTED_FILES.json",
+      "sha256": "15d36cbdeea99940f6b18c84962d7d01c899a63ded9ac940c1ad6396ab4710d3",
+      "bytes": 3981
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/ranchu-service-ELF-metadata.txt",
+      "sha256": "1486f592fdfa2b191ddda65a4ee3f19af7563bdb69e013b4c66844d9b7a39a3d",
+      "bytes": 4281
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/audio_policy_configuration.xml",
+      "sha256": "58ff1604909396a3b91f6fe5717f0642359f761c212e63ced4e312161b0ddd67",
+      "bytes": 1688
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/ranchu-service-dynamic-symbols.txt",
+      "sha256": "9c34535a8cec58fbc77632099be064efcabf161de3a5fd4e2b1e0cf45a86df48",
+      "bytes": 22464
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/vintf-manifest.xml",
+      "sha256": "926d5b410b82a8143fbf541f02d2a7c20b615dce400d6626bdf52baf1aece96f",
+      "bytes": 4154
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/listing-odm.txt",
+      "sha256": "700ec85f08cec63b4d9a9c5cf872a3f889075d3a1e14ce85423806a6e07fac2e",
+      "bytes": 226
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/primary_audio_policy_configuration.xml",
+      "sha256": "512c56311ac2a27d283363315846dce4c6e9da8b649cdcab03c8cd62cbc01608",
+      "bytes": 2692
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/r_submix_audio_policy_configuration.xml",
+      "sha256": "44aa04e6a3fe674bf22e1e87fee602ca4d42e701740bf96f0101fe6c3b2abe09",
+      "bytes": 2105
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/audio6-ELF-metadata.txt",
+      "sha256": "4af97b26a5de3e13442b347c1bfeb229f45a96056dd6e5b7f8b0bb4415e715dd",
+      "bytes": 4082
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/ranchu-service-targeted-strings.txt",
+      "sha256": "3e5d5aa904954308969ec05e56e6c935a2c31d0660fa44607cd49cf74481b9a8",
+      "bytes": 457
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/audio-service-ranchu.rc.txt",
+      "sha256": "e5fb8620e4057feceee2ddccdca0271233c8933bd21f432fd5a25b9ba1f6716c",
+      "bytes": 425
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/ranchu-service-stat.txt",
+      "sha256": "dd60c8ffd9ae12d9b6c303222cfdc6bca449227a57206fc549c5b652b001ba1c",
+      "bytes": 617
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/listing-etc_init.txt",
+      "sha256": "f135e30a75db3ddbcf6c2b3a5384ed5ea00e3a44f9d4847e421b3ce476aadc42",
+      "bytes": 4498
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/audio6-targeted-symbol-strings.txt",
+      "sha256": "13d80f7b2d5c1f5a3be3fdb0ea6ae67055fae14da4f7531c7617383e39735cc5",
+      "bytes": 7229
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/vendor-build.prop.txt",
+      "sha256": "84a0b126674eb0c46d5cd14f8f49fccd852b6d5a05016f02cef975cd92824522",
+      "bytes": 2208
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/listing-etc_vintf_manifest.txt",
+      "sha256": "14e3ee56246be6937f2edf5e8b2ddafb94e79ba11dceaa3fd685aecfed87c884",
+      "bytes": 3633
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/root/image-reader/selected/audio6-ranchu-manifest.xml",
+      "sha256": "c992a0c28530aa22f469913a565104adb8eb1e770416c1e3939f9c9433497608",
+      "bytes": 324
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/LZ4_RECOVERY.json",
+      "sha256": "c1bea32d8df26e237637d58a6de5e82b6b05d301cb5c6fc2517fb53452f6859b",
+      "bytes": 1173
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/HANDOFF.json",
+      "sha256": "a602993fb42900f439501be985ff4b8bfd28fe1c9bd9fff685327d8ec6e2c0aa",
+      "bytes": 266
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/recovered-kernel-config.txt",
+      "sha256": "5b71a629aa5d5f2f649c91602de22d4cc326cd2896f96e4b7582f6fd621ab806",
+      "bytes": 155964
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/RESULT.json",
+      "sha256": "c863ed712ec14da0be01de612681f81aa54e6f4ad413b7f032a2fabe0dfdc2bc",
+      "bytes": 3285
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/SAVED_MODULE_LOG_TARGETED.json",
+      "sha256": "14f1cc0ec3726555ca196f39647a2b6b0b1289a058d12921069d9e0889385f1f",
+      "bytes": 1424
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/EVIDENCE_MANIFEST.json",
+      "sha256": "0b327504bd8e104038b7e41a706b46061bb1435f556a961bbf497d52b05e35db",
+      "bytes": 1213
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/recover_config_readonly.py",
+      "sha256": "fa9131ba81a8554891942d22e2780f11478da14e6d5d689a043fbecd19482f99",
+      "bytes": 1216
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/EXTRACTION_RECEIPT.json",
+      "sha256": "b5b5b449fab994ee7d2fb368312f9a2ea777fc781be627fcfd79a3f94a3473b4",
+      "bytes": 415
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/ramdisk/RAMDISK_MODULE_QUALIFICATION.json",
+      "sha256": "91270aecacbe31324550a62f83334cf328fa0c83ffd57d85798ac8efbdb64b10",
+      "bytes": 6807
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/ramdisk/ALL_MODULES.json",
+      "sha256": "75d9ba502c6720d8a8664e1f0ce020113ed8889bf8e7414fa478ea6b0b4fcf07",
+      "bytes": 12011
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/ramdisk/INIT_MODULE_INSTRUCTIONS.json",
+      "sha256": "da83e64faeadeb2db54aeb11cd761f421bb5eeaa2831299abe581d3f662db9e0",
+      "bytes": 17885
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/ramdisk/EVIDENCE_MANIFEST.json",
+      "sha256": "9152dc7cc984615c703c5e3bc5d4f55230252dbd1e99cdb412db334bb88107fb",
+      "bytes": 818
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/ramdisk/ALL_ENTRIES.json",
+      "sha256": "7d01d3a91ee64f812708f8d86ca75775bd70136ed1961a16f58a1fdf557a5a84",
+      "bytes": 4673
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/ramdisk/parse_ramdisk_readonly.py",
+      "sha256": "142305639b245cb4c8e7f5ca6d09afe00e1324030b252db74c8402ec5ffb9718",
+      "bytes": 3069
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/ramdisk/MODULE_NAMES.txt",
+      "sha256": "406f67844f071acf810c48cef4eb9f660d9c25310dab48e08a364c68ad956871",
+      "bytes": 1049
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/vendor-probe/RESULT.json",
+      "sha256": "5fcd26958a93d5ecc7781f453210bfc17f461ddd013c25ad55703ef40efbf95b",
+      "bytes": 1276
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/vendor-probe/EVIDENCE_MANIFEST.json",
+      "sha256": "fb39cb0a3df85441fc8df793b1033b9d8b88f4cf15f36f3fe1b996dbcc83b8dc",
+      "bytes": 266
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/runtime/vendor-probe/FORMAT_TOOL_PREFLIGHT.json",
+      "sha256": "afed077aea9aa1e88eea011c61c96b55e943586eb5d44faecc37abc26f5aba36",
+      "bytes": 1494
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/RANCHU_SERVICE_IDENTITY_REVIEW.json",
+      "sha256": "90416f2742929c2a102b317203476a24ded686189e378b61129d6a41e771e2e4",
+      "bytes": 3572
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/audio_policy_audio_policy_configuration.xml",
+      "sha256": "1cff11ed2986788d847e19755a293b4427daeb00df20e118199dedf65f446607",
+      "bytes": 1577
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/audio_talsa.cpp",
+      "sha256": "97751cfbdc82ca541c18d8fde41d34475cb429095e45a081aff1b8ea58906e5a",
+      "bytes": 2974
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/QUALIFICATION.json",
+      "sha256": "d491b6585487316f991dccb17e395bc65661ccda2119f124731734e1d0a0a7d5",
+      "bytes": 4964
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/audio_policy_primary_audio_policy_configuration.xml",
+      "sha256": "bc7bdbf52c2fab75c2af1da8e3004e054e9f6e19690040e6843d9958c84fdf19",
+      "bytes": 1289
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/TARGETED_REVIEW_SUPPLEMENT.json",
+      "sha256": "df9a8c86b9165343897c1d2698d86ed8cbb7f912dd55f8b36c3b426d9225b504",
+      "bytes": 3075
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/ACTUAL_POLICY_SOURCE_COMPARISON.json",
+      "sha256": "b7d78f636a9b4326fdd9e5d2e036d8fc04ebca3e08b139a92744418205ece334",
+      "bytes": 6002
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/audio_stream_common.cpp",
+      "sha256": "c1be0020867575639892d2c59412d52c3f20915142bcc7403325f059e7b742a9",
+      "bytes": 3429
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/SUPPLEMENT_MANIFEST.json",
+      "sha256": "6fe2c2db573ceca578d18a254a0d6a6a658d89af43f6eab06f37a2adda4e21ec",
+      "bytes": 391
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/supplement_util.cpp",
+      "sha256": "8de2e0dcbcd438f1ab0cc3feaf0334d0ee8139994ab092e075e0b220c9a1dfc6",
+      "bytes": 5232
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/SUPPLEMENT_FETCH.json",
+      "sha256": "08b67cebfbb20e9503a79b4627fdad628043d930dd77b7cb63b6aa37bfb9798b",
+      "bytes": 238
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/EVIDENCE_MANIFEST.json",
+      "sha256": "df654ddbd058580b57a532c2a92475526d638682832c056fb67a32e4eb6a3ac4",
+      "bytes": 2516
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/goldfish_opengl_audio_tree.json",
+      "sha256": "2890a815bfed881be125cd62615055a78f701f1039fe95100336cad255eb7f73",
+      "bytes": 2287
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/goldfish_audio_android11_tree.json",
+      "sha256": "1652aa41f3a3e5693003447bf8ed8a897230438fb24ea1691773354900248efb",
+      "bytes": 3355
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/audio_primary_device.cpp",
+      "sha256": "44ec5f818825a509fe4a69146f4eb8a37e88a879858253ea83c580938f20b523",
+      "bytes": 12014
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/audio_talsa.h",
+      "sha256": "6459dcd51a22aeff2a1e69ebd6592a08dc6977c98f9ca9b3a65e67a356753d75",
+      "bytes": 1630
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/android11_commit.json",
+      "sha256": "5fba3a76d4a1c7d89277fe27c53a3c0c4c70346c718bf629256878ac1046fb6b",
+      "bytes": 719
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/goldfish_android11_tree.json",
+      "sha256": "95c63eee666074621f9b534a11b650eddb1d608cda1cdf6d6658f241e6807e35",
+      "bytes": 8789
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/audio_stream_out.cpp",
+      "sha256": "ce95ef7f1d026dc55dce6649d4ac5ffdaa278147e9d0c23d861acdc4f929580c",
+      "bytes": 16103
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/FETCH_LOG.json",
+      "sha256": "ecdc68fc65edccd6fb76963bb73dc78972e538986630da615d0a677fbf2c521d",
+      "bytes": 5105
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/BACKUP_TEXT_SUPPLEMENT_MANIFEST.json",
+      "sha256": "351186a460cea13f40518efdb3b375b4d7c93054d9b6da5013ea013caf7c1cbd",
+      "bytes": 778
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/RANCHU_SERVICE_IDENTITY_REVIEW_MANIFEST.json",
+      "sha256": "b52836616f645473162aceb8c377b0aed209bcca0ad2a324c93ed807f54c059a",
+      "bytes": 148
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/openfs.c",
+      "sha256": "28fcd43121cf0cc8a1c77eb2178550eb50afe6493f1f88cc3bbfab15a10738a1",
+      "bytes": 16833
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/unix_io.c",
+      "sha256": "ef41a8d17135b7fafd15bcf9d73b3339c257cd329aae2442689f9fe844a2e27b",
+      "bytes": 37257
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/debugfs.c",
+      "sha256": "f863f3cf7ef24145edba40fd0afea4ebaf335434c5fee4313efa2cef02c54e7d",
+      "bytes": 66144
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/EVIDENCE_MANIFEST.json",
+      "sha256": "2235ca3771fccad2f747c6bb1a0c9165b771c285d51863e57c6ce79ae81d034b",
+      "bytes": 842
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/READ_ONLY_OFFSET_QUALIFICATION.json",
+      "sha256": "7564f5dcab00538bc5f23eccf51621652b6dcbc68da940a3844aea989f6b6261",
+      "bytes": 2451
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/FETCH_LOG.json",
+      "sha256": "9a5f0226b8b66fb906d0eabc1e156b5c706a87875f777d5820cbb75412998e28",
+      "bytes": 912
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/version1472/openfs.c",
+      "sha256": "c9595278b9dab792a435ee7123b43afe2474851d8048fb8a67731059748e497f",
+      "bytes": 17047
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/version1472/OFFSET_SUPPLEMENT.json",
+      "sha256": "f9fca5436da056ff19c77f95e6467590482f9457972d65886784452bc649452b",
+      "bytes": 1303
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/version1472/unix_io.c",
+      "sha256": "cb1d5e2eca8d7327534cfc64c1024cf05b4fd2ff13448b88be9c1a95391a718c",
+      "bytes": 36943
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/version1472/EVIDENCE_MANIFEST.json",
+      "sha256": "fb6b849b24d2ec88f07901836a5e6c182423628f43bee3a6025d786a843654d2",
+      "bytes": 556
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/image-reader/version1472/FETCH_LOG.json",
+      "sha256": "eb312871c8e296191839631c49e9826251e63f5c24ee12683570f33783178202",
+      "bytes": 456
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/backup-text/vendor.mk.txt",
+      "sha256": "2d238cf0829919323fdb5d7c32333f116ed4c0f4c107ff85932b700132fe7d5f",
+      "bytes": 14729
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/backup-text/x86_64-vendor.mk.txt",
+      "sha256": "60b71d4ac892b85e10781b479784b53859b370ce50dc18c580803a66950183cb",
+      "bytes": 3208
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/backup-text/audio_Android.bp.txt",
+      "sha256": "3b198de9a1e30b1a6ae9ba29f5092d3b3845e294b9b11b8658907234aca9ebbd",
+      "bytes": 1564
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/backup-text/audio_policy.txt",
+      "sha256": "a4a1fbf437cf8628d71273dc6a4b5a27c1046981aee477fa00d848c611694784",
+      "bytes": 405
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/guest-source-followup/reference/backup-text/ORIGINAL_PATH_MAP.json",
+      "sha256": "aa1ef229beab5cbd73fabc4058a6153d90999c2f8798b5cb2d47e804d135ef17",
+      "bytes": 1378
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "327908ffdaaed8274d9dde409de1a81217ead3c5d9c8e8fd37b8d4020752629d",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
