@@ -1,0 +1,67 @@
+{
+  "capture_utc": "20261024T073559Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 15387,
+      "sha256": "e520b94b30eaa2a737670ef666074fbda9bb5f74382c51b074c3046736504ca0"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/continuity/RECOVERY_CHECKPOINT.json",
+      "sha256": "75f22cd9a9067d4d6a8b9ea82b225a4589f7f72b3f590769ac755c64511b66b9",
+      "bytes": 4692
+    },
+    {
+      "path": "cairodrive-research/continuity/FALLBACK_AND_STEPS.md",
+      "sha256": "1d1b7ec9737d176b231dd00bb973f954c5f52e3e389ce4ebf553dc86e5944b60",
+      "bytes": 14486
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_LATEST_AUDIO_RESEARCH.json",
+      "sha256": "f880b766727dfe47bf6df0e32468aad220b7d727de7c41c3b2350b026b110603",
+      "bytes": 2566
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/RECOVERY_CHECKPOINT_SUPERSEDED_20261024.json",
+      "sha256": "bf024cc8c09dcce83256eed1a22a1902f6a50a121b769b0ca35fbfbca9cc6c85",
+      "bytes": 4215
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/HANDOFF.json",
+      "sha256": "ba77be4d76f90969fc9372c22d4705578ed5cf50da9aad3b109122e7f72bcaf7",
+      "bytes": 1989
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/RESULT.json",
+      "sha256": "4617742b1111c8534a6bd436c91693e013f2fb10628323bd47f12a6e4a407f54",
+      "bytes": 3104
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/EVIDENCE_MANIFEST.json",
+      "sha256": "c60d67e9491f5c2bc929da046a537895bbdf07f8632855be98f9e75abd5ebc38",
+      "bytes": 4901
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/EXACT_STATUS_LISTS.json",
+      "sha256": "5613a736da179767b350d100fdccd1c6e99666ede92fffa8effbca2936cf2e5f",
+      "bytes": 2728
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/review/REMOTE_BACKUP_INDEPENDENT_REVIEW.json",
+      "sha256": "f1d2d75d995184f253049c88b065236bb99e74b211f828bf176568098740e37d",
+      "bytes": 1509
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/review/REMOTE_BACKUP_VERIFIED.json",
+      "sha256": "0ac42e542024c5805bd4b885ba6418dde1c6586d150d4d2f5bd22f3b1a9d5c02",
+      "bytes": 1295
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "e520b94b30eaa2a737670ef666074fbda9bb5f74382c51b074c3046736504ca0",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
