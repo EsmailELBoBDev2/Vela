@@ -1,0 +1,367 @@
+{
+  "capture_utc": "20261024T121651Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 281714,
+      "sha256": "7fce6f6e779fbe89452266730e53c64fc07f23ebb7aa0f098766c37b3274bb5d"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/continuity/RECOVERY_CHECKPOINT.json",
+      "sha256": "0e30302bda6ca155f3e7e7cb8833cef5647d1b9b49b0dc429320395f7dadf13b",
+      "bytes": 7123
+    },
+    {
+      "path": "cairodrive-research/continuity/FALLBACK_AND_STEPS.md",
+      "sha256": "7031dab3ffaf8bc48d649d44f5c78a05a2bd5eac6bfb6a02762ff67d0a03b6c0",
+      "bytes": 17715
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/ROUND4_BACKUP_COVERAGE_AUDIT.json",
+      "sha256": "18fab12a51663ac4a52ad8d69fd2de52d5c47a3a4484ecbe90482eb0c2691832",
+      "bytes": 29218
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/ROUND4_RESUME_POINTER_AUDIT.json",
+      "sha256": "adbd2b20bd017cd4d2c2ae28c1b07c555c8cd3db79312e04b78913da6beb97b9",
+      "bytes": 4035
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/ROUND4_RESUME_EVIDENCE_AUDIT.json",
+      "sha256": "028538b93677e1525ec2dee8dd093c63f609a886271172235b7ef8eada776fd4",
+      "bytes": 10558
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/RECOVERY_BEFORE_ROUND4_RECONCILE_20261024T121609Z.json",
+      "sha256": "a0f9b75efeccc080811ea81b574f0f1891f32f25a7c60a09890e99a24fcb637e",
+      "bytes": 5565
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/ROUND4_RESUME_POINTER_POSTFIX_REVIEW.json",
+      "sha256": "2a2c3ee8f6c50f6bf227b8c16849c4d8a30797286fb43dfcd4bbba0b12f65245",
+      "bytes": 931
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_LATEST_AUDIO_RESEARCH.json",
+      "sha256": "6bcc58dd9511f31008cf0b56c96fa7ab8e3270f97fa79c1ab690b1b444d6d398",
+      "bytes": 3161
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/METHODS.json",
+      "sha256": "788349f23a1f022e7cda958321390b61f88e5b2243634d85962d8ed9b462b53b",
+      "bytes": 15997
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/HANDOFF.json",
+      "sha256": "edad41f4d1007b8bcd47f6c1c47ba55913a571fb783a3c953b402e09a747816f",
+      "bytes": 645
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/RESULT.json",
+      "sha256": "442203ae4660e28c3a07bc416404febcdb90373105a995a9c8e881234c28f15b",
+      "bytes": 1630
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/EVIDENCE_MANIFEST.json",
+      "sha256": "b26ef825f30252a1e01203532a95a9c4e0962de75fabda3a0716df5d2600b0bd",
+      "bytes": 9812
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/EXACT_LISTS.json",
+      "sha256": "a8dea2ef8031f943ab882fb7098101c494485b8a646e57ed398ae6d0648fa759",
+      "bytes": 1422
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/android11-AudioRecordingConfiguration.java",
+      "sha256": "27670fe71506354017e2f7ca9cdfad72b15409f59598c446bafdc76a29df9c75",
+      "bytes": 17204
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/SDL2-2.30.3-pulse.c",
+      "sha256": "d9d82f7937bf023b40c84808e36ac13a5306b13009c3760c19dafb212e29439a",
+      "bytes": 38993
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/DEDUP_INDEX.json",
+      "sha256": "38c1cf7582b2e859debc1426ff0d1289ca40dd8b797714f8c79c0af28e7a0ffc",
+      "bytes": 1031
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/gst1.26-audiobasesrc.c",
+      "sha256": "47523d5de4559fb96ab086a679671cf5731a39dc7084ae75d79ecb585a1c64b6",
+      "bytes": 40443
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/SEARCH_RECEIPT_b.json",
+      "sha256": "ed4f1da79b6760ee75321e36fd3acc3187e36c45ff285ffa72f66662f11bf71f",
+      "bytes": 32044
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/RESULT.json",
+      "sha256": "3a51d91c669da845b4312dfb69ade27302043123c863269206f994ddc297e6e6",
+      "bytes": 412
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/EVIDENCE_MANIFEST.json",
+      "sha256": "9f6259066972703e2b38fa822f53fbbe9f58c5dc6183481921ede80800f3d58e",
+      "bytes": 1721
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/HEADLESS_SUPPLEMENT_REVIEW.json",
+      "sha256": "f385d41e41eee16220dcc12ab471b2b9621914d10ab8d9cedfba5fafd306b0f2",
+      "bytes": 1970
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/CROSS_REVIEW.json",
+      "sha256": "c3e7eaf9151cbf9dec780f1999dad8b71ee66d3ec032a109bb3249ea157bdaaa",
+      "bytes": 604
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/SEARCH_RECEIPT_a.json",
+      "sha256": "1467a0b9da101a956d232a59cea40efc7916be9fc096256e2ca58a8b508f7ae2",
+      "bytes": 34251
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/CROSS_REVIEW_FINAL.json",
+      "sha256": "108401268c5b3d4722694e1cbe2c7880edde0fabe95197a6dfda56b5d751be8d",
+      "bytes": 2682
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/SEARCH_LOG.json",
+      "sha256": "3ba20e3d56595c123d14d1a1ee05b62990b713e996123b15601f4214fd335f51",
+      "bytes": 770
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/METHOD_CARDS.json",
+      "sha256": "89010392a1d3ddaf8f86da063ad3ade7321ba3b68da40d6023a309be903ff8a6",
+      "bytes": 3561
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/review/FETCH_LOG.json",
+      "sha256": "89597b668e98c3c588703f700c51a1e3a37b2a00a50b8840e882eaf3ca8c6c15",
+      "bytes": 883
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/r4r4.json",
+      "sha256": "02d3d8e0451452902e707beb6d60fa407732dd903f02ce970b82ba6910a6e180",
+      "bytes": 31417
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/r4open.json",
+      "sha256": "e7e33f82b815e3551fd5d6c916ea76f9ed7ae38c492c6ccaf4e3e7d7e443920d",
+      "bytes": 27270
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/r4r3.json",
+      "sha256": "39d4e68360a9972ffe5073468759334598087f6331f2dbc096324de4d70c651e",
+      "bytes": 31888
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/r4threads.json",
+      "sha256": "667d70847c751aa02f5d133f688b03c6b6c10aaa4ea791b1993d96f7ea867494",
+      "bytes": 4617
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/r4index2.json",
+      "sha256": "36d9246bc1caf57d71db574804c7016eb2799663f0698c1cc918c113fce1743a",
+      "bytes": 3220
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/r4headless.json",
+      "sha256": "658cd5974c462a9125e45539595b169cbaea700502ce8f3b981bccd88c812e83",
+      "bytes": 620
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/EVIDENCE_MANIFEST.json",
+      "sha256": "a4e32aef288e2ac93904f793b6f1e69a7aed0feb154e1897b852df455bb44294",
+      "bytes": 1657
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/r4r2.json",
+      "sha256": "b68f040ce1cabb0f3bc4e0e1936cfc0d0b68a27de573d18cab54f9f21dec5f0d",
+      "bytes": 33322
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/DEDUP_REVIEW.json",
+      "sha256": "9cc1354f221ba411b96c7c7843096c6b10b71fa107fb54eed951771aeaf3a237",
+      "bytes": 1872
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/r4index3.json",
+      "sha256": "b23dc7dae1acecd0b30399d456b79c68bb9d1ddcf46a9eee522d3b3440c01d94",
+      "bytes": 23244
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/SEARCH_LOG.json",
+      "sha256": "ab07b36cbc2a6237a48ba7d257b9645492101b1e91fd5ee76a21b48e956d2de4",
+      "bytes": 1503
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/METHOD_CARDS.json",
+      "sha256": "f04067c0659db51a3a234354e21521f03623ef05e405f65a8663a6c4ba16d168",
+      "bytes": 4132
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/community/r4r.json",
+      "sha256": "1b13b5905b0d8c26f56ae20123f8fa8c6ab0f42e7b020baf4c24e6ff603d00ef",
+      "bytes": 31629
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/HEADLESS_THREAD_SUPPLEMENT.json",
+      "sha256": "868a73b563ae9452c34d940193f1edd5cfb327638ef59e5662c39926a8fb1d5e",
+      "bytes": 1602
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/HEADLESS_THREAD.json",
+      "sha256": "1113132bc058cd44c3f8cce6b042bfadf5148800f6bbf45cd9abee9089f9d0b1",
+      "bytes": 48583
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/bandwidth.html",
+      "sha256": "5318e91db3055215f1779d18b1312cce66e909445180a149b24972ec51e3562d",
+      "bytes": 23168
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/headless-032333.html",
+      "sha256": "15a5b2b8bf603351691ac1b3df1a3ab1e43d138c846b63f1604a5ff670914f7a",
+      "bytes": 33986
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/cgroup-v6.8.html",
+      "sha256": "4bdb4d76f8407f0159b38bab66d140923cfb4773f86622e58130c69838e76c09",
+      "bytes": 159978
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/search2.json",
+      "sha256": "0aa9870ff45630ec41b9413700ba61dd6b39320feaa513562613eb118dfe5ec9",
+      "bytes": 33692
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/mlock.html",
+      "sha256": "a85b6353ffe650837dd9c216d727fef04eb4321b0e3affd1b947d475ba2c6459",
+      "bytes": 24302
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/HEADLESS_FOLLOWUP_SEARCH.json",
+      "sha256": "62edb3f2b94de8dff8b1a1169a8b2512e4d16feed35800152ba9ba566eb75021",
+      "bytes": 30845
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/RESULT.json",
+      "sha256": "e411e25a7aa772d435decf8c345f46daa6c564b326fc037bfe80774010651c64",
+      "bytes": 801
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/psi.html",
+      "sha256": "f752c8d5447760a315048037eb8f53007f8e4862d58617264f587cccd8798258",
+      "bytes": 19726
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/search1.json",
+      "sha256": "55d055c8f2463d3f64b33d90a6a72425c7d5177225953cf9ee960c881fa106cb",
+      "bytes": 33650
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/pulse17-daemon.html",
+      "sha256": "35868593bfa9455ded0a77dfabb31da58c3d988205316c28436b0b11af230ce5",
+      "bytes": 45933
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/headless-032332.html",
+      "sha256": "747e9732ac7bdf7a7670bdd814f5ec5d1160bec40f20281619e2dadad0d3bd18",
+      "bytes": 29071
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/2022-October-index.html",
+      "sha256": "46fabd5beea09b84e22a4959f54dfd2e33c6fe6c41f69c27ca438919e2cce246",
+      "bytes": 3409
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/SEARCH_LOG.json",
+      "sha256": "b8b714a4be9ae32445d9e502ec3c7fc8ec2ff5d3613e5caa75f104b3fd2aba81",
+      "bytes": 1387
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/METHOD_CARDS.json",
+      "sha256": "7422712c913330add150d15b5a9409a31e331f7b2eabdc769f3d3048f8a58c22",
+      "bytes": 3159
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/headless-032334.html",
+      "sha256": "5ed0280e9b74696a05f77b3eb219fef426722f5745b4238c52833a7cba7fbbac",
+      "bytes": 21410
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/FETCH_LOG.json",
+      "sha256": "b618d6bc204a781ac0c5df44c9aa08498830587136b6916319f8c4502f6d4c93",
+      "bytes": 1442
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/WEB_OPEN.json",
+      "sha256": "7c5c07ce72c3c11d9478bb0d8de6059ba5ec81ef9f6555eac121a55e341f7994",
+      "bytes": 33554
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/2022-November-index.html",
+      "sha256": "3ca0c0547da480e28cc92bc4a3bc351be5a063ba7bbc6d7f8478143d77bf4e52",
+      "bytes": 2729
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/root/headless-032335.html",
+      "sha256": "411cf52c4f2308316772f980c27fc2d2f9f02b2f76601c1cf0e9aef5fa3cc20e",
+      "bytes": 25427
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/hal/android11-release_stream_out.cpp",
+      "sha256": "ce95ef7f1d026dc55dce6649d4ac5ffdaa278147e9d0c23d861acdc4f929580c",
+      "bytes": 16103
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/hal/android14-dev_device_port_source.cpp",
+      "sha256": "75fce5aa48420043a8c933adb0cf60243b81ddaddefbb2bbd66d0a1644b5eedb",
+      "bytes": 17665
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/hal/android11-release_talsa.cpp",
+      "sha256": "97751cfbdc82ca541c18d8fde41d34475cb429095e45a081aff1b8ea58906e5a",
+      "bytes": 2974
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/hal/RESULT.json",
+      "sha256": "2facaeb94a5594f17cd6234348a32e135fb0b32ce6881e0546d79108708d998b",
+      "bytes": 1184
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/hal/SOURCE_FETCHES.json",
+      "sha256": "bc3b733f67144f914de8a9e9aa364b741e40274695c7beeb20591ec79d753212",
+      "bytes": 4603
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/hal/EVIDENCE_MANIFEST.json",
+      "sha256": "24949eb1b8f3b410ae7a884f2902a388ecee87b4edb9827878b81e6221a8172d",
+      "bytes": 1106
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/hal/SEARCH_RECEIPT.json",
+      "sha256": "36019ef07988feb502f4d0f4f5a3b8b1a1c41eee81ef9e572f39272460a23c66",
+      "bytes": 30964
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/hal/METHOD_CARDS.json",
+      "sha256": "f617ee44699d3bc561c9a9d0d087b9791ea2b429d958f7d9d66f9c13f98b6fd2",
+      "bytes": 3981
+    },
+    {
+      "path": "cairodrive-research/work/audio-candidate-qualification/online-round4/hal/android14-dev_device_port_sink.cpp",
+      "sha256": "6fbfcce15bd9712b0ab6282006b870132a2b0833b7a01b7dbaf70e5b5d18b251",
+      "bytes": 16941
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "7fce6f6e779fbe89452266730e53c64fc07f23ebb7aa0f098766c37b3274bb5d",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
