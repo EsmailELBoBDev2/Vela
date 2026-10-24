@@ -1,0 +1,87 @@
+{
+  "capture_utc": "20261024T032246Z",
+  "baseline_cutoff_utc": "2026-10-13T19:38:36.953601+00:00",
+  "kind": "incremental research overlay; apply ALL periodic folders in chronological order over verified complete baseline",
+  "parts": [
+    {
+      "name": "research-delta.tar.gz.part-0000",
+      "bytes": 12005,
+      "sha256": "ee3f4a0b8497e2e2da9e9f02ba458646740d71462035826cb899ccc58281f4d3"
+    }
+  ],
+  "members": [
+    {
+      "path": "cairodrive-research/RESUME_STATE.json",
+      "sha256": "18b10686b04e271e356565ecd56b98a5ef75e11c8f7302fd686d2c7df05414a8",
+      "bytes": 2125
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ATD30_ACTUAL_INDEPENDENT_IDENTITY.json",
+      "sha256": "76ca606e4d18f4b4a01c9a2289f04958f2487caf6fab614101a816f1c20056e3",
+      "bytes": 713
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ONLINE_AUDIO_FOLLOWUP_20261024.json",
+      "sha256": "967a0ca2ba5d654c6358937c4aaa337177db513cff87a56f64c6cdc2dc0f69ca",
+      "bytes": 1214
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_GOOGLE_APIS_COMPAT_HOST_RECHECK.json",
+      "sha256": "e4ae1c22f03c9a7ac8fe46923a7fc02c48a7995591b007ee7e666467c0a65caa",
+      "bytes": 4467
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GOOGLE30_INDEPENDENT_PRELAUNCH_REVIEW.json",
+      "sha256": "1cd7d9e510e177e54795636eae8a5dce6ef78d849e6540ded5c22a15adc41787",
+      "bytes": 784
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_TOUCH150_CAPTURE_INDEPENDENT.json",
+      "sha256": "386b3a0ac07de88ba9ed6064c94f7660d95daa4c409c62ab01545b29c113a933",
+      "bytes": 2393
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_TOUCH150_RAW_GAPS_INDEPENDENT.json",
+      "sha256": "fb0382d4d66efbd15dc17339b3969e5c7e34bcae7115fefea8322a0663047f84",
+      "bytes": 988
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ATD30_INIT_PROVISIONING_INDEPENDENT_REVIEW.json",
+      "sha256": "31b95ec6981c53e2a68f5c9cfb78ab2cb5a819d787b2fffa22fc3ba29b82d146",
+      "bytes": 1983
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_GOOGLE30_INIT_PROVISIONING_INDEPENDENT_REVIEW.json",
+      "sha256": "d64d376356dfcf22dfd051e9e5955c1045db6524a6e21afab68b226e72f24ebc",
+      "bytes": 4054
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API30_CAPTURE_INDEPENDENT_REVIEW_PLAN.json",
+      "sha256": "2ae70e61cbe6ef4e125eff504dad5421fe21c597c71b427564caa9d403803777",
+      "bytes": 1727
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_API33_TOUCH150_WINDOW_INDEPENDENT.json",
+      "sha256": "cb8945ed79eaea242fd622617beafe2e55fb82ca37e0b0777fde1d1b67d1c84f",
+      "bytes": 1364
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_AUDIO_WORKAROUND_QUEUE.json",
+      "sha256": "fbe263a746a4630f3fb0d3080a817b8af7b9fbd9d8086eca718c48841e7f5ee1",
+      "bytes": 6696
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ATD30_INDEPENDENT_PRELAUNCH_REVIEW.json",
+      "sha256": "a7201ac83510b5b1c82ea4d6354886a9ddc8d1c56fa1e36baba90e1dd15fec02",
+      "bytes": 1215
+    },
+    {
+      "path": "cairodrive-research/continuity/admin/TOOLS_ONLINE_CAPTURE_WORKAROUNDS_20261024.json",
+      "sha256": "1795ee85ee8b318297526dd99ae832182be3f425222c18aeb46d7aee0bcfe61d",
+      "bytes": 1163
+    }
+  ],
+  "skipped_unstable": [],
+  "archive_sha256": "ee3f4a0b8497e2e2da9e9f02ba458646740d71462035826cb899ccc58281f4d3",
+  "restore": "Verify all parts, concatenate numbered parts, verify archive SHA/member hashes, extract under /workspace over restored baseline in chronological capture order. No auth/session state included. Restore does not recreate live processes. Read checkpoints and restart verified guard/scheduler only after checking locks; authenticate separately."
+}
